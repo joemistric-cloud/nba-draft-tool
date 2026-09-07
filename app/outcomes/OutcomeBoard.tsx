@@ -27,7 +27,7 @@ const OUTCOME_STYLES: Record<Outcome, { zone: string; badge: string; title: stri
   Bust:  { zone: "border-red-800/40 bg-red-950/30",         badge: "bg-red-900/60 text-red-300",         title: "text-red-400"     },
 };
 
-const POSITIONS = ["PG", "SG", "SF", "PF", "C"] as const;
+const POSITIONS = ["PG", "SG", "SF", "PF", "C", "Wing"] as const;
 
 const SUGGESTED_TAGS = [
   "Shot creation", "Playmaking", "Athleticism", "Defense",
