@@ -195,17 +195,45 @@ export default function BigBoard({ initialProspects }: { initialProspects: Prosp
 
   const sensors = useSensors(useSensor(PointerSensor));
 
-  const handleDragEnd = useCallback((event: DragEndEvent) => {
-    const { active, over } = event;
-    if (!over || active.id === over.id) return;
-    setProspects((prev) => {
-      const oldIndex = prev.findIndex((p) => p.id === active.id);
-      const newIndex = prev.findIndex((p) => p.id === over.id);
-      return arrayMove(prev, oldIndex, newIndex);
-    });
-    setHasChanges(true);
-    setSaved(false);
-  }, []);
+  const query = search.trim().toLowerCase();
+  const visible = prospects.filter((p) => {
+    if (showUnassigned && p.position) return false;
+    if (query) return (
+      p.name.toLowerCase().includes(query) ||
+      (p.school ?? "").toLowerCase().includes(query)
+    );
+    return true;
+  });
+
+  const handleDragEnd = useCallback(
+    (event: DragEndEvent) => {
+      const { active, over } = event;
+      if (!over || active.id === over.id) return;
+
+      setProspects((prev) => {
+        // Reorder within the currently-visible id list (this must match
+        // SortableContext's `items`, which is also `visible`-based) —
+        // then splice that new order back into the full array, leaving
+        // any filtered-out prospects exactly where they were.
+        const visibleIds = visible.map((p) => p.id);
+        const oldVisIndex = visibleIds.indexOf(active.id as string);
+        const newVisIndex = visibleIds.indexOf(over.id as string);
+        if (oldVisIndex === -1 || newVisIndex === -1) return prev;
+
+        const reorderedVisibleIds = arrayMove(visibleIds, oldVisIndex, newVisIndex);
+        const byId = new Map(prev.map((p) => [p.id, p]));
+        const visibleIdSet = new Set(visibleIds);
+        let visPointer = 0;
+
+        return prev.map((p) =>
+          visibleIdSet.has(p.id) ? byId.get(reorderedVisibleIds[visPointer++])! : p
+        );
+      });
+      setHasChanges(true);
+      setSaved(false);
+    },
+    [visible]
+  );
 
   const handleSave = async () => {
     setSaving(true);
@@ -234,16 +262,6 @@ export default function BigBoard({ initialProspects }: { initialProspects: Prosp
 
   const assignedCount = prospects.filter((p) => p.position).length;
   const unassignedCount = prospects.length - assignedCount;
-
-  const query = search.trim().toLowerCase();
-  const visible = prospects.filter((p) => {
-    if (showUnassigned && p.position) return false;
-    if (query) return (
-      p.name.toLowerCase().includes(query) ||
-      (p.school ?? "").toLowerCase().includes(query)
-    );
-    return true;
-  });
 
   return (
     <>
@@ -297,28 +315,28 @@ export default function BigBoard({ initialProspects }: { initialProspects: Prosp
 
       {/* Table */}
       <div className="overflow-x-auto">
-        <table className="w-full text-sm">
-          <thead>
-            <tr className="border-b border-gray-800 text-gray-400 text-left">
-              <th className="pb-3 pr-2 w-6" />
-              <th className="pb-3 pr-4 font-medium w-10">#</th>
-              <th className="pb-3 pr-6 font-medium">Player</th>
-              <th className="pb-3 pr-6 font-medium">School / Club</th>
-              <th className="pb-3 pr-4 font-medium">Pos</th>
-              <th className="pb-3 pr-6 font-medium">Risk</th>
-              <th className="pb-3 pr-6 font-medium">Draft Range</th>
-              <th className="pb-3 font-medium">Description</th>
-            </tr>
-          </thead>
-          <DndContext
-            sensors={sensors}
-            collisionDetection={closestCenter}
-            onDragEnd={handleDragEnd}
+        <DndContext
+          sensors={sensors}
+          collisionDetection={closestCenter}
+          onDragEnd={handleDragEnd}
+        >
+          <SortableContext
+            items={visible.map((p) => p.id)}
+            strategy={verticalListSortingStrategy}
           >
-            <SortableContext
-              items={prospects.map((p) => p.id)}
-              strategy={verticalListSortingStrategy}
-            >
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="border-b border-gray-800 text-gray-400 text-left">
+                  <th className="pb-3 pr-2 w-6" />
+                  <th className="pb-3 pr-4 font-medium w-10">#</th>
+                  <th className="pb-3 pr-6 font-medium">Player</th>
+                  <th className="pb-3 pr-6 font-medium">School / Club</th>
+                  <th className="pb-3 pr-4 font-medium">Pos</th>
+                  <th className="pb-3 pr-6 font-medium">Risk</th>
+                  <th className="pb-3 pr-6 font-medium">Draft Range</th>
+                  <th className="pb-3 font-medium">Description</th>
+                </tr>
+              </thead>
               <tbody>
                 {visible.map((p, i) => (
                   <SortableRow
@@ -330,9 +348,9 @@ export default function BigBoard({ initialProspects }: { initialProspects: Prosp
                   />
                 ))}
               </tbody>
-            </SortableContext>
-          </DndContext>
-        </table>
+            </table>
+          </SortableContext>
+        </DndContext>
       </div>
 
       {/* Player panel */}
