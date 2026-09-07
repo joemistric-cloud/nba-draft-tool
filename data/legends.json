@@ -1,0 +1,140 @@
+[
+  {
+    "id": "tracy-mcgrady",
+    "name": "Tracy McGrady",
+    "aliases": ["T-Mac", "TMAC", "T MAC", "TRACY MCGRADY"],
+    "is_legend": true,
+    "draft_year": 1997,
+    "position": "SG/SF",
+    "school": "Mount Zion Christian Academy",
+    "nationality": "USA",
+    "description": "Elite scoring wing with exceptional size, creativity, and shot-making ability. One of the most naturally gifted offensive players in NBA history.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 79.5,
+      "height_with_shoes": 80.5,
+      "wingspan": 84.0,
+      "weight": 210,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 107.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  },
+  {
+    "id": "kevin-garnett",
+    "name": "Kevin Garnett",
+    "aliases": ["KG", "KEVIN GARNETT", "KG2"],
+    "is_legend": true,
+    "draft_year": 1995,
+    "position": "PF/C",
+    "school": "Farragut Career Academy",
+    "nationality": "USA",
+    "description": "Elite two-way big with extraordinary length, motor, and defensive versatility. Redefined the power forward position.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 82.0,
+      "height_with_shoes": 83.0,
+      "wingspan": 87.0,
+      "weight": 240,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 109.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  },
+  {
+    "id": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "aliases": ["Kobe", "KOBE", "KOBE BRYANT"],
+    "is_legend": true,
+    "draft_year": 1996,
+    "position": "SG",
+    "school": "Lower Merion High School",
+    "nationality": "USA",
+    "description": "Elite two-way shooting guard with unmatched work ethic, footwork, and competitive drive. One of the greatest scorers in NBA history.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 77.0,
+      "height_with_shoes": 78.0,
+      "wingspan": 82.0,
+      "weight": 212,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 103.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  },
+  {
+    "id": "vince-carter",
+    "name": "Vince Carter",
+    "aliases": ["VC", "Vince", "VINCE CARTER", "Half Man Half Amazing"],
+    "is_legend": true,
+    "draft_year": 1998,
+    "position": "SG/SF",
+    "school": "North Carolina",
+    "nationality": "USA",
+    "description": "Freakish athleticism combined with polished offensive skill and an elite jumper. Transcendent dunker and elite mid-range scorer.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 78.0,
+      "height_with_shoes": 79.0,
+      "wingspan": 83.0,
+      "weight": 220,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 105.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  },
+  {
+    "id": "lebron-james",
+    "name": "LeBron James",
+    "aliases": ["LeBron", "LEBRON", "LBJ", "LEBRON JAMES", "King James"],
+    "is_legend": true,
+    "draft_year": 2003,
+    "position": "SF/PF",
+    "school": "St. Vincent-St. Mary High School",
+    "nationality": "USA",
+    "description": "Physically dominant playmaking forward with elite vision, strength, and basketball IQ. The most complete player in NBA history.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 80.0,
+      "height_with_shoes": 81.0,
+      "wingspan": 87.0,
+      "weight": 250,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 108.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  },
+  {
+    "id": "kevin-durant",
+    "name": "Kevin Durant",
+    "aliases": ["KD", "KEVIN DURANT", "KD35", "Durant"],
+    "is_legend": true,
+    "draft_year": 2007,
+    "position": "SF/PF",
+    "school": "Texas",
+    "nationality": "USA",
+    "description": "Impossibly skilled scorer with elite length for his position. Near-unguardable from anywhere on the floor.",
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": 81.0,
+      "height_with_shoes": 82.0,
+      "wingspan": 88.0,
+      "weight": 240,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": 110.0,
+      "vertical_no_step": null,
+      "vertical_max": null
+    }
+  }
+]
