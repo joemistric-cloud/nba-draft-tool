@@ -27,16 +27,7 @@ const OUTCOME_STYLES: Record<Outcome, { zone: string; badge: string; title: stri
   Bust:  { zone: "border-red-800/40 bg-red-950/30",         badge: "bg-red-900/60 text-red-300",         title: "text-red-400"     },
 };
 
-const POSITION_GROUPS: Record<string, string[] | null> = {
-  "All":       null,
-  "PG":        ["PG"],
-  "SG":        ["SG"],
-  "SF":        ["SF"],
-  "PF":        ["PF"],
-  "C":         ["C"],
-  "G (PG+SG)": ["PG", "SG"],
-  "F (SF+PF)": ["SF", "PF"],
-};
+const POSITIONS = ["PG", "SG", "SF", "PF", "C"] as const;
 
 const SUGGESTED_TAGS = [
   "Shot creation", "Playmaking", "Athleticism", "Defense",
@@ -294,8 +285,17 @@ export default function OutcomeBoard({
   initialProspects: Prospect[];
 }) {
   const [prospects, setProspects] = useState(initialProspects);
-  const [posGroup, setPosGroup] = useState<string>("All");
+  const [activePositions, setActivePositions] = useState<Set<string>>(new Set());
   const [yearFilter, setYearFilter] = useState<number | null>(null);
+
+  const togglePosition = (pos: string) => {
+    setActivePositions((prev) => {
+      const next = new Set(prev);
+      if (next.has(pos)) next.delete(pos);
+      else next.add(pos);
+      return next;
+    });
+  };
   const [activeProspect, setActiveProspect] = useState<Prospect | null>(null);
   const [selectedPlayer, setSelectedPlayer] = useState<Prospect | null>(null);
 
@@ -307,11 +307,9 @@ export default function OutcomeBoard({
     new Set(initialProspects.map((p) => p.draft_class))
   ).sort();
 
-  const positionFilter = POSITION_GROUPS[posGroup];
-
   const filtered = prospects.filter((p) => {
-    if (positionFilter !== null) {
-      if (!p.position || !positionFilter.includes(p.position)) return false;
+    if (activePositions.size > 0) {
+      if (!p.position || !activePositions.has(p.position)) return false;
     }
     if (yearFilter && p.draft_class !== yearFilter) return false;
     return true;
@@ -383,22 +381,32 @@ export default function OutcomeBoard({
       onDragEnd={handleDragEnd}
     >
       <div className="px-6 py-6">
-        {/* Position filter */}
+        {/* Position filter — multi-select: click any combination of positions */}
         <div className="flex items-center gap-2 mb-4 flex-wrap">
           <span className="text-gray-500 text-xs uppercase tracking-widest mr-1">
             Position
           </span>
-          {Object.keys(POSITION_GROUPS).map((g) => (
+          <button
+            onClick={() => setActivePositions(new Set())}
+            className={`px-3 py-1 rounded-full text-xs font-medium transition-colors ${
+              activePositions.size === 0
+                ? "bg-blue-700 text-white"
+                : "bg-gray-800 text-gray-400 hover:text-gray-200"
+            }`}
+          >
+            All
+          </button>
+          {POSITIONS.map((pos) => (
             <button
-              key={g}
-              onClick={() => setPosGroup(g)}
+              key={pos}
+              onClick={() => togglePosition(pos)}
               className={`px-3 py-1 rounded-full text-xs font-medium transition-colors ${
-                posGroup === g
+                activePositions.has(pos)
                   ? "bg-blue-700 text-white"
                   : "bg-gray-800 text-gray-400 hover:text-gray-200"
               }`}
             >
-              {g}
+              {pos}
             </button>
           ))}
           <span className="text-gray-600 text-xs ml-2">
