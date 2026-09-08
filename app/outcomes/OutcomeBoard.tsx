@@ -287,6 +287,7 @@ export default function OutcomeBoard({
   const [prospects, setProspects] = useState(initialProspects);
   const [activePositions, setActivePositions] = useState<Set<string>>(new Set());
   const [yearFilter, setYearFilter] = useState<number | null>(null);
+  const [search, setSearch] = useState("");
 
   const togglePosition = (pos: string) => {
     setActivePositions((prev) => {
@@ -312,6 +313,8 @@ export default function OutcomeBoard({
       if (!p.position || !activePositions.has(p.position)) return false;
     }
     if (yearFilter && p.draft_class !== yearFilter) return false;
+    if (search.trim() && !p.name.toLowerCase().includes(search.trim().toLowerCase()))
+      return false;
     return true;
   });
 
@@ -381,6 +384,26 @@ export default function OutcomeBoard({
       onDragEnd={handleDragEnd}
     >
       <div className="px-6 py-6">
+        {/* Search — filters all zones by player name */}
+        <div className="relative mb-4 max-w-sm">
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="Search players…"
+            className="w-full bg-gray-900/60 border border-gray-700 rounded-lg pl-3 pr-8 py-2 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-blue-600"
+          />
+          {search && (
+            <button
+              onClick={() => setSearch("")}
+              className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-600 hover:text-gray-300 text-sm leading-none"
+              title="Clear search"
+            >
+              ×
+            </button>
+          )}
+        </div>
+
         {/* Position filter — multi-select: click any combination of positions */}
         <div className="flex items-center gap-2 mb-4 flex-wrap">
           <span className="text-gray-500 text-xs uppercase tracking-widest mr-1">

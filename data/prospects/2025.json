@@ -1699,7 +1699,7 @@
       "round": null,
       "team": "BRK"
     },
-    "outcome": "Mixed",
+    "outcome": null,
     "outcome_tags": [],
     "college_stats": {
       "season": "2024-25",
@@ -1927,7 +1927,7 @@
       "round": null,
       "team": "UTA"
     },
-    "outcome": "Mixed",
+    "outcome": "Solid",
     "outcome_tags": [],
     "college_stats": {
       "season": "2024-25",
@@ -3320,7 +3320,7 @@
       "round": null,
       "team": "CHO"
     },
-    "outcome": "Mixed",
+    "outcome": "Solid",
     "outcome_tags": [],
     "college_stats": {
       "season": "2024-25",
@@ -3537,7 +3537,7 @@
       "round": null,
       "team": "CHO"
     },
-    "outcome": "Mixed",
+    "outcome": "Solid",
     "outcome_tags": [],
     "college_stats": {
       "season": "2024-25",
@@ -5763,7 +5763,7 @@
       "bpm": -1.9,
       "vorp": 0
     },
-    "notes": "",
+    "notes": "Grad transfer big (four years at Drexel, one at Kentucky) who entered the draft as a defense-and-processing prospect: 7'0\" with a 7'5\" wingspan, a three-time CAA Defensive Player of the Year, an excellent passer and rebounder (10.9/8.5/3.2 at 56.1% FG as a senior), but not a shooter and light on lateral quickness — concerns evaluators flagged as the swing factor for whether his defense would translate to NBA speed. Boston took him 46th overall. As scouted, the NBA opportunity hasn't come yet — buried behind Neemias Queta and Luka Garza, then further blocked by the midseason Nikola Vucevic trade, he played just 22 games (6.6 min, 1.4/1.8/0.5). The signal is in the G League tape instead: 18 games with Maine at 17.8/10.9/4.9 with 1.8 blk on 57.3% shooting — the passing and rebounding translate cleanly, the question is still whether the feet hold up against NBA ball-handlers. No outcome tag yet; too early, and the G League run is more informative than the NBA minutes so far.",
     "drafted": {
       "pick": 46,
       "round": null,
