@@ -2269,8 +2269,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "An Arizona-to-North Carolina transfer who nearly doubled his scoring in a Second-Team All-ACC junior season (17.0/8.7, the fourth transfer in program history all-conference), a 7-footer from Tallinn, Estonia who turned down a reported $5M+ NIL offer to stay in college and was widely expected to go in the first round before falling to the second. Atlanta took him 52nd, trading up from 57 to get him. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 52,
+      "round": null,
+      "team": "ATL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "UNC",
@@ -2623,8 +2627,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "Northwestern's back-to-back single-season scoring record holder (23.0/6.2/2.0 on 41% from three as a senior), part of the first Northwestern draft duo (with Brooks Barnhizer) in consecutive years since the two-round format began in 1989. LA Clippers took him 55th, the pick having moved from New York to Houston to the Clippers before the selection. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 55,
+      "round": null,
+      "team": "LAC"
+    }
   },
   {
     "id": "baba-miller-2026",
@@ -3081,8 +3089,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A well-traveled center (Kentucky, then Kansas State, then Virginia) who led the ACC and ranked second nationally in shot-blocking (2.9 blocks per game), the first Cavalier drafted since Ryan Dunn in the 2024 first round. Houston took him 53rd, his rights eventually landing in Detroit. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 53,
+      "round": null,
+      "team": "HOU"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Virginia",
@@ -3489,8 +3501,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A four-year Purdue big man whose redshirt-junior breakout (from 6.4 to 20+ ppg) carried into a productive senior season (14.2/8.3/2.5 on 57.8% FG), real interior scoring and touch, three-point shooting (28% for his career) the clear swing skill NBA evaluators questioned. Minnesota took him 59th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 59,
+      "round": null,
+      "team": "MIN"
+    }
   },
   {
     "id": "tyler-bilodeau-2026",
@@ -3551,8 +3567,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A South Florida senior and the first American Conference Player of the Year, Defensive Player of the Year and Newcomer of the Year in one season (15.9/9.6 on 56.1% FG, leading the league in rebounding), the first Bull drafted since 2010. Washington took him 51st, immediately trading him to Orlando (part of the Felix Okpara return). His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 51,
+      "round": null,
+      "team": "WAS"
+    }
   },
   {
     "id": "motiejus-krivas-2026",
@@ -6859,8 +6879,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A Trinidad and Tobago forward who spent two years with Australia's NBL Next Stars program (South East Melbourne Phoenix, 6.9/4.3/1.2 stl), rising sharply in the final pre-draft stretch after six team workouts. Washington took him 60th, the draft's final pick (Mr. Irrelevant), immediately trading him to Milwaukee; he's expected to spend 2026-27 developing with the NBL's Cairns Taipans. His NBA career begins whenever he's recalled from that assignment — no regular-season games played yet.",
+    "drafted": {
+      "pick": 60,
+      "round": null,
+      "team": "WAS"
+    }
   },
   {
     "id": "trey-mckenney-2026",
@@ -7261,8 +7285,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "An unusually experienced five-year senior (Southern Miss, then Wichita State, then Jacksonville State, then a lone SMU season) who became one of the league's most productive scorers in his final year (17.6/4.9/2.1), a homecoming pick for the New Orleans native. New Orleans took him 58th, the first Mustang drafted since Shake Milton in 2018. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 58,
+      "round": null,
+      "team": "NOP"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "SMU",

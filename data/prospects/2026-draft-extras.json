@@ -66,5 +66,107 @@
       "team": "DEN"
     },
     "college_stats": null
+  },
+  {
+    "id": "lajae-jones-2026",
+    "name": "Lajae Jones",
+    "draft_class": 2026,
+    "rank": 54,
+    "position": "SF",
+    "role": null,
+    "school": "Florida State",
+    "nationality": null,
+    "age": null,
+    "bust_risk": null,
+    "description": null,
+    "perceived_draft_range": null,
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": null,
+      "height_with_shoes": null,
+      "wingspan": null,
+      "weight": 220,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": null,
+      "vertical_no_step": null,
+      "vertical_max": null
+    },
+    "stats": {},
+    "notes": "A well-traveled forward whose final stop was Florida State (12.7/5.7 career), the first player drafted from the program's new Luke Loucks era, an athletic, moldable two-way wing prospect. Golden State took him 54th. He does not appear in the tool's original pre-draft board data. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 54,
+      "round": null,
+      "team": "GSW"
+    },
+    "college_stats": null
+  },
+  {
+    "id": "vsevolod-ishchenko-2026",
+    "name": "Vsevolod Ishchenko",
+    "draft_class": 2026,
+    "rank": 56,
+    "position": "PG",
+    "role": null,
+    "school": null,
+    "nationality": "Russia",
+    "age": null,
+    "bust_risk": null,
+    "description": null,
+    "perceived_draft_range": null,
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": null,
+      "height_with_shoes": null,
+      "wingspan": null,
+      "weight": null,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": null,
+      "vertical_no_step": null,
+      "vertical_max": null
+    },
+    "stats": {},
+    "notes": "A Russian guard for PBC Lokomotiv Kuban in the VTB United League (8.7/4.7/2.0/1.3 stl on an elite 51.6/46.3/80.1% shooting, VTB League All-Star and Young Player of the Year), real, proven senior-level European production. Chicago took him 56th, his rights traded to Dallas via the Lakers. He does not appear in the tool's original pre-draft board data. His NBA career begins whenever he signs — no regular-season games played yet.",
+    "drafted": {
+      "pick": 56,
+      "round": null,
+      "team": "CHI"
+    },
+    "college_stats": null
+  },
+  {
+    "id": "narcisse-ngoy-2026",
+    "name": "Narcisse Ngoy",
+    "draft_class": 2026,
+    "rank": 57,
+    "position": "PF",
+    "role": null,
+    "school": "Auburn",
+    "nationality": "France",
+    "age": null,
+    "bust_risk": null,
+    "description": null,
+    "perceived_draft_range": null,
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": null,
+      "height_with_shoes": null,
+      "wingspan": null,
+      "weight": null,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": null,
+      "vertical_no_step": null,
+      "vertical_max": null
+    },
+    "stats": {},
+    "notes": "A French big man who played in France's second division (solid rebounding and shot-blocking numbers), a real defensive-anchor prospect projecting on lob finishing and screen-and-roll defense. Atlanta took him 57th, immediately trading his rights to the Clippers — but rather than turn pro, Ngoy chose to sign with Auburn for 2026-27, an unusual draft-then-college path believed to be the first of its kind in the modern era. He does not appear in the tool's original pre-draft board data. Never played in the NBA — he'll play college basketball this season instead.",
+    "drafted": {
+      "pick": 57,
+      "round": null,
+      "team": "ATL"
+    },
+    "college_stats": null
   }
 ]
