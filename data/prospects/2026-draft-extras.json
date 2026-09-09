@@ -31,7 +31,9 @@
       "round": null,
       "team": "DAL"
     },
-    "college_stats": null
+    "college_stats": null,
+    "outcome": null,
+    "outcome_tags": []
   },
   {
     "id": "bryce-hopkins-2026",
@@ -65,7 +67,9 @@
       "round": null,
       "team": "DEN"
     },
-    "college_stats": null
+    "college_stats": null,
+    "outcome": null,
+    "outcome_tags": []
   },
   {
     "id": "lajae-jones-2026",
@@ -99,7 +103,9 @@
       "round": null,
       "team": "GSW"
     },
-    "college_stats": null
+    "college_stats": null,
+    "outcome": null,
+    "outcome_tags": []
   },
   {
     "id": "vsevolod-ishchenko-2026",
@@ -133,7 +139,9 @@
       "round": null,
       "team": "CHI"
     },
-    "college_stats": null
+    "college_stats": null,
+    "outcome": null,
+    "outcome_tags": []
   },
   {
     "id": "narcisse-ngoy-2026",
@@ -167,6 +175,8 @@
       "round": null,
       "team": "ATL"
     },
-    "college_stats": null
+    "college_stats": null,
+    "outcome": null,
+    "outcome_tags": []
   }
 ]
