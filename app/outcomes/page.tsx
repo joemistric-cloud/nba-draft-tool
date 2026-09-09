@@ -1,7 +1,7 @@
 import { getAllProspects } from "@/lib/data";
 import OutcomeBoard from "./OutcomeBoard";
 
-const CURRENT_CLASS = 2026;
+const CURRENT_CLASS = 2027;
 
 export default function OutcomesPage() {
   const historical = getAllProspects().filter(
@@ -13,7 +13,7 @@ export default function OutcomesPage() {
       <header className="border-b border-gray-800 px-6 py-4">
         <h1 className="text-2xl font-bold tracking-tight">
           Historical Outcomes{" "}
-          <span className="text-gray-500 font-normal text-lg">2013 – 2025</span>
+          <span className="text-gray-500 font-normal text-lg">2013 – 2026</span>
         </h1>
         <p className="text-gray-500 text-sm mt-1">
           {historical.length} drafted players · curate outcomes by position group

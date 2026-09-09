@@ -25,8 +25,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "BYU's NCAA scoring champion and consensus First-Team All-American as a freshman (25.5/6.8/3.7 on 51.0/33.1% shooting, Julius Erving Award, a 43-point freshman-record game), physically dominant forward-sized scoring long viewed as the class's clear top prospect. Washington took him 1st and signed him to a four-year, roughly $66.9M deal. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 1,
+      "round": null,
+      "team": "WAS"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "BYU",
@@ -94,8 +98,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Duke's national Player of the Year and consensus First-Team All-American as a freshman (22.5/10.2/4.1 on an elite 55.6/39.1% shooting, ACC Player of the Year and Tournament MVP, the Karl Malone and Pete Newell Awards), the son of Carlos Boozer and twin brother of fellow Duke player Cayden. Memphis took him 3rd. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 3,
+      "round": null,
+      "team": "MEM"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Duke",
@@ -163,8 +171,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Kansas's Second-Team All-Big 12 freshman (20.2/4.2/1.6/1.4 stl, honorable-mention All-American, 2025 Naismith Prep Player of the Year), elite shot-making that held up even through in-season hamstring and ankle injuries (a 32-point OT game, a 28-point tournament debut). Utah took him 2nd; Bill Self called him \"the best player we've recruited\" at Kansas. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 2,
+      "round": null,
+      "team": "UTA"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Kansas",
@@ -232,8 +244,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A consensus five-star North Carolina freshman whose dominant season (19.8/9.4/1.4 blk on 57.8% FG, First-Team All-ACC) was cut short by a fractured hand and thumb surgery in February 2026 while he was leading the Tar Heels in scoring, rebounding, steals and blocks. Chicago took him 4th. He made an immediate splash in Summer League, scoring 35 points against Cameron Boozer's Grizzlies — a debut-game record for a professional rookie, with seven threes. Real, held rookie-year buzz already established; his regular-season NBA career begins with 2026-27.",
+    "drafted": {
+      "pick": 4,
+      "round": null,
+      "team": "CHI"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "UNC",
@@ -301,8 +317,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Illinois's Big Ten Freshman of the Year and Jerry West Award winner (17.9/5.1/4.2 on 44.5/39.7% shooting, consensus Second-Team All-American), elite shot-making capped by a 46-point game against Purdue that broke a 58-year-old Mackey Arena scoring record. LA Clippers took him 5th, a pick acquired by trading Ivica Zubac and Kobe Brown to Indiana. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 5,
+      "round": null,
+      "team": "LAC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Illinois",
@@ -370,8 +390,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "An extraordinary journey from Arizona Western JUCO (an NJCAA-record 870 rebounds) through UAB to a Michigan national championship, where he was Big Ten Player of the Year and consensus First-Team All-American (leading the nation in plus-minus) at age 23 — three years older than every player drafted ahead of him. Golden State took him 11th. He was the unanimous 2026 Summer League MVP (14.8/6.8, a 21-point/10-rebound championship-game MVP performance), an unusually loud pre-season signal for a rookie. Real, proven winning production and an emphatic Summer League statement; his regular-season NBA career begins with 2026-27.",
+    "drafted": {
+      "pick": 11,
+      "round": null,
+      "team": "GSW"
+    }
   },
   {
     "id": "morez-johnson-2026",
@@ -399,8 +423,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "An Illinois-to-Michigan transfer whose move under Dusty May unlocked a real breakout (13.1/7.3, Second-Team All-Big Ten and All-Defensive), an efficient interior finisher (a perfect 8-of-8, 21-point/10-rebound NCAA Tournament debut, an All-Final Four selection on Michigan's national title team). Dallas took him 9th, reuniting with May, who was hired by the Mavericks the same day. He posted 18.5/6.5 across two Summer League games. Real early flashes; his regular-season NBA career begins with 2026-27.",
+    "drafted": {
+      "pick": 9,
+      "round": null,
+      "team": "DAL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Michigan",
@@ -468,8 +496,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Stanford freshman who set a program freshman-debut scoring record (26 points against Portland State) and an ACC freshman record for 30-point games (23.2/3.6/3.6 on 46.5/35.4% shooting, First-Team All-ACC, a 40-point outburst against Georgia Tech). Oklahoma City took him 17th, immediately trading him to Memphis and then to Detroit for three future second-round picks and the rights to pick 21 (Karim López). His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 17,
+      "round": null,
+      "team": "OKC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Stanford",
@@ -537,8 +569,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A five-star Arizona freshman and California Mr. Basketball (16.1/4.9/2.4/1.5 stl, All-Big 12 First Team, a Jerry West Award finalist, a 32-point regular-season finale), elite scoring guard production from a top-ranked 2025 recruit. Milwaukee took him 10th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 10,
+      "round": null,
+      "team": "MIL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Arizona",
@@ -606,8 +642,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Houston's consensus Second-Team All-American and First-Team All-Big 12 freshman (16.1/5.2/4.1 on 47.6/38.7% shooting), real all-around guard production capped by a 42-point Houston-freshman-record game against Texas Tech. Atlanta took him 8th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 8,
+      "round": null,
+      "team": "ATL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Houston",
@@ -675,8 +715,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A one-and-done Texas wing and SEC Newcomer of the Year (17.7/7.3/3.4 on an elite 57.7% FG, Second-Team All-SEC, a Julius Erving Award midseason top-10 nod), real efficient scoring and rebounding across 23 starts. Chicago took him 15th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 15,
+      "round": null,
+      "team": "CHI"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Texas",
@@ -744,8 +788,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Arkansas's SEC Player of the Year and Rookie of the Year in the same season, the first Arkansas and first freshman Bob Cousy Award winner (23.0/6.6 ast, both SEC-leading, AP First-Team All-American, a Sweet 16 run), elite lead-guard scoring and playmaking. Sacramento took him 7th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 7,
+      "round": null,
+      "team": "SAC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Arkansas",
@@ -813,8 +861,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Tennessee-to-Baylor transfer whose breakout season (18.9/5.8/2.6 on 49.4/37.4% shooting, Third-Team All-Big 12) came alongside real Team USA experience (a 2025 World University Games silver medal), the son of six-year NBA veteran Chris Carr, whose No. 43 he wears in tribute. New York took him 24th, immediately trading him to the Lakers for the rights to Sergio de Larrea. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 24,
+      "round": null,
+      "team": "NYK"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Baylor",
@@ -882,8 +934,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A UCLA-to-Michigan transfer and Big Ten Defensive Player of the Year on Michigan's 2026 national title team (12.1/6.8/2.6 blk on an elite 66.8% FG, All-Big Ten Defensive Team, a 26-point/9-rebound/2-block Final Four semifinal), one of three Michigan teammates (with Morez Johnson and Yaxel Lendoborg) drafted in the lottery. Oklahoma City took him 12th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 12,
+      "round": null,
+      "team": "OKC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Michigan",
@@ -951,8 +1007,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A five-star recruit and 2024 McDonald's All-American whose college career has been repeatedly disrupted by injury — a 2025 knee injury at Arizona State, then a torn meniscus after just four Kentucky games in 2025-26 (10/8/2 blk in his debut) — real defensive and rebounding upside on a badly incomplete sample. San Antonio took him 20th and announced successful meniscus surgery in July 2026. His NBA career begins with the 2026-27 season, health the clear swing factor — no regular-season games played yet.",
+    "drafted": {
+      "pick": 20,
+      "round": null,
+      "team": "SAS"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Kentucky",
@@ -1019,8 +1079,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A twice-transferred point guard (Northwest Missouri State to Drake, where he was MVC Player of the Year, then Iowa) whose final season produced First-Team All-Big Ten honors and Iowa's first Sweet 16 since 1999, real proven winning production at every level he's played. Memphis took him 16th (traded to Oklahoma City for the rights to Ebuka Okorie and two second-rounders). His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 16,
+      "round": null,
+      "team": "MEM"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Iowa",
@@ -1088,8 +1152,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A German forward who turned pro with Würzburg Baskets before a Washington freshman season that led the entire country in rebounding (18.5/11.8 on 57.7% FG, Third-Team All-Big Ten). Charlotte took him 14th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 14,
+      "round": null,
+      "team": "CHA"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Washington",
@@ -1226,8 +1294,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A five-star Louisville freshman and USA Basketball Male Athlete of the Year (18.2/3.3/4.7/1.2 stl, Third-Team All-ACC), elite guard scoring capped by a 45-point game against NC State that broke the ACC freshman scoring record. Brooklyn took him 6th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 6,
+      "round": null,
+      "team": "BKN"
+    }
   },
   {
     "id": "allen-graves-2026",
@@ -1255,8 +1327,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A redshirt-then-breakout Santa Clara forward and WCC Freshman and Sixth Man of the Year (11.8/6.5, a program-record 67 freshman steals, a 30-point/13-rebound game against Washington State), Louisiana's 2024 Mr. Basketball. Toronto took him 19th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 19,
+      "round": null,
+      "team": "TOR"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Santa Clara",
@@ -1324,8 +1400,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Alabama's Third-Team All-American sophomore (22.0/5.0/3.5 on 50.1/39.9% shooting, First-Team All-SEC, 725 points — the third-highest single season total in program history), real, proven go-to scoring from a Sweet 16 team, the 20th Crimson Tide player ever drafted in the first round. Philadelphia took him 22nd. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 22,
+      "round": null,
+      "team": "PHI"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Alabama",
@@ -1393,8 +1473,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A one-and-done Arizona freshman who helped lead the Wildcats to a Big 12 double and their first Final Four in 25 years (14.1/5.6/2.6 on 52.8/35.0% shooting, Third-Team All-Big 12), a signature 30-point, five-steal debut upset of defending champion Florida. Dallas took him 30th, traded to New York and then Phoenix in exchange for Sergio de Larrea. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 30,
+      "round": null,
+      "team": "DAL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Arizona",
@@ -1462,8 +1546,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A German international guard (U18 EuroBasket gold, U19 World Cup silver and All-Star Five honors) who developed at Texas Tech into Big 12 Most Improved Player and a Third-Team All-American. Charlotte took him 18th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 18,
+      "round": null,
+      "team": "CHA"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Texas Tech",
@@ -1531,8 +1619,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A five-star Tennessee freshman and McDonald's All-American (16.7/6.3 on 39.9/33.3% shooting, Second-Team All-SEC, an Elite Eight run), real scoring and rebounding upside from a deep tournament run. Miami took him 13th but traded him to Milwaukee two weeks later as part of the blockbuster that brought Giannis Antetokounmpo to the Heat. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 13,
+      "round": null,
+      "team": "MIA"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Tennessee",
@@ -1600,8 +1692,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A Mexican guard-forward who developed through Joventut Badalona before a real breakout with New Zealand's Breakers (9.6/4.7, the youngest player in NBL history with a double-double, a 32-point game, an NBL Ignite Cup title), real proven production against senior professional competition. Detroit took him 21st, the first Mexican-born first-round pick in NBA history, immediately trading him to Memphis for three future second-round picks. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 21,
+      "round": null,
+      "team": "DET"
+    }
   },
   {
     "id": "zuby-ejiofor-2026",
@@ -1629,8 +1725,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "St. John's unanimous Big East Player of the Year and Defensive Player of the Year in the same season — a first in program history — plus Scholar-Athlete of the Year (16.3/7.3/3.5/2.1 blk as a senior, the Kareem Abdul-Jabbar Award, the Haggerty Award), elite, historically decorated two-way production. Atlanta took him 23rd. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 23,
+      "round": null,
+      "team": "ATL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "St. John's (NY)",
@@ -1767,8 +1867,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Michigan-to-UConn riser and First-Team All-Big East senior (9.6/7.3 on an elite 67.0% FG, Big East Sixth Man of the Year the year before) whose NCAA Tournament run was historic — a 31-point/27-rebound, 80%-shooting game against Furman, the first such stat line since Bill Walton in 1972, and a 19.5/13.2 tournament average. Denver took him 26th, immediately trading him to San Antonio for the rights to Trevon Brazile and two second-round picks. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 26,
+      "round": null,
+      "team": "DEN"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "UConn",
@@ -1836,8 +1940,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A four-year UConn cornerstone and back-to-back national champion (starting the 2023 title game as a freshman, First-Team All-Big East as a senior at 13.2 ppg, the program's winningest men's player, a Huskies of Honor induction while still active), real, proven winning-program production across four full seasons. Cleveland took him 29th, immediately trading him to Sacramento for the rights to Meleek Thomas and a future second-rounder. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 29,
+      "round": null,
+      "team": "CLE"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "UConn",
@@ -2043,8 +2151,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Saint Mary's-to-Iowa State riser and consensus Second-Team All-American, the first Big 12 player ever with multiple triple-doubles in conference play (16.4/7.4/4.8/1.6 stl, a Karl Malone Award finalist, Iowa State's fifth-ever consensus All-American), real, historic all-around production. Minnesota took him 28th (traded to Brooklyn). His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 28,
+      "round": null,
+      "team": "MIN"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Iowa St.",
@@ -2210,8 +2322,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A one-and-done Houston forward who led a 30-7, Sweet 16 team in rebounding (9.5/7.9/0.8 stl on 48.5% FG, NABC All-Gulf District Second Team), real energy-big production from a winning program. Boston took him 27th and included him on the 2026 Summer League roster. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 27,
+      "round": null,
+      "team": "BOS"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Houston",
@@ -2573,8 +2689,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Valencia Basket academy product who made his EuroLeague debut at 17 before a real breakout season (9.7/3.7/3.0) helping Valencia win the Spanish League title over Barcelona, elite feel and playmaking pedigree. LA Lakers took him 25th, his rights traded twice (to New York, then Dallas). He averaged 8.0/4.8/8.8 across four Summer League games with Dallas, a real early playmaking signal. His regular-season NBA career begins with 2026-27.",
+    "drafted": {
+      "pick": 25,
+      "round": null,
+      "team": "LAL"
+    },
     "college_stats": {
       "season": "24-25",
       "team": "Real Valladolid",
