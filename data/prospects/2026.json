@@ -1225,8 +1225,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A five-star Arkansas freshman who started in the backcourt alongside fellow lottery pick Darius Acuff Jr. (15.6/3.8/2.5/1.5 stl on 43/42/84% shooting), real scoring and playmaking that climbed draft boards after strong pre-draft workouts. Cleveland took him 34th, having acquired the pick from Sacramento in the trade that sent Alex Karaban to the Kings. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 34,
+      "round": null,
+      "team": "CLE"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Arkansas",
@@ -1798,8 +1802,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A once-three-star BYU recruit who developed into a real senior contributor before tearing his ACL in the opening minute of a game against Colorado in 2025-26 — drafted anyway on reputation and prior production. Memphis took him 32nd, joining fellow Razorbacks-turned-Grizzlies Cam Boozer and Bennett Stirtz, plus former BYU teammate AJ Dybantsa now across the league in Washington. His NBA career begins with the 2026-27 season, recovering from a serious knee injury — no regular-season games played yet.",
+    "drafted": {
+      "pick": 32,
+      "round": null,
+      "team": "MEM"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "BYU",
@@ -2013,8 +2021,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Duke sophomore breakout (15.0/3.2 on 43.3/36.1% shooting after a 6.8 ppg freshman bench year), a green-room invitee who went unselected on opening night before hearing his name on day two — the only green-room invite not drafted in round one. Brooklyn took him 33rd, with his rights already committed to Minnesota via a pre-draft trade involving Julius Randle. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 33,
+      "round": null,
+      "team": "BKN"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Duke",
@@ -2395,8 +2407,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A Louisville senior and Second-Team All-ACC leading scorer (18.8/4.8/2.7/1.1 stl on 40.8/34.5/83.2% shooting, NABC All-District Second Team), real proven high-major volume production. Oklahoma City took him 37th, immediately trading him to Miami, who signed him to a three-year deal. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 37,
+      "round": null,
+      "team": "OKC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Louisville",
@@ -2464,8 +2480,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Purdue's two-time consensus First-Team All-American and the NCAA's new career assists leader — breaking Bobby Hurley's 33-year-old record with 1,103 career assists — a real, historic floor general (14.3/8.8/3.5/1.7 stl senior season). Chicago took him 38th, immediately traded to Indiana in a deal sending Kam Jones and picks back to the Bulls. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 38,
+      "round": null,
+      "team": "CHI"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Purdue",
@@ -2533,8 +2553,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A Missouri-to-Arkansas riser who became the only player in program history with 40+ made threes, 40+ blocks and 40+ steals in one season (13.0/7.3/1.6 ast/1.6 blk/1.5 stl on 52.5/34.1% shooting), the third Razorback drafted in this class. Denver took him 35th, acquired via trade from San Antonio in exchange for the rights to Tarris Reed Jr. and two second-round picks. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 35,
+      "round": null,
+      "team": "DEN"
+    }
   },
   {
     "id": "emmanuel-sharp-2026",
@@ -2620,8 +2644,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A well-traveled path (Florida State, then Florida Atlantic, then Cincinnati) that culminated in a real senior breakout — 13.0/10.3/3.7/1.2 blk on 53/19/66% shooting — a seven-footer with real ball-handling and playmaking feel, an unfinished jumper the clear swing skill. LA Clippers took him 36th, the first Bearcat drafted since Jacob Evans in 2018. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 36,
+      "round": null,
+      "team": "LAC"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Cincinnati",
@@ -2750,8 +2778,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "Ohio State's all-time leading scorer (2,164 points across four seasons, a career-best 55.4/40.0% shooting senior year), real, proven high-major guard production. Houston took him 31st, the first pick of the second round — Ohio State's first draftee in three years. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 31,
+      "round": null,
+      "team": "HOU"
+    }
   },
   {
     "id": "milos-uzan-2026",
@@ -2848,8 +2880,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A German guard (initially committed to Gonzaga before turning pro) who developed with Alba Berlin (12.2/2.8/3.5 ast on 40.0/34.4% shooting), real proven Bundesliga production. Houston took him 39th, immediately trading him to New York — but rather than pursue the NBA, Kayil re-signed with Alba Berlin on a five-year deal through 2030-31, a draft-and-stash by choice. Never played in the NBA — the Knicks retain his rights while he continues developing in Germany.",
+    "drafted": {
+      "pick": 39,
+      "round": null,
+      "team": "HOU"
+    }
   },
   {
     "id": "fletcher-loyer-2026",
@@ -3171,8 +3207,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A five-star recruit (Montverde Academy) whose college path ran through Texas, then Cincinnati, before a final St. John's season earned All-Big East Third Team, All-Defensive and All-Tournament honors (8.3/7.0 on an elite 55.9% FG), a strong finisher and lob threat, part of the first multi-player St. John's draft class since 2000 alongside Zuby Ejiofor. Boston took him 40th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 40,
+      "round": null,
+      "team": "BOS"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "St. John's (NY)",
