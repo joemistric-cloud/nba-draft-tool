@@ -2094,8 +2094,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "A two-year Kentucky senior and back-to-back Second-Team All-SEC honoree (18.6/4.8/2.7 career, 1,255 points — the most by a Wildcat through two seasons in program history), real explosive athleticism and defensive versatility. Miami took him 41st, immediately trading him to Oklahoma City, where he joins fellow former Kentucky guards Shai Gilgeous-Alexander and Cason Wallace on a title contender. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 41,
+      "round": null,
+      "team": "MIA"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Kentucky",
@@ -2586,8 +2590,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A Houston senior and All-Big 12 First Team and All-Defensive selection (15.5/3.0/1.7/1.2 stl on an efficient 41.3/37.2/89.1% shooting), a real 3-and-D guard with a quick, deep shooting stroke. Sacramento took him 45th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 45,
+      "round": null,
+      "team": "SAC"
+    }
   },
   {
     "id": "nick-martinelli-2026",
@@ -2942,8 +2950,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A Syracuse-to-Duke transfer and the nation's leader in defensive box plus-minus, the 2025-26 ACC Defensive Player of the Year and ACC Sixth Man of the Year (4.9/5.2 as a role player on a stacked Duke team), an elite defensive prospect whose value shows up far more in impact metrics than box score. San Antonio took him 44th and signed him to a two-way contract. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 44,
+      "round": null,
+      "team": "SAS"
+    }
   },
   {
     "id": "quadir-copeland-2026",
@@ -3378,8 +3390,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A three-school path (North Carolina, then Virginia Tech, then Vanderbilt) that ended with a real senior shooting breakout (13.5 ppg on 44.5/40.0% shooting, 110 made threes — third-most in a season in Vanderbilt history), the first Commodore drafted since 2020. New York took him 47th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 47,
+      "round": null,
+      "team": "NYK"
+    }
   },
   {
     "id": "jakobi-gillespie-2026",
@@ -3407,8 +3423,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "A three-school path (Belmont, then Maryland, then Tennessee) that culminated in a historic senior season — the fifth Division I player ever, and first from the SEC, with 200 assists/100 threes/75 steals in one year (18.4/5.4/2.1 stl, team-leading across the board). San Antonio took him 42nd, the ninth SEC player picked in this class. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 42,
+      "round": null,
+      "team": "SAS"
+    }
   },
   {
     "id": "jaden-bradley-2026",
@@ -3436,8 +3456,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "An Alabama-to-Arizona transfer and Big 12 Player of the Year as a senior (13.3/3.4/4.4 on 46.3/39.4/80.9% shooting), the third Wildcat drafted in this class alongside Brayden Burries and Koa Peat. Toronto took him 50th and signed him to a two-way contract. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 50,
+      "round": null,
+      "team": "TOR"
+    }
   },
   {
     "id": "trey-kaufman-renn-2026",
@@ -3494,8 +3518,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null
+    "notes": "An Oregon State-to-UCLA riser whose senior season led the team in scoring (17.6/5.6, No. 1 in the Big Ten in three-point shooting at 46.4%), real, efficient stretch-four production across 128 career college games (13.1/4.9 overall). Brooklyn took him 43rd. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 43,
+      "round": null,
+      "team": "BKN"
+    }
   },
   {
     "id": "izaiyah-nelson-2026",
@@ -11937,8 +11965,12 @@
       "vertical_max": null
     },
     "stats": {},
-    "notes": "",
-    "drafted": null,
+    "notes": "Tennessee's third player drafted in this class, a defensive rim protector (8.0/6.3 on an elite 59.7% FG as a senior) known for highlight-level blocks and versatile perimeter-to-rim defense. Orlando took him 46th, immediately trading his rights to Washington in exchange for picks 51 and 60. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 46,
+      "round": null,
+      "team": "ORL"
+    },
     "college_stats": {
       "season": "2025-26",
       "school": "Tennessee",

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "tobi-lawal-2026",
+    "name": "Tobi Lawal",
+    "draft_class": 2026,
+    "rank": 48,
+    "position": "PF",
+    "role": null,
+    "school": "Virginia Tech",
+    "nationality": "United Kingdom",
+    "age": null,
+    "bust_risk": null,
+    "description": null,
+    "perceived_draft_range": null,
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": null,
+      "height_with_shoes": null,
+      "wingspan": 82.5,
+      "weight": null,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": null,
+      "vertical_no_step": 40.0,
+      "vertical_max": 45.5
+    },
+    "stats": {},
+    "notes": "A London-raised Virginia Tech senior and the program's first draftee since Nickeil Alexander-Walker in 2019 (12.3/8.5/1.1 blk on 54/25/76% shooting), whose 45.5-inch max vertical and 40.0-inch no-step vertical at the Combine ranked among the best ever recorded. Dallas took him 48th and signed him to a two-way contract; he opened the 2026 Summer League with Dallas. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 48,
+      "round": null,
+      "team": "DAL"
+    },
+    "college_stats": null
+  },
+  {
+    "id": "bryce-hopkins-2026",
+    "name": "Bryce Hopkins",
+    "draft_class": 2026,
+    "rank": 49,
+    "position": "PF",
+    "role": null,
+    "school": "St. John's",
+    "nationality": null,
+    "age": null,
+    "bust_risk": null,
+    "description": null,
+    "perceived_draft_range": null,
+    "comparisons": null,
+    "measurements": {
+      "height_no_shoes": null,
+      "height_with_shoes": null,
+      "wingspan": null,
+      "weight": null,
+      "hand_length": null,
+      "hand_width": null,
+      "standing_reach": null,
+      "vertical_no_step": null,
+      "vertical_max": null
+    },
+    "stats": {},
+    "notes": "A two-time All-Big East St. John's forward (13.6/6.2 on 47% shooting), a physical rebounder and slasher, part of the third player from the Red Storm drafted this year alongside Zuby Ejiofor (23rd, Atlanta) and Dillon Mitchell (40th, Boston) — St. John's best draft class in 43 years. Denver took him 49th. His NBA career begins with the 2026-27 season — no regular-season games played yet.",
+    "drafted": {
+      "pick": 49,
+      "round": null,
+      "team": "DEN"
+    },
+    "college_stats": null
+  }
+]
