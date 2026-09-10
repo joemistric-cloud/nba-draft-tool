@@ -1,0 +1,531 @@
+{
+  "matched": [
+    {
+      "id": "anthony-bennett-2013",
+      "name": "Anthony Bennett",
+      "school": "UNLV",
+      "bt_name": "Anthony Bennett",
+      "bt_team": "UNLV",
+      "bt_conf": "MWC",
+      "gp": 34,
+      "adj_porpagatu": 3.70621
+    },
+    {
+      "id": "victor-oladipo-2013",
+      "name": "Victor Oladipo",
+      "school": "Indiana",
+      "bt_name": "Victor Oladipo",
+      "bt_team": "Indiana",
+      "bt_conf": "B10",
+      "gp": 36,
+      "adj_porpagatu": 4.76925
+    },
+    {
+      "id": "otto-porter-jr-2013",
+      "name": "Otto Porter Jr.",
+      "school": "Georgetown",
+      "bt_name": "Otto Porter",
+      "bt_team": "Georgetown",
+      "bt_conf": "BE",
+      "gp": 31,
+      "adj_porpagatu": 5.47031
+    },
+    {
+      "id": "cody-zeller-2013",
+      "name": "Cody Zeller",
+      "school": "Indiana",
+      "bt_name": "Cody Zeller",
+      "bt_team": "Indiana",
+      "bt_conf": "B10",
+      "gp": 36,
+      "adj_porpagatu": 5.23894
+    },
+    {
+      "id": "alex-len-2013",
+      "name": "Alex Len",
+      "school": "Maryland",
+      "bt_name": "Alex Len",
+      "bt_team": "Maryland",
+      "bt_conf": "ACC",
+      "gp": 38,
+      "adj_porpagatu": 3.0538
+    },
+    {
+      "id": "nerlens-noel-2013",
+      "name": "Nerlens Noel",
+      "school": "Kentucky",
+      "bt_name": "Nerlens Noel",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 24,
+      "adj_porpagatu": 2.61518
+    },
+    {
+      "id": "ben-mclemore-2013",
+      "name": "Ben McLemore",
+      "school": "Kansas",
+      "bt_name": "Ben McLemore",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 37,
+      "adj_porpagatu": 4.47541
+    },
+    {
+      "id": "kentavious-caldwell-pope-2013",
+      "name": "Kentavious Caldwell-Pope",
+      "school": "Georgia",
+      "bt_name": "Kentavious Caldwell-Pope",
+      "bt_team": "Georgia",
+      "bt_conf": "SEC",
+      "gp": 32,
+      "adj_porpagatu": 4.93099
+    },
+    {
+      "id": "trey-burke-2013",
+      "name": "Trey Burke",
+      "school": "Michigan",
+      "bt_name": "Trey Burke",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 38,
+      "adj_porpagatu": 7.08947
+    },
+    {
+      "id": "cj-mccollum-2013",
+      "name": "CJ McCollum",
+      "school": "Lehigh",
+      "bt_name": "C.J. McCollum",
+      "bt_team": "Lehigh",
+      "bt_conf": "Pat",
+      "gp": 12,
+      "adj_porpagatu": 5.50317
+    },
+    {
+      "id": "michael-carter-williams-2013",
+      "name": "Michael Carter-Williams",
+      "school": "Syracuse",
+      "bt_name": "Michael Carter-Williams",
+      "bt_team": "Syracuse",
+      "bt_conf": "BE",
+      "gp": 40,
+      "adj_porpagatu": 3.57977
+    },
+    {
+      "id": "steven-adams-2013",
+      "name": "Steven Adams",
+      "school": "Pitt",
+      "bt_name": "Steven Adams",
+      "bt_team": "Pittsburgh",
+      "bt_conf": "BE",
+      "gp": 32,
+      "adj_porpagatu": 1.99486
+    },
+    {
+      "id": "kelly-olynyk-2013",
+      "name": "Kelly Olynyk",
+      "school": "Gonzaga",
+      "bt_name": "Kelly Olynyk",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 31,
+      "adj_porpagatu": 5.41017
+    },
+    {
+      "id": "shabazz-muhammad-2013",
+      "name": "Shabazz Muhammad",
+      "school": "UCLA",
+      "bt_name": "Shabazz Muhammad",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 32,
+      "adj_porpagatu": 4.18108
+    },
+    {
+      "id": "shane-larkin-2013",
+      "name": "Shane Larkin",
+      "school": "Miami (FL)",
+      "bt_name": "Shane Larkin",
+      "bt_team": "Miami FL",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 4.92257
+    },
+    {
+      "id": "tony-snell-2013",
+      "name": "Tony Snell",
+      "school": "New Mexico",
+      "bt_name": "Tony Snell",
+      "bt_team": "New Mexico",
+      "bt_conf": "MWC",
+      "gp": 35,
+      "adj_porpagatu": 2.92387
+    },
+    {
+      "id": "gorgui-dieng-2013",
+      "name": "Gorgui Dieng",
+      "school": "Louisville",
+      "bt_name": "Gorgui Dieng",
+      "bt_team": "Louisville",
+      "bt_conf": "BE",
+      "gp": 33,
+      "adj_porpagatu": 3.38553
+    },
+    {
+      "id": "mason-plumlee-2013",
+      "name": "Mason Plumlee",
+      "school": "Duke",
+      "bt_name": "Mason Plumlee",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 4.94503
+    },
+    {
+      "id": "solomon-hill-2013",
+      "name": "Solomon Hill",
+      "school": "Arizona",
+      "bt_name": "Solomon Hill",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 35,
+      "adj_porpagatu": 4.10206
+    },
+    {
+      "id": "tim-hardaway-jr-2013",
+      "name": "Tim Hardaway Jr.",
+      "school": "Michigan",
+      "bt_name": "Tim Hardaway Jr.",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 37,
+      "adj_porpagatu": 3.56531
+    },
+    {
+      "id": "reggie-bullock-2013",
+      "name": "Reggie Bullock",
+      "school": "UNC",
+      "bt_name": "Reggie Bullock",
+      "bt_team": "North Carolina",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 4.78008
+    },
+    {
+      "id": "andre-roberson-2013",
+      "name": "Andre Roberson",
+      "school": "Colorado",
+      "bt_name": "Andre Roberson",
+      "bt_team": "Colorado",
+      "bt_conf": "P12",
+      "gp": 31,
+      "adj_porpagatu": 2.25599
+    },
+    {
+      "id": "archie-goodwin-2013",
+      "name": "Archie Goodwin",
+      "school": "Kentucky",
+      "bt_name": "Archie Goodwin",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 2.61308
+    },
+    {
+      "id": "allen-crabbe-2013",
+      "name": "Allen Crabbe",
+      "school": "California",
+      "bt_name": "Allen Crabbe",
+      "bt_team": "California",
+      "bt_conf": "P12",
+      "gp": 33,
+      "adj_porpagatu": 4.68127
+    },
+    {
+      "id": "carrick-felix-2013",
+      "name": "Carrick Felix",
+      "school": "Arizona State",
+      "bt_name": "Carrick Felix",
+      "bt_team": "Arizona St.",
+      "bt_conf": "P12",
+      "gp": 35,
+      "adj_porpagatu": 3.46869
+    },
+    {
+      "id": "isaiah-canaan-2013",
+      "name": "Isaiah Canaan",
+      "school": "Murray State",
+      "bt_name": "Isaiah Canaan",
+      "bt_team": "Murray St.",
+      "bt_conf": "OVC",
+      "gp": 29,
+      "adj_porpagatu": 4.98726
+    },
+    {
+      "id": "ray-mccallum-2013",
+      "name": "Ray McCallum",
+      "school": "Detroit Mercy",
+      "bt_name": "Ray McCallum",
+      "bt_team": "Detroit Mercy",
+      "bt_conf": "Horz",
+      "gp": 31,
+      "adj_porpagatu": 5.20097
+    },
+    {
+      "id": "tony-mitchell-2013",
+      "name": "Tony Mitchell",
+      "school": "University of North Texas",
+      "bt_name": "Tony Mitchell",
+      "bt_team": "North Texas",
+      "bt_conf": "SB",
+      "gp": 30,
+      "adj_porpagatu": 1.77259
+    },
+    {
+      "id": "nate-wolters-2013",
+      "name": "Nate Wolters",
+      "school": "South Dakota State",
+      "bt_name": "Nate Wolters",
+      "bt_team": "South Dakota St.",
+      "bt_conf": "Sum",
+      "gp": 31,
+      "adj_porpagatu": 6.71315
+    },
+    {
+      "id": "jeff-withey-2013",
+      "name": "Jeff Withey",
+      "school": "Kansas",
+      "bt_name": "Jeff Withey",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 37,
+      "adj_porpagatu": 3.58138
+    },
+    {
+      "id": "grant-jerrett-2013",
+      "name": "Grant Jerrett",
+      "school": "Arizona",
+      "bt_name": "Grant Jerrett",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 34,
+      "adj_porpagatu": 1.55583
+    },
+    {
+      "id": "jamaal-franklin-2013",
+      "name": "Jamaal Franklin",
+      "school": "San Diego State",
+      "bt_name": "Jamaal Franklin",
+      "bt_team": "San Diego St.",
+      "bt_conf": "MWC",
+      "gp": 32,
+      "adj_porpagatu": 3.74012
+    },
+    {
+      "id": "pierre-jackson-2013",
+      "name": "Pierre Jackson",
+      "school": "Baylor",
+      "bt_name": "Pierre Jackson",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 36,
+      "adj_porpagatu": 5.97887
+    },
+    {
+      "id": "mike-muscala-2013",
+      "name": "Mike Muscala",
+      "school": "Bucknell",
+      "bt_name": "Mike Muscala",
+      "bt_team": "Bucknell",
+      "bt_conf": "Pat",
+      "gp": 33,
+      "adj_porpagatu": 5.30295
+    },
+    {
+      "id": "erick-green-2013",
+      "name": "Erick Green",
+      "school": "Virginia Tech",
+      "bt_name": "Erick Green",
+      "bt_team": "Virginia Tech",
+      "bt_conf": "ACC",
+      "gp": 32,
+      "adj_porpagatu": 7.18177
+    },
+    {
+      "id": "ryan-kelly-2013",
+      "name": "Ryan Kelly",
+      "school": "Duke",
+      "bt_name": "Ryan Kelly",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 23,
+      "adj_porpagatu": 4.36943
+    },
+    {
+      "id": "erik-murphy-2013",
+      "name": "Erik Murphy",
+      "school": "Florida",
+      "bt_name": "Erik Murphy",
+      "bt_team": "Florida",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 4.18365
+    },
+    {
+      "id": "james-ennis-iii-2013",
+      "name": "James Ennis III",
+      "school": "Cal State Long Beach",
+      "bt_name": "James Ennis",
+      "bt_team": "Long Beach St.",
+      "bt_conf": "BW",
+      "gp": 31,
+      "adj_porpagatu": 3.74103
+    },
+    {
+      "id": "romero-osby-2013",
+      "name": "Romero Osby",
+      "school": "Oklahoma",
+      "bt_name": "Romero Osby",
+      "bt_team": "Oklahoma",
+      "bt_conf": "B12",
+      "gp": 32,
+      "adj_porpagatu": 4.92012
+    },
+    {
+      "id": "lorenzo-brown-2013",
+      "name": "Lorenzo Brown",
+      "school": "NC State",
+      "bt_name": "Lorenzo Brown",
+      "bt_team": "N.C. State",
+      "bt_conf": "ACC",
+      "gp": 33,
+      "adj_porpagatu": 3.34278
+    },
+    {
+      "id": "colton-iverson-2013",
+      "name": "Colton Iverson",
+      "school": "Colorado State",
+      "bt_name": "Colton Iverson",
+      "bt_team": "Colorado St.",
+      "bt_conf": "MWC",
+      "gp": 33,
+      "adj_porpagatu": 4.19182
+    },
+    {
+      "id": "arsalan-kazemi-2013",
+      "name": "Arsalan Kazemi",
+      "school": "Oregon",
+      "bt_name": "Arsalan Kazemi",
+      "bt_team": "Oregon",
+      "bt_conf": "P12",
+      "gp": 35,
+      "adj_porpagatu": 3.21427
+    },
+    {
+      "id": "peyton-siva-2013",
+      "name": "Peyton Siva",
+      "school": "Louisville",
+      "bt_name": "Peyton Siva",
+      "bt_team": "Louisville",
+      "bt_conf": "BE",
+      "gp": 40,
+      "adj_porpagatu": 2.95862
+    },
+    {
+      "id": "alex-oriakhi-2013",
+      "name": "Alex Oriakhi",
+      "school": "Missouri",
+      "bt_name": "Alex Oriakhi",
+      "bt_team": "Missouri",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 3.89755
+    },
+    {
+      "id": "deshaun-thomas-2013",
+      "name": "Deshaun Thomas",
+      "school": "Ohio State",
+      "bt_name": "Deshaun Thomas",
+      "bt_team": "Ohio St.",
+      "bt_conf": "B10",
+      "gp": 37,
+      "adj_porpagatu": 5.74723
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "giannis-antetokounmpo-2013",
+      "name": "Giannis Antetokounmpo",
+      "school": null
+    },
+    {
+      "id": "lucas-nogueira-2013",
+      "name": "Lucas Nogueira",
+      "school": null
+    },
+    {
+      "id": "dennis-schr-der-2013",
+      "name": "Dennis Schröder",
+      "school": null
+    },
+    {
+      "id": "sergey-karasev-2013",
+      "name": "Sergey Karasev",
+      "school": null
+    },
+    {
+      "id": "rudy-gobert-2013",
+      "name": "Rudy Gobert",
+      "school": null
+    },
+    {
+      "id": "livio-jean-charles-2013",
+      "name": "Livio Jean-Charles",
+      "school": null
+    },
+    {
+      "id": "nemanja-nedovi-2013",
+      "name": "Nemanja Nedović",
+      "school": null
+    },
+    {
+      "id": "lex-abrines-2013",
+      "name": "Álex Abrines",
+      "school": null
+    },
+    {
+      "id": "glen-rice-jr-2013",
+      "name": "Glen Rice Jr.",
+      "school": "Georgia Tech"
+    },
+    {
+      "id": "ricky-ledo-2013",
+      "name": "Ricky Ledo",
+      "school": "Providence"
+    },
+    {
+      "id": "marko-todorovi-2013",
+      "name": "Marko Todorović",
+      "school": null
+    },
+    {
+      "id": "raul-neto-2013",
+      "name": "Raul Neto",
+      "school": null
+    },
+    {
+      "id": "joffrey-lauvergne-2013",
+      "name": "Joffrey Lauvergne",
+      "school": null
+    },
+    {
+      "id": "bojan-dubljevi-2013",
+      "name": "Bojan Dubljević",
+      "school": null
+    },
+    {
+      "id": "j-nis-timma-2013",
+      "name": "Jānis Timma",
+      "school": null
+    }
+  ]
+}

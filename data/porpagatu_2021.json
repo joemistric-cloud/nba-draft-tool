@@ -1,0 +1,556 @@
+{
+  "matched": [
+    {
+      "id": "cade-cunningham-2021",
+      "name": "Cade Cunningham",
+      "school": "Oklahoma State",
+      "bt_name": "Cade Cunningham",
+      "bt_team": "Oklahoma St.",
+      "bt_conf": "B12",
+      "gp": 27,
+      "adj_porpagatu": 4.33148
+    },
+    {
+      "id": "evan-mobley-2021",
+      "name": "Evan Mobley",
+      "school": "USC",
+      "bt_name": "Evan Mobley",
+      "bt_team": "USC",
+      "bt_conf": "P12",
+      "gp": 33,
+      "adj_porpagatu": 5.40967
+    },
+    {
+      "id": "scottie-barnes-2021",
+      "name": "Scottie Barnes",
+      "school": "Florida State",
+      "bt_name": "Scottie Barnes",
+      "bt_team": "Florida St.",
+      "bt_conf": "ACC",
+      "gp": 24,
+      "adj_porpagatu": 2.97062
+    },
+    {
+      "id": "jalen-suggs-2021",
+      "name": "Jalen Suggs",
+      "school": "Gonzaga",
+      "bt_name": "Jalen Suggs",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 30,
+      "adj_porpagatu": 3.7989
+    },
+    {
+      "id": "franz-wagner-2021",
+      "name": "Franz Wagner",
+      "school": "Michigan",
+      "bt_name": "Franz Wagner",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 28,
+      "adj_porpagatu": 4.39133
+    },
+    {
+      "id": "davion-mitchell-2021",
+      "name": "Davion Mitchell",
+      "school": "Baylor",
+      "bt_name": "Davion Mitchell",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 30,
+      "adj_porpagatu": 5.10995
+    },
+    {
+      "id": "ziaire-williams-2021",
+      "name": "Ziaire Williams",
+      "school": "Stanford",
+      "bt_name": "Ziaire Williams",
+      "bt_team": "Stanford",
+      "bt_conf": "P12",
+      "gp": 20,
+      "adj_porpagatu": 0.986638
+    },
+    {
+      "id": "james-bouknight-2021",
+      "name": "James Bouknight",
+      "school": "UConn",
+      "bt_name": "James Bouknight",
+      "bt_team": "Connecticut",
+      "bt_conf": "BE",
+      "gp": 15,
+      "adj_porpagatu": 4.5629
+    },
+    {
+      "id": "joshua-primo-2021",
+      "name": "Joshua Primo",
+      "school": "Alabama",
+      "bt_name": "Joshua Primo",
+      "bt_team": "Alabama",
+      "bt_conf": "SEC",
+      "gp": 30,
+      "adj_porpagatu": 1.72159
+    },
+    {
+      "id": "chris-duarte-2021",
+      "name": "Chris Duarte",
+      "school": "Oregon",
+      "bt_name": "Chris Duarte",
+      "bt_team": "Oregon",
+      "bt_conf": "P12",
+      "gp": 26,
+      "adj_porpagatu": 5.37969
+    },
+    {
+      "id": "moses-moody-2021",
+      "name": "Moses Moody",
+      "school": "Arkansas",
+      "bt_name": "Moses Moody",
+      "bt_team": "Arkansas",
+      "bt_conf": "SEC",
+      "gp": 32,
+      "adj_porpagatu": 4.3672
+    },
+    {
+      "id": "corey-kispert-2021",
+      "name": "Corey Kispert",
+      "school": "Gonzaga",
+      "bt_name": "Corey Kispert",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 32,
+      "adj_porpagatu": 5.75643
+    },
+    {
+      "id": "trey-murphy-iii-2021",
+      "name": "Trey Murphy III",
+      "school": "Virginia",
+      "bt_name": "Trey Murphy III",
+      "bt_team": "Virginia",
+      "bt_conf": "ACC",
+      "gp": 25,
+      "adj_porpagatu": 4.26718
+    },
+    {
+      "id": "tre-mann-2021",
+      "name": "Tre Mann",
+      "school": "Florida",
+      "bt_name": "Tre Mann",
+      "bt_team": "Florida",
+      "bt_conf": "SEC",
+      "gp": 24,
+      "adj_porpagatu": 4.27911
+    },
+    {
+      "id": "kai-jones-2021",
+      "name": "Kai Jones",
+      "school": "Texas",
+      "bt_name": "Kai Jones",
+      "bt_team": "Texas",
+      "bt_conf": "B12",
+      "gp": 26,
+      "adj_porpagatu": 2.77713
+    },
+    {
+      "id": "jalen-johnson-2021",
+      "name": "Jalen Johnson",
+      "school": "Duke",
+      "bt_name": "Jalen Johnson",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 13,
+      "adj_porpagatu": 2.53394
+    },
+    {
+      "id": "keon-johnson-2021",
+      "name": "Keon Johnson",
+      "school": "Tennessee",
+      "bt_name": "Keon Johnson",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 27,
+      "adj_porpagatu": 2.04142
+    },
+    {
+      "id": "isaiah-jackson-2021",
+      "name": "Isaiah Jackson",
+      "school": "Kentucky",
+      "bt_name": "Isaiah Jackson",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 25,
+      "adj_porpagatu": 2.26664
+    },
+    {
+      "id": "josh-christopher-2021",
+      "name": "Josh Christopher",
+      "school": "Arizona State",
+      "bt_name": "Josh Christopher",
+      "bt_team": "Arizona St.",
+      "bt_conf": "P12",
+      "gp": 15,
+      "adj_porpagatu": 2.47953
+    },
+    {
+      "id": "quentin-grimes-2021",
+      "name": "Quentin Grimes",
+      "school": "Houston",
+      "bt_name": "Quentin Grimes",
+      "bt_team": "Houston",
+      "bt_conf": "Amer",
+      "gp": 30,
+      "adj_porpagatu": 5.28306
+    },
+    {
+      "id": "bones-hyland-2021",
+      "name": "Bones Hyland",
+      "school": "VCU",
+      "bt_name": "Nah'Shon Hyland",
+      "bt_team": "VCU",
+      "bt_conf": "A10",
+      "gp": 24,
+      "adj_porpagatu": 3.95682
+    },
+    {
+      "id": "cam-thomas-2021",
+      "name": "Cam Thomas",
+      "school": "LSU",
+      "bt_name": "Cameron Thomas",
+      "bt_team": "LSU",
+      "bt_conf": "SEC",
+      "gp": 29,
+      "adj_porpagatu": 5.96889
+    },
+    {
+      "id": "jaden-springer-2021",
+      "name": "Jaden Springer",
+      "school": "Tennessee",
+      "bt_name": "Jaden Springer",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 25,
+      "adj_porpagatu": 3.10908
+    },
+    {
+      "id": "day-ron-sharpe-2021",
+      "name": "Day'Ron Sharpe",
+      "school": "UNC",
+      "bt_name": "Day'Ron Sharpe",
+      "bt_team": "North Carolina",
+      "bt_conf": "ACC",
+      "gp": 29,
+      "adj_porpagatu": 2.08121
+    },
+    {
+      "id": "santi-aldama-2021",
+      "name": "Santi Aldama",
+      "school": "Loyola (MD)",
+      "bt_name": "Santi Aldama",
+      "bt_team": "Loyola MD",
+      "bt_conf": "Pat",
+      "gp": 17,
+      "adj_porpagatu": 3.68384
+    },
+    {
+      "id": "jeremiah-robinson-earl-2021",
+      "name": "Jeremiah Robinson-Earl",
+      "school": "Villanova",
+      "bt_name": "Jeremiah Robinson-Earl",
+      "bt_team": "Villanova",
+      "bt_conf": "BE",
+      "gp": 25,
+      "adj_porpagatu": 4.96291
+    },
+    {
+      "id": "jason-preston-2021",
+      "name": "Jason Preston",
+      "school": "Ohio University",
+      "bt_name": "Jason Preston",
+      "bt_team": "Ohio",
+      "bt_conf": "MAC",
+      "gp": 19,
+      "adj_porpagatu": 4.18482
+    },
+    {
+      "id": "herbert-jones-2021",
+      "name": "Herbert Jones",
+      "school": "Alabama",
+      "bt_name": "Herbert Jones",
+      "bt_team": "Alabama",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 2.81087
+    },
+    {
+      "id": "miles-mcbride-2021",
+      "name": "Miles McBride",
+      "school": "West Virginia",
+      "bt_name": "Miles McBride",
+      "bt_team": "West Virginia",
+      "bt_conf": "B12",
+      "gp": 29,
+      "adj_porpagatu": 5.32657
+    },
+    {
+      "id": "jt-thor-2021",
+      "name": "JT Thor",
+      "school": "Auburn",
+      "bt_name": "JT Thor",
+      "bt_team": "Auburn",
+      "bt_conf": "SEC",
+      "gp": 27,
+      "adj_porpagatu": 2.10738
+    },
+    {
+      "id": "ayo-dosunmu-2021",
+      "name": "Ayo Dosunmu",
+      "school": "Illinois",
+      "bt_name": "Ayo Dosunmu",
+      "bt_team": "Illinois",
+      "bt_conf": "B10",
+      "gp": 28,
+      "adj_porpagatu": 5.51059
+    },
+    {
+      "id": "neemias-queta-2021",
+      "name": "Neemias Queta",
+      "school": "Utah State University",
+      "bt_name": "Neemias Queta",
+      "bt_team": "Utah St.",
+      "bt_conf": "MWC",
+      "gp": 28,
+      "adj_porpagatu": 3.85894
+    },
+    {
+      "id": "jared-butler-2021",
+      "name": "Jared Butler",
+      "school": "Baylor",
+      "bt_name": "Jared Butler",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 30,
+      "adj_porpagatu": 5.12189
+    },
+    {
+      "id": "joe-wieskamp-2021",
+      "name": "Joe Wieskamp",
+      "school": "Iowa",
+      "bt_name": "Joe Wieskamp",
+      "bt_team": "Iowa",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 4.24195
+    },
+    {
+      "id": "isaiah-livers-2021",
+      "name": "Isaiah Livers",
+      "school": "Michigan",
+      "bt_name": "Isaiah Livers",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 23,
+      "adj_porpagatu": 4.58915
+    },
+    {
+      "id": "greg-brown-iii-2021",
+      "name": "Greg Brown III",
+      "school": "Texas",
+      "bt_name": "Greg Brown III",
+      "bt_team": "Texas",
+      "bt_conf": "B12",
+      "gp": 26,
+      "adj_porpagatu": 1.33849
+    },
+    {
+      "id": "kessler-edwards-2021",
+      "name": "Kessler Edwards",
+      "school": "Pepperdine",
+      "bt_name": "Kessler Edwards",
+      "bt_team": "Pepperdine",
+      "bt_conf": "WCC",
+      "gp": 25,
+      "adj_porpagatu": 3.82276
+    },
+    {
+      "id": "dalano-banton-2021",
+      "name": "Dalano Banton",
+      "school": "Nebraska",
+      "bt_name": "Dalano Banton",
+      "bt_team": "Nebraska",
+      "bt_conf": "B10",
+      "gp": 26,
+      "adj_porpagatu": 1.57258
+    },
+    {
+      "id": "david-johnson-2021",
+      "name": "David Johnson",
+      "school": "Louisville",
+      "bt_name": "David Johnson",
+      "bt_team": "Louisville",
+      "bt_conf": "ACC",
+      "gp": 19,
+      "adj_porpagatu": 2.06071
+    },
+    {
+      "id": "sharife-cooper-2021",
+      "name": "Sharife Cooper",
+      "school": "Auburn",
+      "bt_name": "Sharife Cooper",
+      "bt_team": "Auburn",
+      "bt_conf": "SEC",
+      "gp": 12,
+      "adj_porpagatu": 5.69772
+    },
+    {
+      "id": "marcus-zegarowski-2021",
+      "name": "Marcus Zegarowski",
+      "school": "Creighton",
+      "bt_name": "Marcus Zegarowski",
+      "bt_team": "Creighton",
+      "bt_conf": "BE",
+      "gp": 29,
+      "adj_porpagatu": 4.74652
+    },
+    {
+      "id": "brandon-boston-jr-2021",
+      "name": "Brandon Boston Jr.",
+      "school": "Kentucky",
+      "bt_name": "Brandon Boston Jr.",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 25,
+      "adj_porpagatu": 2.05167
+    },
+    {
+      "id": "luka-garza-2021",
+      "name": "Luka Garza",
+      "school": "Iowa",
+      "bt_name": "Luka Garza",
+      "bt_team": "Iowa",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 7.04114
+    },
+    {
+      "id": "charles-bassey-2021",
+      "name": "Charles Bassey",
+      "school": "Western Kentucky",
+      "bt_name": "Charles Bassey",
+      "bt_team": "Western Kentucky",
+      "bt_conf": "CUSA",
+      "gp": 28,
+      "adj_porpagatu": 4.56445
+    },
+    {
+      "id": "sandro-mamukelashvili-2021",
+      "name": "Sandro Mamukelashvili",
+      "school": "Seton Hall",
+      "bt_name": "Sandro Mamukelashvili",
+      "bt_team": "Seton Hall",
+      "bt_conf": "BE",
+      "gp": 27,
+      "adj_porpagatu": 3.92079
+    },
+    {
+      "id": "aaron-wiggins-2021",
+      "name": "Aaron Wiggins",
+      "school": "Maryland",
+      "bt_name": "Aaron Wiggins",
+      "bt_team": "Maryland",
+      "bt_conf": "B10",
+      "gp": 30,
+      "adj_porpagatu": 3.8676
+    },
+    {
+      "id": "scottie-lewis-2021",
+      "name": "Scottie Lewis",
+      "school": "Florida",
+      "bt_name": "Scottie Lewis",
+      "bt_team": "Florida",
+      "bt_conf": "SEC",
+      "gp": 21,
+      "adj_porpagatu": 1.27749
+    },
+    {
+      "id": "bal-a-koprivica-2021",
+      "name": "Balša Koprivica",
+      "school": "Florida State",
+      "bt_name": "Balsa Koprivica",
+      "bt_team": "Florida St.",
+      "bt_conf": "ACC",
+      "gp": 24,
+      "adj_porpagatu": 2.75622
+    },
+    {
+      "id": "jericho-sims-2021",
+      "name": "Jericho Sims",
+      "school": "Texas",
+      "bt_name": "Jericho Sims",
+      "bt_team": "Texas",
+      "bt_conf": "B12",
+      "gp": 26,
+      "adj_porpagatu": 2.60145
+    },
+    {
+      "id": "raiquan-gray-2021",
+      "name": "RaiQuan Gray",
+      "school": "Florida State",
+      "bt_name": "Raiquan Gray",
+      "bt_team": "Florida St.",
+      "bt_conf": "ACC",
+      "gp": 25,
+      "adj_porpagatu": 3.18598
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "jalen-green-2021",
+      "name": "Jalen Green",
+      "school": null
+    },
+    {
+      "id": "josh-giddey-2021",
+      "name": "Josh Giddey",
+      "school": null
+    },
+    {
+      "id": "jonathan-kuminga-2021",
+      "name": "Jonathan Kuminga",
+      "school": null
+    },
+    {
+      "id": "alperen-eng-n-2021",
+      "name": "Alperen Şengün",
+      "school": null
+    },
+    {
+      "id": "usman-garuba-2021",
+      "name": "Usman Garuba",
+      "school": null
+    },
+    {
+      "id": "isaiah-todd-2021",
+      "name": "Isaiah Todd",
+      "school": null
+    },
+    {
+      "id": "rokas-jokubaitis-2021",
+      "name": "Rokas Jokubaitis",
+      "school": null
+    },
+    {
+      "id": "juhann-begarin-2021",
+      "name": "Juhann Begarin",
+      "school": null
+    },
+    {
+      "id": "filip-petru-ev-2021",
+      "name": "Filip Petrušev",
+      "school": "Gonzaga"
+    },
+    {
+      "id": "georgios-kalaitzakis-2021",
+      "name": "Georgios Kalaitzakis",
+      "school": null
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "matched": [
+    {
+      "id": "ben-simmons-2016",
+      "name": "Ben Simmons",
+      "school": "LSU",
+      "bt_name": "Ben Simmons",
+      "bt_team": "LSU",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 4.96503
+    },
+    {
+      "id": "brandon-ingram-2016",
+      "name": "Brandon Ingram",
+      "school": "Duke",
+      "bt_name": "Brandon Ingram",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 4.30183
+    },
+    {
+      "id": "jaylen-brown-2016",
+      "name": "Jaylen Brown",
+      "school": "California",
+      "bt_name": "Jaylen Brown",
+      "bt_team": "California",
+      "bt_conf": "P12",
+      "gp": 34,
+      "adj_porpagatu": 2.20085
+    },
+    {
+      "id": "kris-dunn-2016",
+      "name": "Kris Dunn",
+      "school": "Providence",
+      "bt_name": "Kris Dunn",
+      "bt_team": "Providence",
+      "bt_conf": "BE",
+      "gp": 33,
+      "adj_porpagatu": 3.76513
+    },
+    {
+      "id": "buddy-hield-2016",
+      "name": "Buddy Hield",
+      "school": "Oklahoma",
+      "bt_name": "Buddy Hield",
+      "bt_team": "Oklahoma",
+      "bt_conf": "B12",
+      "gp": 37,
+      "adj_porpagatu": 6.66097
+    },
+    {
+      "id": "jamal-murray-2016",
+      "name": "Jamal Murray",
+      "school": "Kentucky",
+      "bt_name": "Jamal Murray",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 5.41929
+    },
+    {
+      "id": "marquese-chriss-2016",
+      "name": "Marquese Chriss",
+      "school": "Washington",
+      "bt_name": "Marquese Chriss",
+      "bt_team": "Washington",
+      "bt_conf": "P12",
+      "gp": 34,
+      "adj_porpagatu": 2.66204
+    },
+    {
+      "id": "jakob-poeltl-2016",
+      "name": "Jakob Poeltl",
+      "school": "Utah",
+      "bt_name": "Jakob Poeltl",
+      "bt_team": "Utah",
+      "bt_conf": "P12",
+      "gp": 35,
+      "adj_porpagatu": 5.4285
+    },
+    {
+      "id": "domantas-sabonis-2016",
+      "name": "Domantas Sabonis",
+      "school": "Gonzaga",
+      "bt_name": "Domantas Sabonis",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 35,
+      "adj_porpagatu": 4.82495
+    },
+    {
+      "id": "taurean-prince-2016",
+      "name": "Taurean Prince",
+      "school": "Baylor",
+      "bt_name": "Taurean Prince",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 33,
+      "adj_porpagatu": 3.83649
+    },
+    {
+      "id": "denzel-valentine-2016",
+      "name": "Denzel Valentine",
+      "school": "Michigan State",
+      "bt_name": "Denzel Valentine",
+      "bt_team": "Michigan St.",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 6.66168
+    },
+    {
+      "id": "wade-baldwin-2016",
+      "name": "Wade Baldwin",
+      "school": "Vanderbilt",
+      "bt_name": "Wade Baldwin IV",
+      "bt_team": "Vanderbilt",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 3.75706
+    },
+    {
+      "id": "henry-ellenson-2016",
+      "name": "Henry Ellenson",
+      "school": "Marquette",
+      "bt_name": "Henry Ellenson",
+      "bt_team": "Marquette",
+      "bt_conf": "BE",
+      "gp": 33,
+      "adj_porpagatu": 3.06478
+    },
+    {
+      "id": "malik-beasley-2016",
+      "name": "Malik Beasley",
+      "school": "Florida State",
+      "bt_name": "Malik Beasley",
+      "bt_team": "Florida St.",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 3.71706
+    },
+    {
+      "id": "caris-levert-2016",
+      "name": "Caris LeVert",
+      "school": "Michigan",
+      "bt_name": "Caris LeVert",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 14,
+      "adj_porpagatu": 5.23015
+    },
+    {
+      "id": "deandre-bembry-2016",
+      "name": "DeAndre' Bembry",
+      "school": "Saint Joseph's",
+      "bt_name": "DeAndre' Bembry",
+      "bt_team": "Saint Joseph's",
+      "bt_conf": "A10",
+      "gp": 36,
+      "adj_porpagatu": 4.22182
+    },
+    {
+      "id": "malachi-richardson-2016",
+      "name": "Malachi Richardson",
+      "school": "Syracuse",
+      "bt_name": "Malachi Richardson",
+      "bt_team": "Syracuse",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 2.29274
+    },
+    {
+      "id": "brice-johnson-2016",
+      "name": "Brice Johnson",
+      "school": "UNC",
+      "bt_name": "Brice Johnson",
+      "bt_team": "North Carolina",
+      "bt_conf": "ACC",
+      "gp": 40,
+      "adj_porpagatu": 5.12901
+    },
+    {
+      "id": "pascal-siakam-2016",
+      "name": "Pascal Siakam",
+      "school": "New Mexico State",
+      "bt_name": "Pascal Siakam",
+      "bt_team": "New Mexico St.",
+      "bt_conf": "WAC",
+      "gp": 32,
+      "adj_porpagatu": 4.52417
+    },
+    {
+      "id": "skal-labissi-re-2016",
+      "name": "Skal Labissière",
+      "school": "Kentucky",
+      "bt_name": "Skal Labissiere",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 1.32905
+    },
+    {
+      "id": "dejounte-murray-2016",
+      "name": "Dejounte Murray",
+      "school": "Washington",
+      "bt_name": "Dejounte Murray",
+      "bt_team": "Washington",
+      "bt_conf": "P12",
+      "gp": 34,
+      "adj_porpagatu": 2.44363
+    },
+    {
+      "id": "damian-jones-2016",
+      "name": "Damian Jones",
+      "school": "Vanderbilt",
+      "bt_name": "Damian Jones",
+      "bt_team": "Vanderbilt",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 2.96533
+    },
+    {
+      "id": "deyonta-davis-2016",
+      "name": "Deyonta Davis",
+      "school": "Michigan State",
+      "bt_name": "Deyonta Davis",
+      "bt_team": "Michigan St.",
+      "bt_conf": "B10",
+      "gp": 35,
+      "adj_porpagatu": 2.18815
+    },
+    {
+      "id": "cheick-diallo-2016",
+      "name": "Cheick Diallo",
+      "school": "Kansas",
+      "bt_name": "Cheick Diallo",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 27,
+      "adj_porpagatu": 0.451707
+    },
+    {
+      "id": "tyler-ulis-2016",
+      "name": "Tyler Ulis",
+      "school": "Kentucky",
+      "bt_name": "Tyler Ulis",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 35,
+      "adj_porpagatu": 6.49897
+    },
+    {
+      "id": "malcolm-brogdon-2016",
+      "name": "Malcolm Brogdon",
+      "school": "Virginia",
+      "bt_name": "Malcolm Brogdon",
+      "bt_team": "Virginia",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 5.83502
+    },
+    {
+      "id": "chinanu-onuaku-2016",
+      "name": "Chinanu Onuaku",
+      "school": "Louisville",
+      "bt_name": "Chinanu Onuaku",
+      "bt_team": "Louisville",
+      "bt_conf": "ACC",
+      "gp": 31,
+      "adj_porpagatu": 2.61786
+    },
+    {
+      "id": "patrick-mccaw-2016",
+      "name": "Patrick McCaw",
+      "school": "UNLV",
+      "bt_name": "Patrick McCaw",
+      "bt_team": "UNLV",
+      "bt_conf": "MWC",
+      "gp": 31,
+      "adj_porpagatu": 3.12781
+    },
+    {
+      "id": "diamond-stone-2016",
+      "name": "Diamond Stone",
+      "school": "Maryland",
+      "bt_name": "Diamond Stone",
+      "bt_team": "Maryland",
+      "bt_conf": "B10",
+      "gp": 34,
+      "adj_porpagatu": 3.23767
+    },
+    {
+      "id": "stephen-zimmerman-2016",
+      "name": "Stephen Zimmerman",
+      "school": "UNLV",
+      "bt_name": "Stephen Zimmerman Jr.",
+      "bt_team": "UNLV",
+      "bt_conf": "MWC",
+      "gp": 25,
+      "adj_porpagatu": 0.97064
+    },
+    {
+      "id": "isaiah-whitehead-2016",
+      "name": "Isaiah Whitehead",
+      "school": "Seton Hall",
+      "bt_name": "Isaiah Whitehead",
+      "bt_team": "Seton Hall",
+      "bt_conf": "BE",
+      "gp": 34,
+      "adj_porpagatu": 3.79632
+    },
+    {
+      "id": "demetrius-jackson-2016",
+      "name": "Demetrius Jackson",
+      "school": "Notre Dame",
+      "bt_name": "Demetrius Jackson",
+      "bt_team": "Notre Dame",
+      "bt_conf": "ACC",
+      "gp": 35,
+      "adj_porpagatu": 4.89618
+    },
+    {
+      "id": "a-j-hammons-2016",
+      "name": "A.J. Hammons",
+      "school": "Purdue",
+      "bt_name": "A.J. Hammons",
+      "bt_team": "Purdue",
+      "bt_conf": "B10",
+      "gp": 33,
+      "adj_porpagatu": 3.55725
+    },
+    {
+      "id": "jake-layman-2016",
+      "name": "Jake Layman",
+      "school": "Maryland",
+      "bt_name": "Jake Layman",
+      "bt_team": "Maryland",
+      "bt_conf": "B10",
+      "gp": 35,
+      "adj_porpagatu": 3.19069
+    },
+    {
+      "id": "michael-gbinije-2016",
+      "name": "Michael Gbinije",
+      "school": "Syracuse",
+      "bt_name": "Michael Gbinije",
+      "bt_team": "Syracuse",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 4.58418
+    },
+    {
+      "id": "georges-niang-2016",
+      "name": "Georges Niang",
+      "school": "Iowa State",
+      "bt_name": "Georges Niang",
+      "bt_team": "Iowa St.",
+      "bt_conf": "B12",
+      "gp": 35,
+      "adj_porpagatu": 5.58008
+    },
+    {
+      "id": "ben-bentil-2016",
+      "name": "Ben Bentil",
+      "school": "Providence",
+      "bt_name": "Ben Bentil",
+      "bt_team": "Providence",
+      "bt_conf": "BE",
+      "gp": 35,
+      "adj_porpagatu": 4.84825
+    },
+    {
+      "id": "joel-bolomboy-2016",
+      "name": "Joel Bolomboy",
+      "school": "Weber State",
+      "bt_name": "Joel Bolomboy",
+      "bt_team": "Weber St.",
+      "bt_conf": "BSky",
+      "gp": 30,
+      "adj_porpagatu": 3.30905
+    },
+    {
+      "id": "kay-felder-2016",
+      "name": "Kay Felder",
+      "school": "Oakland",
+      "bt_name": "Kahlil Felder",
+      "bt_team": "Oakland",
+      "bt_conf": "Horz",
+      "gp": 35,
+      "adj_porpagatu": 6.60136
+    },
+    {
+      "id": "marcus-paige-2016",
+      "name": "Marcus Paige",
+      "school": "UNC",
+      "bt_name": "Marcus Paige",
+      "bt_team": "North Carolina",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 3.93251
+    },
+    {
+      "id": "daniel-hamilton-2016",
+      "name": "Daniel Hamilton",
+      "school": "UConn",
+      "bt_name": "Daniel Hamilton",
+      "bt_team": "Connecticut",
+      "bt_conf": "Amer",
+      "gp": 36,
+      "adj_porpagatu": 2.77615
+    },
+    {
+      "id": "abdel-nader-2016",
+      "name": "Abdel Nader",
+      "school": "Iowa State",
+      "bt_name": "Abdel Nader",
+      "bt_team": "Iowa St.",
+      "bt_conf": "B12",
+      "gp": 35,
+      "adj_porpagatu": 2.48551
+    },
+    {
+      "id": "isaiah-cousins-2016",
+      "name": "Isaiah Cousins",
+      "school": "Oklahoma",
+      "bt_name": "Isaiah Cousins",
+      "bt_team": "Oklahoma",
+      "bt_conf": "B12",
+      "gp": 37,
+      "adj_porpagatu": 3.01868
+    },
+    {
+      "id": "tyrone-wallace-2016",
+      "name": "Tyrone Wallace",
+      "school": "California",
+      "bt_name": "Tyrone Wallace",
+      "bt_team": "California",
+      "bt_conf": "P12",
+      "gp": 28,
+      "adj_porpagatu": 3.17358
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "dragan-bender-2016",
+      "name": "Dragan Bender",
+      "school": null
+    },
+    {
+      "id": "thon-maker-2016",
+      "name": "Thon Maker",
+      "school": null
+    },
+    {
+      "id": "georgios-papagiannis-2016",
+      "name": "Georgios Papagiannis",
+      "school": null
+    },
+    {
+      "id": "juancho-hernang-mez-2016",
+      "name": "Juancho Hernangómez",
+      "school": null
+    },
+    {
+      "id": "guerschon-yabusele-2016",
+      "name": "Guerschon Yabusele",
+      "school": null
+    },
+    {
+      "id": "ante-i-i-2016",
+      "name": "Ante Žižić",
+      "school": null
+    },
+    {
+      "id": "timoth-luwawu-cabarrot-2016",
+      "name": "Timothé Luwawu-Cabarrot",
+      "school": null
+    },
+    {
+      "id": "furkan-korkmaz-2016",
+      "name": "Furkan Korkmaz",
+      "school": null
+    },
+    {
+      "id": "ivica-zubac-2016",
+      "name": "Ivica Zubac",
+      "school": null
+    },
+    {
+      "id": "rade-zagorac-2016",
+      "name": "Rade Zagorac",
+      "school": null
+    },
+    {
+      "id": "david-michineau-2016",
+      "name": "David Michineau",
+      "school": null
+    },
+    {
+      "id": "zhou-qi-2016",
+      "name": "Zhou Qi",
+      "school": null
+    },
+    {
+      "id": "isa-a-cordinier-2016",
+      "name": "Isaïa Cordinier",
+      "school": null
+    },
+    {
+      "id": "paul-zipser-2016",
+      "name": "Paul Zipser",
+      "school": null
+    },
+    {
+      "id": "petr-cornelie-2016",
+      "name": "Petr Cornelie",
+      "school": null
+    },
+    {
+      "id": "wang-zhelin-2016",
+      "name": "Wang Zhelin",
+      "school": null
+    }
+  ]
+}

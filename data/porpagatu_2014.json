@@ -1,0 +1,531 @@
+{
+  "matched": [
+    {
+      "id": "andrew-wiggins-2014",
+      "name": "Andrew Wiggins",
+      "school": "Kansas",
+      "bt_name": "Andrew Wiggins",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 35,
+      "adj_porpagatu": 4.24085
+    },
+    {
+      "id": "jabari-parker-2014",
+      "name": "Jabari Parker",
+      "school": "Duke",
+      "bt_name": "Jabari Parker",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 35,
+      "adj_porpagatu": 4.91923
+    },
+    {
+      "id": "joel-embiid-2014",
+      "name": "Joel Embiid",
+      "school": "Kansas",
+      "bt_name": "Joel Embiid",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 28,
+      "adj_porpagatu": 2.92867
+    },
+    {
+      "id": "aaron-gordon-2014",
+      "name": "Aaron Gordon",
+      "school": "Arizona",
+      "bt_name": "Aaron Gordon",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 38,
+      "adj_porpagatu": 2.86228
+    },
+    {
+      "id": "marcus-smart-2014",
+      "name": "Marcus Smart",
+      "school": "Oklahoma State",
+      "bt_name": "Marcus Smart",
+      "bt_team": "Oklahoma St.",
+      "bt_conf": "B12",
+      "gp": 31,
+      "adj_porpagatu": 4.50623
+    },
+    {
+      "id": "julius-randle-2014",
+      "name": "Julius Randle",
+      "school": "Kentucky",
+      "bt_name": "Julius Randle",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 40,
+      "adj_porpagatu": 4.08221
+    },
+    {
+      "id": "nik-stauskas-2014",
+      "name": "Nik Stauskas",
+      "school": "Michigan",
+      "bt_name": "Nik Stauskas",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 36,
+      "adj_porpagatu": 6.20589
+    },
+    {
+      "id": "noah-vonleh-2014",
+      "name": "Noah Vonleh",
+      "school": "Indiana",
+      "bt_name": "Noah Vonleh",
+      "bt_team": "Indiana",
+      "bt_conf": "B10",
+      "gp": 30,
+      "adj_porpagatu": 2.41123
+    },
+    {
+      "id": "elfrid-payton-2014",
+      "name": "Elfrid Payton",
+      "school": "Louisiana",
+      "bt_name": "Elfrid Payton",
+      "bt_team": "Louisiana",
+      "bt_conf": "SB",
+      "gp": 32,
+      "adj_porpagatu": 3.95247
+    },
+    {
+      "id": "doug-mcdermott-2014",
+      "name": "Doug McDermott",
+      "school": "Creighton",
+      "bt_name": "Doug McDermott",
+      "bt_team": "Creighton",
+      "bt_conf": "BE",
+      "gp": 35,
+      "adj_porpagatu": 7.36282
+    },
+    {
+      "id": "zach-lavine-2014",
+      "name": "Zach LaVine",
+      "school": "UCLA",
+      "bt_name": "Zach LaVine",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 37,
+      "adj_porpagatu": 1.84098
+    },
+    {
+      "id": "t-j-warren-2014",
+      "name": "T.J. Warren",
+      "school": "NC State",
+      "bt_name": "T.J. Warren",
+      "bt_team": "N.C. State",
+      "bt_conf": "ACC",
+      "gp": 35,
+      "adj_porpagatu": 6.17987
+    },
+    {
+      "id": "adreian-payne-2014",
+      "name": "Adreian Payne",
+      "school": "Michigan State",
+      "bt_name": "Adreian Payne",
+      "bt_team": "Michigan St.",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 4.04018
+    },
+    {
+      "id": "james-young-2014",
+      "name": "James Young",
+      "school": "Kentucky",
+      "bt_name": "James Young",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 40,
+      "adj_porpagatu": 3.65162
+    },
+    {
+      "id": "tyler-ennis-2014",
+      "name": "Tyler Ennis",
+      "school": "Syracuse",
+      "bt_name": "Tyler Ennis",
+      "bt_team": "Syracuse",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 4.27438
+    },
+    {
+      "id": "gary-harris-2014",
+      "name": "Gary Harris",
+      "school": "Michigan State",
+      "bt_name": "Gary Harris",
+      "bt_team": "Michigan St.",
+      "bt_conf": "B10",
+      "gp": 35,
+      "adj_porpagatu": 4.64387
+    },
+    {
+      "id": "mitch-mcgary-2014",
+      "name": "Mitch McGary",
+      "school": "Michigan",
+      "bt_name": "Mitch McGary",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 8,
+      "adj_porpagatu": 2.87501
+    },
+    {
+      "id": "jordan-adams-2014",
+      "name": "Jordan Adams",
+      "school": "UCLA",
+      "bt_name": "Jordan Adams",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 36,
+      "adj_porpagatu": 4.91718
+    },
+    {
+      "id": "rodney-hood-2014",
+      "name": "Rodney Hood",
+      "school": "Duke",
+      "bt_name": "Rodney Hood",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 35,
+      "adj_porpagatu": 4.75453
+    },
+    {
+      "id": "shabazz-napier-2014",
+      "name": "Shabazz Napier",
+      "school": "UConn",
+      "bt_name": "Shabazz Napier",
+      "bt_team": "Connecticut",
+      "bt_conf": "Amer",
+      "gp": 40,
+      "adj_porpagatu": 5.5385
+    },
+    {
+      "id": "c-j-wilcox-2014",
+      "name": "C.J. Wilcox",
+      "school": "Washington",
+      "bt_name": "C.J. Wilcox",
+      "bt_team": "Washington",
+      "bt_conf": "P12",
+      "gp": 32,
+      "adj_porpagatu": 4.83552
+    },
+    {
+      "id": "josh-huestis-2014",
+      "name": "Josh Huestis",
+      "school": "Stanford",
+      "bt_name": "Josh Huestis",
+      "bt_team": "Stanford",
+      "bt_conf": "P12",
+      "gp": 36,
+      "adj_porpagatu": 2.56786
+    },
+    {
+      "id": "kyle-anderson-2014",
+      "name": "Kyle Anderson",
+      "school": "UCLA",
+      "bt_name": "Kyle Anderson",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 36,
+      "adj_porpagatu": 4.05962
+    },
+    {
+      "id": "k-j-mcdaniels-2014",
+      "name": "K.J. McDaniels",
+      "school": "Clemson",
+      "bt_name": "K.J. McDaniels",
+      "bt_team": "Clemson",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 4.44084
+    },
+    {
+      "id": "joe-harris-2014",
+      "name": "Joe Harris",
+      "school": "Virginia",
+      "bt_name": "Joe Harris",
+      "bt_team": "Virginia",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 3.37648
+    },
+    {
+      "id": "cleanthony-early-2014",
+      "name": "Cleanthony Early",
+      "school": "Wichita State",
+      "bt_name": "Cleanthony Early",
+      "bt_team": "Wichita St.",
+      "bt_conf": "MVC",
+      "gp": 35,
+      "adj_porpagatu": 3.83255
+    },
+    {
+      "id": "jarnell-stokes-2014",
+      "name": "Jarnell Stokes",
+      "school": "Tennessee",
+      "bt_name": "Jarnell Stokes",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 4.87072
+    },
+    {
+      "id": "johnny-o-bryant-2014",
+      "name": "Johnny O'Bryant",
+      "school": "LSU",
+      "bt_name": "Johnny O'Bryant III",
+      "bt_team": "LSU",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 2.58016
+    },
+    {
+      "id": "deandre-daniels-2014",
+      "name": "DeAndre Daniels",
+      "school": "UConn",
+      "bt_name": "Deandre Daniels",
+      "bt_team": "Connecticut",
+      "bt_conf": "Amer",
+      "gp": 38,
+      "adj_porpagatu": 2.88502
+    },
+    {
+      "id": "spencer-dinwiddie-2014",
+      "name": "Spencer Dinwiddie",
+      "school": "Colorado",
+      "bt_name": "Spencer Dinwiddie",
+      "bt_team": "Colorado",
+      "bt_conf": "P12",
+      "gp": 17,
+      "adj_porpagatu": 4.90165
+    },
+    {
+      "id": "jerami-grant-2014",
+      "name": "Jerami Grant",
+      "school": "Syracuse",
+      "bt_name": "Jerami Grant",
+      "bt_team": "Syracuse",
+      "bt_conf": "ACC",
+      "gp": 32,
+      "adj_porpagatu": 3.74525
+    },
+    {
+      "id": "glenn-robinson-iii-2014",
+      "name": "Glenn Robinson III",
+      "school": "Michigan",
+      "bt_name": "Glenn Robinson III",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 37,
+      "adj_porpagatu": 3.82377
+    },
+    {
+      "id": "nick-johnson-2014",
+      "name": "Nick Johnson",
+      "school": "Arizona",
+      "bt_name": "Nick Johnson",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 38,
+      "adj_porpagatu": 4.36163
+    },
+    {
+      "id": "markel-brown-2014",
+      "name": "Markel Brown",
+      "school": "Oklahoma State",
+      "bt_name": "Markel Brown",
+      "bt_team": "Oklahoma St.",
+      "bt_conf": "B12",
+      "gp": 34,
+      "adj_porpagatu": 4.65261
+    },
+    {
+      "id": "dwight-powell-2014",
+      "name": "Dwight Powell",
+      "school": "Stanford",
+      "bt_name": "Dwight Powell",
+      "bt_team": "Stanford",
+      "bt_conf": "P12",
+      "gp": 36,
+      "adj_porpagatu": 2.93092
+    },
+    {
+      "id": "jordan-clarkson-2014",
+      "name": "Jordan Clarkson",
+      "school": "Missouri",
+      "bt_name": "Jordan Clarkson",
+      "bt_team": "Missouri",
+      "bt_conf": "SEC",
+      "gp": 35,
+      "adj_porpagatu": 4.42955
+    },
+    {
+      "id": "russ-smith-2014",
+      "name": "Russ Smith",
+      "school": "Louisville",
+      "bt_name": "Russ Smith",
+      "bt_team": "Louisville",
+      "bt_conf": "Amer",
+      "gp": 37,
+      "adj_porpagatu": 4.49741
+    },
+    {
+      "id": "lamar-patterson-2014",
+      "name": "Lamar Patterson",
+      "school": "Pitt",
+      "bt_name": "Lamar Patterson",
+      "bt_team": "Pittsburgh",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 4.76589
+    },
+    {
+      "id": "cameron-bairstow-2014",
+      "name": "Cameron Bairstow",
+      "school": "New Mexico",
+      "bt_name": "Cameron Bairstow",
+      "bt_team": "New Mexico",
+      "bt_conf": "MWC",
+      "gp": 34,
+      "adj_porpagatu": 5.17565
+    },
+    {
+      "id": "alec-brown-2014",
+      "name": "Alec Brown",
+      "school": "Green Bay",
+      "bt_name": "Alec Brown",
+      "bt_team": "Green Bay",
+      "bt_conf": "Horz",
+      "gp": 27,
+      "adj_porpagatu": 2.93361
+    },
+    {
+      "id": "semaj-christon-2014",
+      "name": "Semaj Christon",
+      "school": "Xavier",
+      "bt_name": "Semaj Christon",
+      "bt_team": "Xavier",
+      "bt_conf": "BE",
+      "gp": 34,
+      "adj_porpagatu": 3.8818
+    },
+    {
+      "id": "devyn-marble-2014",
+      "name": "Devyn Marble",
+      "school": "Iowa",
+      "bt_name": "Roy Devyn Marble",
+      "bt_team": "Iowa",
+      "bt_conf": "B10",
+      "gp": 33,
+      "adj_porpagatu": 4.16663
+    },
+    {
+      "id": "jordan-mcrae-2014",
+      "name": "Jordan McRae",
+      "school": "Tennessee",
+      "bt_name": "Jordan McRae",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 5.06373
+    },
+    {
+      "id": "xavier-thames-2014",
+      "name": "Xavier Thames",
+      "school": "San Diego State",
+      "bt_name": "Xavier Thames",
+      "bt_team": "San Diego St.",
+      "bt_conf": "MWC",
+      "gp": 34,
+      "adj_porpagatu": 5.22999
+    },
+    {
+      "id": "cory-jefferson-2014",
+      "name": "Cory Jefferson",
+      "school": "Baylor",
+      "bt_name": "Cory Jefferson",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 36,
+      "adj_porpagatu": 3.72047
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "dant-exum-2014",
+      "name": "Danté Exum",
+      "school": null
+    },
+    {
+      "id": "dario-ari-2014",
+      "name": "Dario Šarić",
+      "school": null
+    },
+    {
+      "id": "jusuf-nurki-2014",
+      "name": "Jusuf Nurkić",
+      "school": null
+    },
+    {
+      "id": "bruno-caboclo-2014",
+      "name": "Bruno Caboclo",
+      "school": null
+    },
+    {
+      "id": "clint-capela-2014",
+      "name": "Clint Capela",
+      "school": null
+    },
+    {
+      "id": "p-j-hairston-2014",
+      "name": "P.J. Hairston",
+      "school": "UNC"
+    },
+    {
+      "id": "bogdan-bogdanovi-2014",
+      "name": "Bogdan Bogdanović",
+      "school": null
+    },
+    {
+      "id": "damien-inglis-2014",
+      "name": "Damien Inglis",
+      "school": null
+    },
+    {
+      "id": "nikola-joki-2014",
+      "name": "Nikola Jokić",
+      "school": null
+    },
+    {
+      "id": "edy-tavares-2014",
+      "name": "Edy Tavares",
+      "school": null
+    },
+    {
+      "id": "thanasis-antetokounmpo-2014",
+      "name": "Thanasis Antetokounmpo",
+      "school": null
+    },
+    {
+      "id": "vasilije-mici-2014",
+      "name": "Vasilije Micić",
+      "school": null
+    },
+    {
+      "id": "alessandro-gentile-2014",
+      "name": "Alessandro Gentile",
+      "school": null
+    },
+    {
+      "id": "nemanja-dangubi-2014",
+      "name": "Nemanja Dangubić",
+      "school": null
+    },
+    {
+      "id": "louis-labeyrie-2014",
+      "name": "Louis Labeyrie",
+      "school": null
+    }
+  ]
+}

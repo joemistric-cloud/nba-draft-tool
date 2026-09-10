@@ -1,0 +1,526 @@
+{
+  "matched": [
+    {
+      "id": "brandon-miller-2023",
+      "name": "Brandon Miller",
+      "school": "Alabama",
+      "bt_name": "Brandon Miller",
+      "bt_team": "Alabama",
+      "bt_conf": "SEC",
+      "gp": 37,
+      "adj_porpagatu": 4.9355
+    },
+    {
+      "id": "anthony-black-2023",
+      "name": "Anthony Black",
+      "school": "Arkansas",
+      "bt_name": "Anthony Black",
+      "bt_team": "Arkansas",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 2.81469
+    },
+    {
+      "id": "jarace-walker-2023",
+      "name": "Jarace Walker",
+      "school": "Houston",
+      "bt_name": "Jarace Walker",
+      "bt_team": "Houston",
+      "bt_conf": "Amer",
+      "gp": 36,
+      "adj_porpagatu": 3.01947
+    },
+    {
+      "id": "taylor-hendricks-2023",
+      "name": "Taylor Hendricks",
+      "school": "Central Florida",
+      "bt_name": "Taylor Hendricks",
+      "bt_team": "UCF",
+      "bt_conf": "Amer",
+      "gp": 34,
+      "adj_porpagatu": 4.31848
+    },
+    {
+      "id": "cason-wallace-2023",
+      "name": "Cason Wallace",
+      "school": "Kentucky",
+      "bt_name": "Cason Wallace",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 32,
+      "adj_porpagatu": 3.34005
+    },
+    {
+      "id": "jett-howard-2023",
+      "name": "Jett Howard",
+      "school": "Michigan",
+      "bt_name": "Jett Howard",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 29,
+      "adj_porpagatu": 3.41871
+    },
+    {
+      "id": "dereck-lively-ii-2023",
+      "name": "Dereck Lively II",
+      "school": "Duke",
+      "bt_name": "Dereck Lively II",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 2.43258
+    },
+    {
+      "id": "gradey-dick-2023",
+      "name": "Gradey Dick",
+      "school": "Kansas",
+      "bt_name": "Gradey Dick",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 36,
+      "adj_porpagatu": 3.98003
+    },
+    {
+      "id": "jordan-hawkins-2023",
+      "name": "Jordan Hawkins",
+      "school": "UConn",
+      "bt_name": "Jordan Hawkins",
+      "bt_team": "Connecticut",
+      "bt_conf": "BE",
+      "gp": 37,
+      "adj_porpagatu": 4.60715
+    },
+    {
+      "id": "kobe-bufkin-2023",
+      "name": "Kobe Bufkin",
+      "school": "Michigan",
+      "bt_name": "Kobe Bufkin",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 33,
+      "adj_porpagatu": 3.63781
+    },
+    {
+      "id": "keyonte-george-2023",
+      "name": "Keyonte George",
+      "school": "Baylor",
+      "bt_name": "Keyonte George",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 33,
+      "adj_porpagatu": 3.4798
+    },
+    {
+      "id": "jalen-hood-schifino-2023",
+      "name": "Jalen Hood-Schifino",
+      "school": "Indiana",
+      "bt_name": "Jalen Hood-Schifino",
+      "bt_team": "Indiana",
+      "bt_conf": "B10",
+      "gp": 32,
+      "adj_porpagatu": 2.01096
+    },
+    {
+      "id": "jaime-jaquez-jr-2023",
+      "name": "Jaime Jaquez Jr.",
+      "school": "UCLA",
+      "bt_name": "Jaime Jaquez Jr.",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 37,
+      "adj_porpagatu": 4.82879
+    },
+    {
+      "id": "brandin-podziemski-2023",
+      "name": "Brandin Podziemski",
+      "school": "Santa Clara",
+      "bt_name": "Brandin Podziemski",
+      "bt_team": "Santa Clara",
+      "bt_conf": "WCC",
+      "gp": 31,
+      "adj_porpagatu": 5.4492
+    },
+    {
+      "id": "cam-whitmore-2023",
+      "name": "Cam Whitmore",
+      "school": "Villanova",
+      "bt_name": "Cam Whitmore",
+      "bt_team": "Villanova",
+      "bt_conf": "BE",
+      "gp": 26,
+      "adj_porpagatu": 2.6332
+    },
+    {
+      "id": "noah-clowney-2023",
+      "name": "Noah Clowney",
+      "school": "Alabama",
+      "bt_name": "Noah Clowney",
+      "bt_team": "Alabama",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 2.56213
+    },
+    {
+      "id": "dariq-whitehead-2023",
+      "name": "Dariq Whitehead",
+      "school": "Duke",
+      "bt_name": "Dariq Whitehead",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 28,
+      "adj_porpagatu": 1.46223
+    },
+    {
+      "id": "kris-murray-2023",
+      "name": "Kris Murray",
+      "school": "Iowa",
+      "bt_name": "Kris Murray",
+      "bt_team": "Iowa",
+      "bt_conf": "B10",
+      "gp": 29,
+      "adj_porpagatu": 5.6366
+    },
+    {
+      "id": "olivier-maxence-prosper-2023",
+      "name": "Olivier-Maxence Prosper",
+      "school": "Marquette",
+      "bt_name": "Olivier-Maxence Prosper",
+      "bt_team": "Marquette",
+      "bt_conf": "BE",
+      "gp": 36,
+      "adj_porpagatu": 3.31633
+    },
+    {
+      "id": "marcus-sasser-2023",
+      "name": "Marcus Sasser",
+      "school": "Houston",
+      "bt_name": "Marcus Sasser",
+      "bt_team": "Houston",
+      "bt_conf": "Amer",
+      "gp": 36,
+      "adj_porpagatu": 5.09085
+    },
+    {
+      "id": "ben-sheppard-2023",
+      "name": "Ben Sheppard",
+      "school": "Belmont",
+      "bt_name": "Ben Sheppard",
+      "bt_team": "Belmont",
+      "bt_conf": "MVC",
+      "gp": 31,
+      "adj_porpagatu": 3.77524
+    },
+    {
+      "id": "nick-smith-jr-2023",
+      "name": "Nick Smith Jr.",
+      "school": "Arkansas",
+      "bt_name": "Nick Smith Jr.",
+      "bt_team": "Arkansas",
+      "bt_conf": "SEC",
+      "gp": 17,
+      "adj_porpagatu": 2.2054
+    },
+    {
+      "id": "brice-sensabaugh-2023",
+      "name": "Brice Sensabaugh",
+      "school": "Ohio State",
+      "bt_name": "Brice Sensabaugh",
+      "bt_team": "Ohio St.",
+      "bt_conf": "B10",
+      "gp": 33,
+      "adj_porpagatu": 4.08958
+    },
+    {
+      "id": "julian-strawther-2023",
+      "name": "Julian Strawther",
+      "school": "Gonzaga",
+      "bt_name": "Julian Strawther",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 36,
+      "adj_porpagatu": 3.83758
+    },
+    {
+      "id": "kobe-brown-2023",
+      "name": "Kobe Brown",
+      "school": "Missouri",
+      "bt_name": "Kobe Brown",
+      "bt_team": "Missouri",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 5.02553
+    },
+    {
+      "id": "jalen-pickett-2023",
+      "name": "Jalen Pickett",
+      "school": "Penn State",
+      "bt_name": "Jalen Pickett",
+      "bt_team": "Penn St.",
+      "bt_conf": "B10",
+      "gp": 37,
+      "adj_porpagatu": 6.5536
+    },
+    {
+      "id": "colby-jones-2023",
+      "name": "Colby Jones",
+      "school": "Xavier",
+      "bt_name": "Colby Jones",
+      "bt_team": "Xavier",
+      "bt_conf": "BE",
+      "gp": 36,
+      "adj_porpagatu": 4.06516
+    },
+    {
+      "id": "julian-phillips-2023",
+      "name": "Julian Phillips",
+      "school": "Tennessee",
+      "bt_name": "Julian Phillips",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 32,
+      "adj_porpagatu": 2.25181
+    },
+    {
+      "id": "andre-jackson-jr-2023",
+      "name": "Andre Jackson Jr.",
+      "school": "UConn",
+      "bt_name": "Andre Jackson Jr.",
+      "bt_team": "Connecticut",
+      "bt_conf": "BE",
+      "gp": 36,
+      "adj_porpagatu": 2.50837
+    },
+    {
+      "id": "hunter-tyson-2023",
+      "name": "Hunter Tyson",
+      "school": "Clemson",
+      "bt_name": "Hunter Tyson",
+      "bt_team": "Clemson",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 4.39232
+    },
+    {
+      "id": "jordan-walsh-2023",
+      "name": "Jordan Walsh",
+      "school": "Arkansas",
+      "bt_name": "Jordan Walsh",
+      "bt_team": "Arkansas",
+      "bt_conf": "SEC",
+      "gp": 36,
+      "adj_porpagatu": 1.33244
+    },
+    {
+      "id": "mouhamed-gueye-2023",
+      "name": "Mouhamed Gueye",
+      "school": "Washington State",
+      "bt_name": "Mouhamed Gueye",
+      "bt_team": "Washington St.",
+      "bt_conf": "P12",
+      "gp": 33,
+      "adj_porpagatu": 3.68318
+    },
+    {
+      "id": "maxwell-lewis-2023",
+      "name": "Maxwell Lewis",
+      "school": "Pepperdine",
+      "bt_name": "Maxwell Lewis",
+      "bt_team": "Pepperdine",
+      "bt_conf": "WCC",
+      "gp": 29,
+      "adj_porpagatu": 2.43297
+    },
+    {
+      "id": "amari-bailey-2023",
+      "name": "Amari Bailey",
+      "school": "UCLA",
+      "bt_name": "Amari Bailey",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 30,
+      "adj_porpagatu": 1.93922
+    },
+    {
+      "id": "gg-jackson-ii-2023",
+      "name": "GG Jackson II",
+      "school": "South Carolina",
+      "bt_name": "Gregory Jackson",
+      "bt_team": "South Carolina",
+      "bt_conf": "SEC",
+      "gp": 32,
+      "adj_porpagatu": 1.90287
+    },
+    {
+      "id": "seth-lundy-2023",
+      "name": "Seth Lundy",
+      "school": "Penn State",
+      "bt_name": "Seth Lundy",
+      "bt_team": "Penn St.",
+      "bt_conf": "B10",
+      "gp": 36,
+      "adj_porpagatu": 4.17921
+    },
+    {
+      "id": "jordan-miller-2023",
+      "name": "Jordan Miller",
+      "school": "Miami (FL)",
+      "bt_name": "Jordan Miller",
+      "bt_team": "Miami FL",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 5.38985
+    },
+    {
+      "id": "emoni-bates-2023",
+      "name": "Emoni Bates",
+      "school": "Eastern Michigan",
+      "bt_name": "Emoni Bates",
+      "bt_team": "Eastern Michigan",
+      "bt_conf": "MAC",
+      "gp": 30,
+      "adj_porpagatu": 2.54733
+    },
+    {
+      "id": "keyontae-johnson-2023",
+      "name": "Keyontae Johnson",
+      "school": "Kansas State",
+      "bt_name": "Keyontae Johnson",
+      "bt_team": "Kansas St.",
+      "bt_conf": "B12",
+      "gp": 36,
+      "adj_porpagatu": 3.62938
+    },
+    {
+      "id": "jalen-wilson-2023",
+      "name": "Jalen Wilson",
+      "school": "Kansas",
+      "bt_name": "Jalen Wilson",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 36,
+      "adj_porpagatu": 4.66474
+    },
+    {
+      "id": "toumani-camara-2023",
+      "name": "Toumani Camara",
+      "school": "Dayton",
+      "bt_name": "Toumani Camara",
+      "bt_team": "Dayton",
+      "bt_conf": "A10",
+      "gp": 34,
+      "adj_porpagatu": 3.36678
+    },
+    {
+      "id": "jaylen-clark-2023",
+      "name": "Jaylen Clark",
+      "school": "UCLA",
+      "bt_name": "Jaylen Clark",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 30,
+      "adj_porpagatu": 3.69092
+    },
+    {
+      "id": "jalen-slawson-2023",
+      "name": "Jalen Slawson",
+      "school": "Furman University",
+      "bt_name": "Jalen Slawson",
+      "bt_team": "Furman",
+      "bt_conf": "SC",
+      "gp": 33,
+      "adj_porpagatu": 3.64146
+    },
+    {
+      "id": "isaiah-wong-2023",
+      "name": "Isaiah Wong",
+      "school": "Miami (FL)",
+      "bt_name": "Isaiah Wong",
+      "bt_team": "Miami FL",
+      "bt_conf": "ACC",
+      "gp": 37,
+      "adj_porpagatu": 4.50677
+    },
+    {
+      "id": "trayce-jackson-davis-2023",
+      "name": "Trayce Jackson-Davis",
+      "school": "Indiana",
+      "bt_name": "Trayce Jackson-Davis",
+      "bt_team": "Indiana",
+      "bt_conf": "B10",
+      "gp": 32,
+      "adj_porpagatu": 6.44429
+    },
+    {
+      "id": "chris-livingston-2023",
+      "name": "Chris Livingston",
+      "school": "Kentucky",
+      "bt_name": "Chris Livingston",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 1.24205
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "victor-wembanyama-2023",
+      "name": "Victor Wembanyama",
+      "school": null
+    },
+    {
+      "id": "scoot-henderson-2023",
+      "name": "Scoot Henderson",
+      "school": null
+    },
+    {
+      "id": "amen-thompson-2023",
+      "name": "Amen Thompson",
+      "school": null
+    },
+    {
+      "id": "ausar-thompson-2023",
+      "name": "Ausar Thompson",
+      "school": null
+    },
+    {
+      "id": "bilal-coulibaly-2023",
+      "name": "Bilal Coulibaly",
+      "school": null
+    },
+    {
+      "id": "james-nnaji-2023",
+      "name": "James Nnaji",
+      "school": null
+    },
+    {
+      "id": "leonard-miller-2023",
+      "name": "Leonard Miller",
+      "school": null
+    },
+    {
+      "id": "tristan-vukcevic-2023",
+      "name": "Tristan Vukcevic",
+      "school": null
+    },
+    {
+      "id": "rayan-rupert-2023",
+      "name": "Rayan Rupert",
+      "school": null
+    },
+    {
+      "id": "sidy-cissoko-2023",
+      "name": "Sidy Cissoko",
+      "school": null
+    },
+    {
+      "id": "mojave-king-2023",
+      "name": "Mojave King",
+      "school": null
+    },
+    {
+      "id": "tarik-biberovic-2023",
+      "name": "Tarik Biberovic",
+      "school": null
+    }
+  ]
+}

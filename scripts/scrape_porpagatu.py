@@ -10,13 +10,17 @@ in each player row is confirmed (via barttorvik's own playerstat*.js) to be
 "Adjusted PORPAGATU!", labeled "PRPG!" in their UI.
 
 Usage:
-    python3 scripts/scrape_porpagatu.py 2026
+    python3 scripts/scrape_porpagatu.py 2026            # collect only, writes data/porpagatu_2026.json
+    python3 scripts/scrape_porpagatu.py 2026 --merge     # collect, then merge into data/prospects/2026.json
+                                                          # (and -draft-extras.json if present) as
+                                                          # college_stats.adj_porpagatu
 
 Output:
     data/porpagatu_{year}.json — {"matched": [...], "unmatched": [...]}
     Each matched entry: {id, name, school, bt_name, bt_team, bt_conf, gp, adj_porpagatu}
 
-Does NOT modify data/prospects/{year}.json — this is a standalone collection step.
+With --merge, also writes adj_porpagatu into the matched prospects' college_stats
+in data/prospects/{year}.json (creating college_stats if it was null).
 """
 import json
 import re
@@ -33,6 +37,20 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (nba-draft-tool personal research script)"
 # Manual overrides for name/spelling mismatches between our board and Bart Torvik.
 # Keyed by our prospect id -> (bart torvik player name, bart torvik team name).
 MANUAL_OVERRIDES = {
+    2017: {
+        "wes-iwundu-2017": ("Wesley Iwundu", "Kansas St."),
+        "justin-jackson-2017": ("Justin Jackson", "North Carolina"),
+        "dennis-smith-jr-2017": ("Dennis Smith, Jr.", "N.C. State"),
+    },
+    2018: {
+        "vince-edwards-2018": ("Vincent Edwards", "Purdue"),
+    },
+    2024: {
+        "bub-carrington-2024": ("Carlton Carrington", "Pittsburgh"),
+    },
+    2025: {
+        "egor-d-min-2025": ("Egor Demin", "BYU"),
+    },
     2026: {
         "cam-boozer-2026": ("Cameron Boozer", "Duke"),
         "yaxel-lendoborg-2026": ("Yaxel Lendeborg", "Michigan"),
@@ -145,8 +163,33 @@ def match(prospects, bt_rows, year: int):
     return matched, unmatched
 
 
+def merge_into_prospects(year: int, matched):
+    by_id = {m["id"]: m["adj_porpagatu"] for m in matched}
+    for filename in (f"{year}.json", f"{year}-draft-extras.json"):
+        path = ROOT / "data" / "prospects" / filename
+        if not path.exists():
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        updated = 0
+        for p in data:
+            if p["id"] in by_id:
+                if p.get("college_stats") is None:
+                    p["college_stats"] = {}
+                p["college_stats"]["adj_porpagatu"] = round(by_id[p["id"]], 2)
+                updated += 1
+        path.write_text(
+            json.dumps(data, indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8",
+        )
+        print(f"  merged into {path.relative_to(ROOT)}: {updated} of {len(data)}")
+
+
 def main():
-    year = int(sys.argv[1]) if len(sys.argv) > 1 else 2026
+    args = sys.argv[1:]
+    do_merge = "--merge" in args
+    year_args = [a for a in args if a != "--merge"]
+    year = int(year_args[0]) if year_args else 2026
+
     print(f"Fetching Bart Torvik advanced stats for {year}...")
     bt_rows = fetch_advstats(year)
     time.sleep(1)  # be polite
@@ -164,6 +207,9 @@ def main():
         encoding="utf-8",
     )
     print(f"Wrote {out_path}")
+
+    if do_merge:
+        merge_into_prospects(year, matched)
 
 
 if __name__ == "__main__":

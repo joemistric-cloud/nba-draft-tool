@@ -1,0 +1,511 @@
+{
+  "matched": [
+    {
+      "id": "paolo-banchero-2022",
+      "name": "Paolo Banchero",
+      "school": "Duke",
+      "bt_name": "Paolo Banchero",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 39,
+      "adj_porpagatu": 4.6563
+    },
+    {
+      "id": "chet-holmgren-2022",
+      "name": "Chet Holmgren",
+      "school": "Gonzaga",
+      "bt_name": "Chet Holmgren",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 32,
+      "adj_porpagatu": 4.24806
+    },
+    {
+      "id": "jabari-smith-jr-2022",
+      "name": "Jabari Smith Jr.",
+      "school": "Auburn",
+      "bt_name": "Jabari Smith",
+      "bt_team": "Auburn",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 4.22738
+    },
+    {
+      "id": "keegan-murray-2022",
+      "name": "Keegan Murray",
+      "school": "Iowa",
+      "bt_name": "Keegan Murray",
+      "bt_team": "Iowa",
+      "bt_conf": "B10",
+      "gp": 35,
+      "adj_porpagatu": 7.09296
+    },
+    {
+      "id": "jaden-ivey-2022",
+      "name": "Jaden Ivey",
+      "school": "Purdue",
+      "bt_name": "Jaden Ivey",
+      "bt_team": "Purdue",
+      "bt_conf": "B10",
+      "gp": 36,
+      "adj_porpagatu": 4.53287
+    },
+    {
+      "id": "bennedict-mathurin-2022",
+      "name": "Bennedict Mathurin",
+      "school": "Arizona",
+      "bt_name": "Bennedict Mathurin",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 37,
+      "adj_porpagatu": 4.61482
+    },
+    {
+      "id": "jeremy-sochan-2022",
+      "name": "Jeremy Sochan",
+      "school": "Baylor",
+      "bt_name": "Jeremy Sochan",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 30,
+      "adj_porpagatu": 2.54083
+    },
+    {
+      "id": "johnny-davis-2022",
+      "name": "Johnny Davis",
+      "school": "Wisconsin",
+      "bt_name": "Johnny Davis",
+      "bt_team": "Wisconsin",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 4.50693
+    },
+    {
+      "id": "jalen-williams-2022",
+      "name": "Jalen Williams",
+      "school": "Santa Clara",
+      "bt_name": "Jalen Williams",
+      "bt_team": "Santa Clara",
+      "bt_conf": "WCC",
+      "gp": 33,
+      "adj_porpagatu": 5.052
+    },
+    {
+      "id": "jalen-duren-2022",
+      "name": "Jalen Duren",
+      "school": "Memphis",
+      "bt_name": "Jalen Duren",
+      "bt_team": "Memphis",
+      "bt_conf": "Amer",
+      "gp": 29,
+      "adj_porpagatu": 3.03069
+    },
+    {
+      "id": "ochai-agbaji-2022",
+      "name": "Ochai Agbaji",
+      "school": "Kansas",
+      "bt_name": "Ochai Agbaji",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 39,
+      "adj_porpagatu": 5.17089
+    },
+    {
+      "id": "mark-williams-2022",
+      "name": "Mark Williams",
+      "school": "Duke",
+      "bt_name": "Mark Williams",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 39,
+      "adj_porpagatu": 4.56915
+    },
+    {
+      "id": "aj-griffin-2022",
+      "name": "AJ Griffin",
+      "school": "Duke",
+      "bt_name": "AJ Griffin",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 39,
+      "adj_porpagatu": 3.45145
+    },
+    {
+      "id": "tari-eason-2022",
+      "name": "Tari Eason",
+      "school": "LSU",
+      "bt_name": "Tari Eason",
+      "bt_team": "LSU",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 4.48857
+    },
+    {
+      "id": "dalen-terry-2022",
+      "name": "Dalen Terry",
+      "school": "Arizona",
+      "bt_name": "Dalen Terry",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 37,
+      "adj_porpagatu": 3.00777
+    },
+    {
+      "id": "jake-laravia-2022",
+      "name": "Jake LaRavia",
+      "school": "Wake Forest",
+      "bt_name": "Jake LaRavia",
+      "bt_team": "Wake Forest",
+      "bt_conf": "ACC",
+      "gp": 33,
+      "adj_porpagatu": 4.49687
+    },
+    {
+      "id": "malaki-branham-2022",
+      "name": "Malaki Branham",
+      "school": "Ohio State",
+      "bt_name": "Malaki Branham",
+      "bt_team": "Ohio St.",
+      "bt_conf": "B10",
+      "gp": 32,
+      "adj_porpagatu": 4.10737
+    },
+    {
+      "id": "christian-braun-2022",
+      "name": "Christian Braun",
+      "school": "Kansas",
+      "bt_name": "Christian Braun",
+      "bt_team": "Kansas",
+      "bt_conf": "B12",
+      "gp": 40,
+      "adj_porpagatu": 4.54169
+    },
+    {
+      "id": "walker-kessler-2022",
+      "name": "Walker Kessler",
+      "school": "Auburn",
+      "bt_name": "Walker Kessler",
+      "bt_team": "Auburn",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 3.61345
+    },
+    {
+      "id": "david-roddy-2022",
+      "name": "David Roddy",
+      "school": "Colorado State",
+      "bt_name": "David Roddy",
+      "bt_team": "Colorado St.",
+      "bt_conf": "MWC",
+      "gp": 30,
+      "adj_porpagatu": 5.86928
+    },
+    {
+      "id": "blake-wesley-2022",
+      "name": "Blake Wesley",
+      "school": "Notre Dame",
+      "bt_name": "Blake Wesley",
+      "bt_team": "Notre Dame",
+      "bt_conf": "ACC",
+      "gp": 34,
+      "adj_porpagatu": 2.55426
+    },
+    {
+      "id": "wendell-moore-jr-2022",
+      "name": "Wendell Moore Jr.",
+      "school": "Duke",
+      "bt_name": "Wendell Moore Jr.",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 39,
+      "adj_porpagatu": 4.82205
+    },
+    {
+      "id": "patrick-baldwin-jr-2022",
+      "name": "Patrick Baldwin Jr.",
+      "school": "UW-Milwaukee",
+      "bt_name": "Patrick Baldwin Jr.",
+      "bt_team": "Milwaukee",
+      "bt_conf": "Horz",
+      "gp": 11,
+      "adj_porpagatu": 0.725083
+    },
+    {
+      "id": "tyty-washington-jr-2022",
+      "name": "TyTy Washington Jr.",
+      "school": "Kentucky",
+      "bt_name": "Tyty Washington Jr.",
+      "bt_team": "Kentucky",
+      "bt_conf": "SEC",
+      "gp": 31,
+      "adj_porpagatu": 3.74646
+    },
+    {
+      "id": "peyton-watson-2022",
+      "name": "Peyton Watson",
+      "school": "UCLA",
+      "bt_name": "Peyton Watson",
+      "bt_team": "UCLA",
+      "bt_conf": "P12",
+      "gp": 32,
+      "adj_porpagatu": 0.124871
+    },
+    {
+      "id": "andrew-nembhard-2022",
+      "name": "Andrew Nembhard",
+      "school": "Gonzaga",
+      "bt_name": "Andrew Nembhard",
+      "bt_team": "Gonzaga",
+      "bt_conf": "WCC",
+      "gp": 32,
+      "adj_porpagatu": 3.93606
+    },
+    {
+      "id": "caleb-houstan-2022",
+      "name": "Caleb Houstan",
+      "school": "Michigan",
+      "bt_name": "Caleb Houstan",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 34,
+      "adj_porpagatu": 2.12153
+    },
+    {
+      "id": "christian-koloko-2022",
+      "name": "Christian Koloko",
+      "school": "Arizona",
+      "bt_name": "Christian Koloko",
+      "bt_team": "Arizona",
+      "bt_conf": "P12",
+      "gp": 37,
+      "adj_porpagatu": 3.8427
+    },
+    {
+      "id": "jaylin-williams-2022",
+      "name": "Jaylin Williams",
+      "school": "Arkansas",
+      "bt_name": "Jaylin Williams",
+      "bt_team": "Arkansas",
+      "bt_conf": "SEC",
+      "gp": 37,
+      "adj_porpagatu": 2.57084
+    },
+    {
+      "id": "max-christie-2022",
+      "name": "Max Christie",
+      "school": "Michigan State",
+      "bt_name": "Max Christie",
+      "bt_team": "Michigan St.",
+      "bt_conf": "B10",
+      "gp": 35,
+      "adj_porpagatu": 1.43922
+    },
+    {
+      "id": "kennedy-chandler-2022",
+      "name": "Kennedy Chandler",
+      "school": "Tennessee",
+      "bt_name": "Kennedy Chandler",
+      "bt_team": "Tennessee",
+      "bt_conf": "SEC",
+      "gp": 34,
+      "adj_porpagatu": 3.61019
+    },
+    {
+      "id": "bryce-mcgowens-2022",
+      "name": "Bryce McGowens",
+      "school": "Nebraska",
+      "bt_name": "Bryce McGowens",
+      "bt_team": "Nebraska",
+      "bt_conf": "B10",
+      "gp": 31,
+      "adj_porpagatu": 3.02036
+    },
+    {
+      "id": "e-j-liddell-2022",
+      "name": "E.J. Liddell",
+      "school": "Ohio State",
+      "bt_name": "E.J. Liddell",
+      "bt_team": "Ohio St.",
+      "bt_conf": "B10",
+      "gp": 32,
+      "adj_porpagatu": 6.02282
+    },
+    {
+      "id": "trevor-keels-2022",
+      "name": "Trevor Keels",
+      "school": "Duke",
+      "bt_name": "Trevor Keels",
+      "bt_team": "Duke",
+      "bt_conf": "ACC",
+      "gp": 36,
+      "adj_porpagatu": 3.07901
+    },
+    {
+      "id": "moussa-diabat-2022",
+      "name": "Moussa Diabaté",
+      "school": "Michigan",
+      "bt_name": "Moussa Diabate",
+      "bt_team": "Michigan",
+      "bt_conf": "B10",
+      "gp": 32,
+      "adj_porpagatu": 2.5181
+    },
+    {
+      "id": "ryan-rollins-2022",
+      "name": "Ryan Rollins",
+      "school": "Toledo",
+      "bt_name": "Ryan Rollins",
+      "bt_team": "Toledo",
+      "bt_conf": "MAC",
+      "gp": 33,
+      "adj_porpagatu": 3.96691
+    },
+    {
+      "id": "josh-minott-2022",
+      "name": "Josh Minott",
+      "school": "Memphis",
+      "bt_name": "Josh Minott",
+      "bt_team": "Memphis",
+      "bt_conf": "Amer",
+      "gp": 33,
+      "adj_porpagatu": 1.90205
+    },
+    {
+      "id": "vince-williams-jr-2022",
+      "name": "Vince Williams Jr.",
+      "school": "VCU",
+      "bt_name": "Vince Williams Jr.",
+      "bt_team": "VCU",
+      "bt_conf": "A10",
+      "gp": 30,
+      "adj_porpagatu": 3.31427
+    },
+    {
+      "id": "kendall-brown-2022",
+      "name": "Kendall Brown",
+      "school": "Baylor",
+      "bt_name": "Kendall Brown",
+      "bt_team": "Baylor",
+      "bt_conf": "B12",
+      "gp": 34,
+      "adj_porpagatu": 3.11551
+    },
+    {
+      "id": "isaiah-mobley-2022",
+      "name": "Isaiah Mobley",
+      "school": "USC",
+      "bt_name": "Isaiah Mobley",
+      "bt_team": "USC",
+      "bt_conf": "P12",
+      "gp": 32,
+      "adj_porpagatu": 4.05506
+    },
+    {
+      "id": "tyrese-martin-2022",
+      "name": "Tyrese Martin",
+      "school": "UConn",
+      "bt_name": "Tyrese Martin",
+      "bt_team": "Connecticut",
+      "bt_conf": "BE",
+      "gp": 29,
+      "adj_porpagatu": 3.76818
+    },
+    {
+      "id": "jd-davison-2022",
+      "name": "JD Davison",
+      "school": "Alabama",
+      "bt_name": "JD Davison",
+      "bt_team": "Alabama",
+      "bt_conf": "SEC",
+      "gp": 33,
+      "adj_porpagatu": 2.22647
+    },
+    {
+      "id": "jabari-walker-2022",
+      "name": "Jabari Walker",
+      "school": "Colorado",
+      "bt_name": "Jabari Walker",
+      "bt_team": "Colorado",
+      "bt_conf": "P12",
+      "gp": 33,
+      "adj_porpagatu": 3.27557
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "shaedon-sharpe-2022",
+      "name": "Shaedon Sharpe",
+      "school": "Kentucky"
+    },
+    {
+      "id": "dyson-daniels-2022",
+      "name": "Dyson Daniels",
+      "school": null
+    },
+    {
+      "id": "ousmane-dieng-2022",
+      "name": "Ousmane Dieng",
+      "school": null
+    },
+    {
+      "id": "marjon-beauchamp-2022",
+      "name": "MarJon Beauchamp",
+      "school": null
+    },
+    {
+      "id": "nikola-jovi-2022",
+      "name": "Nikola Jović",
+      "school": null
+    },
+    {
+      "id": "gabriele-procida-2022",
+      "name": "Gabriele Procida",
+      "school": null
+    },
+    {
+      "id": "jaden-hardy-2022",
+      "name": "Jaden Hardy",
+      "school": null
+    },
+    {
+      "id": "khalifa-diop-2022",
+      "name": "Khalifa Diop",
+      "school": null
+    },
+    {
+      "id": "ismael-kamagate-2022",
+      "name": "Ismael Kamagate",
+      "school": null
+    },
+    {
+      "id": "matteo-spagnolo-2022",
+      "name": "Matteo Spagnolo",
+      "school": null
+    },
+    {
+      "id": "karlo-matkovi-2022",
+      "name": "Karlo Matković",
+      "school": null
+    },
+    {
+      "id": "yannick-nzosa-2022",
+      "name": "Yannick Nzosa",
+      "school": null
+    },
+    {
+      "id": "gui-santos-2022",
+      "name": "Gui Santos",
+      "school": null
+    },
+    {
+      "id": "luke-travers-2022",
+      "name": "Luke Travers",
+      "school": null
+    },
+    {
+      "id": "hugo-besson-2022",
+      "name": "Hugo Besson",
+      "school": null
+    }
+  ]
+}
