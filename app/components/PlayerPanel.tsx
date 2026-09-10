@@ -22,6 +22,25 @@ function fmt(val: number | string | null | undefined, type: "pct" | "num" | "rat
   return n.toFixed(1);
 }
 
+// Total inches -> feet'inches" (e.g. 82.75 -> 6'10.75")
+function fmtHeight(val: number | null | undefined): string {
+  if (val == null) return "—";
+  const feet = Math.floor(val / 12);
+  const inches = Number((val - feet * 12).toFixed(2));
+  return `${feet}'${inches}"`;
+}
+
+// Decimal inches -> trimmed-decimal string with a trailing " (e.g. 8.50 -> 8.5")
+function fmtInches(val: number | null | undefined): string {
+  if (val == null) return "—";
+  return `${Number(val.toFixed(2))}"`;
+}
+
+function fmtWeight(val: number | null | undefined): string {
+  if (val == null) return "—";
+  return Math.round(val).toString();
+}
+
 function StatLine({
   title,
   stats,
@@ -191,6 +210,16 @@ export default function PlayerPanel({ player, onClose }: PlayerPanelProps) {
     ? (current as Prospect).college_stats ?? null
     : null;
 
+  const measurements = current.measurements;
+  const hasMeasurements = measurements && (
+    measurements.height_no_shoes != null ||
+    measurements.weight != null ||
+    measurements.wingspan != null ||
+    measurements.standing_reach != null ||
+    measurements.hand_length != null ||
+    measurements.hand_width != null
+  );
+
   return (
     <>
       {/* Backdrop — sits behind both panels */}
@@ -235,8 +264,8 @@ export default function PlayerPanel({ player, onClose }: PlayerPanelProps) {
             </p>
           )}
 
-          {/* Advanced metrics — room for more tiles to the right */}
-          {(collegeStats?.adj_porpagatu != null || collegeStats?.bpr != null) && (
+          {/* Advanced metrics — PRPG!/BPR on the left, combine measurements to the right */}
+          {(collegeStats?.adj_porpagatu != null || collegeStats?.bpr != null || hasMeasurements) && (
             <div className="flex flex-wrap gap-3 mb-6">
               {collegeStats?.adj_porpagatu != null && (
                 <div className="px-3 py-2 rounded border border-gray-800 bg-gray-900/40 min-w-[76px]">
@@ -256,6 +285,27 @@ export default function PlayerPanel({ player, onClose }: PlayerPanelProps) {
                   <p className="text-lg font-semibold text-white tabular-nums">
                     {fmt(collegeStats.bpr, "num")}
                   </p>
+                </div>
+              )}
+              {hasMeasurements && (
+                <div className="grid grid-cols-3 gap-2">
+                  {[
+                    { label: "HT", value: fmtHeight(measurements.height_no_shoes) },
+                    { label: "WT", value: fmtWeight(measurements.weight) },
+                    { label: "WSPAN", value: fmtHeight(measurements.wingspan) },
+                    { label: "REACH", value: fmtHeight(measurements.standing_reach) },
+                    { label: "HAND L", value: fmtInches(measurements.hand_length) },
+                    { label: "HAND W", value: fmtInches(measurements.hand_width) },
+                  ].map((m) => (
+                    <div key={m.label} className="px-2.5 py-1.5 rounded border border-gray-800 bg-gray-900/40 min-w-[64px]">
+                      <p className="text-[10px] text-gray-500 font-mono uppercase tracking-wide mb-0.5">
+                        {m.label}
+                      </p>
+                      <p className="text-sm font-semibold text-white tabular-nums">
+                        {m.value}
+                      </p>
+                    </div>
+                  ))}
                 </div>
               )}
             </div>
