@@ -77,7 +77,8 @@
       "efg_pct": 0.625,
       "ts_pct": 0.658,
       "ato_ratio": 0.83,
-      "adj_porpagatu": 6.07
+      "adj_porpagatu": 6.07,
+      "bpr": 7.93
     }
   },
   {
@@ -158,7 +159,8 @@
       "efg_pct": 0.64,
       "ts_pct": 0.652,
       "ato_ratio": 0.67,
-      "adj_porpagatu": 6.01
+      "adj_porpagatu": 6.01,
+      "bpr": 8.63
     }
   },
   {
@@ -448,7 +450,8 @@
       "efg_pct": 0.595,
       "ts_pct": 0.657,
       "ato_ratio": 0.63,
-      "adj_porpagatu": 2.86
+      "adj_porpagatu": 2.86,
+      "bpr": 8.1
     }
   },
   {
@@ -529,7 +532,8 @@
       "efg_pct": 0.518,
       "ts_pct": 0.593,
       "ato_ratio": 1.67,
-      "adj_porpagatu": 7.0
+      "adj_porpagatu": 7.0,
+      "bpr": 8.46
     }
   },
   {
@@ -610,7 +614,8 @@
       "efg_pct": 0.567,
       "ts_pct": 0.6,
       "ato_ratio": 0.33,
-      "adj_porpagatu": 3.68
+      "adj_porpagatu": 3.68,
+      "bpr": 7.32
     }
   },
   {
@@ -691,7 +696,8 @@
       "efg_pct": 0.591,
       "ts_pct": 0.638,
       "ato_ratio": 0.99,
-      "adj_porpagatu": 4.22
+      "adj_porpagatu": 4.22,
+      "bpr": 9.29
     }
   },
   {
@@ -772,7 +778,8 @@
       "efg_pct": 0.498,
       "ts_pct": 0.576,
       "ato_ratio": 1.29,
-      "adj_porpagatu": 4.74
+      "adj_porpagatu": 4.74,
+      "bpr": 5.19
     }
   },
   {
@@ -853,7 +860,8 @@
       "efg_pct": 0.51,
       "ts_pct": 0.562,
       "ato_ratio": 0.62,
-      "adj_porpagatu": 3.32
+      "adj_porpagatu": 3.32,
+      "bpr": 4.47
     }
   },
   {
@@ -934,7 +942,8 @@
       "efg_pct": 0.623,
       "ts_pct": 0.661,
       "ato_ratio": 1.43,
-      "adj_porpagatu": 5.86
+      "adj_porpagatu": 5.86,
+      "bpr": 10.36
     },
     "college_stats_all": [
       {
@@ -1098,7 +1107,8 @@
       "efg_pct": 0.516,
       "ts_pct": 0.586,
       "ato_ratio": 1.89,
-      "adj_porpagatu": 4.34
+      "adj_porpagatu": 4.34,
+      "bpr": 6.82
     }
   },
   {
@@ -1179,7 +1189,8 @@
       "efg_pct": 0.535,
       "ts_pct": 0.576,
       "ato_ratio": 1.37,
-      "adj_porpagatu": 4.37
+      "adj_porpagatu": 4.37,
+      "bpr": 8.08
     },
     "college_stats_all": [
       {
@@ -1316,7 +1327,8 @@
       "efg_pct": 0.564,
       "ts_pct": 0.614,
       "ato_ratio": 1.21,
-      "adj_porpagatu": 5.05
+      "adj_porpagatu": 5.05,
+      "bpr": 4.83
     },
     "college_stats_all": [
       {
@@ -1561,7 +1573,8 @@
       "efg_pct": 0.494,
       "ts_pct": 0.538,
       "ato_ratio": 1.29,
-      "adj_porpagatu": 2.04
+      "adj_porpagatu": 2.04,
+      "bpr": 3.63
     }
   },
   {
@@ -1642,7 +1655,8 @@
       "efg_pct": 0.588,
       "ts_pct": 0.626,
       "ato_ratio": 1.61,
-      "adj_porpagatu": 3.94
+      "adj_porpagatu": 3.94,
+      "bpr": 7.74
     }
   },
   {
@@ -1723,7 +1737,8 @@
       "efg_pct": 0.59,
       "ts_pct": 0.613,
       "ato_ratio": 1.76,
-      "adj_porpagatu": 4.3
+      "adj_porpagatu": 4.3,
+      "bpr": 7.46
     },
     "college_stats_all": [
       {
@@ -1886,7 +1901,8 @@
       "efg_pct": 0.503,
       "ts_pct": 0.531,
       "ato_ratio": 1.65,
-      "adj_porpagatu": 2.48
+      "adj_porpagatu": 2.48,
+      "bpr": 4.06
     }
   },
   {
@@ -1967,7 +1983,8 @@
       "efg_pct": 0.616,
       "ts_pct": 0.646,
       "ato_ratio": 1.35,
-      "adj_porpagatu": 4.35
+      "adj_porpagatu": 4.35,
+      "bpr": 7.31
     },
     "college_stats_all": [
       {
@@ -2104,7 +2121,8 @@
       "efg_pct": 0.475,
       "ts_pct": 0.558,
       "ato_ratio": 0.97,
-      "adj_porpagatu": 4.48
+      "adj_porpagatu": 4.48,
+      "bpr": 5.33
     },
     "college_stats_all": [
       {
@@ -2241,7 +2259,8 @@
       "efg_pct": 0.536,
       "ts_pct": 0.585,
       "ato_ratio": 2.18,
-      "adj_porpagatu": 4.94
+      "adj_porpagatu": 4.94,
+      "bpr": 9.03
     },
     "college_stats_all": [
       {
@@ -2432,7 +2451,8 @@
       "efg_pct": 0.528,
       "ts_pct": 0.583,
       "ato_ratio": 1.03,
-      "adj_porpagatu": 4.02
+      "adj_porpagatu": 4.02,
+      "bpr": 5.2
     },
     "college_stats_all": [
       {
@@ -2623,7 +2643,8 @@
       "efg_pct": 0.557,
       "ts_pct": 0.616,
       "ato_ratio": 1.54,
-      "adj_porpagatu": 5.07
+      "adj_porpagatu": 5.07,
+      "bpr": 6.48
     },
     "college_stats_all": [
       {
@@ -2840,7 +2861,8 @@
       "efg_pct": 0.605,
       "ts_pct": 0.624,
       "ato_ratio": 0.59,
-      "adj_porpagatu": 3.78
+      "adj_porpagatu": 3.78,
+      "bpr": 5.98
     },
     "college_stats_all": [
       {
@@ -3004,7 +3026,8 @@
       "efg_pct": 0.622,
       "ts_pct": 0.662,
       "ato_ratio": 2.48,
-      "adj_porpagatu": 5.02
+      "adj_porpagatu": 5.02,
+      "bpr": 7.57
     },
     "college_stats_all": [
       {
@@ -3168,7 +3191,8 @@
       "efg_pct": 0.632,
       "ts_pct": 0.62,
       "ato_ratio": 0.83,
-      "adj_porpagatu": 2.58
+      "adj_porpagatu": 2.58,
+      "bpr": 6.56
     },
     "college_stats_all": [
       {
@@ -3305,7 +3329,8 @@
       "efg_pct": 0.507,
       "ts_pct": 0.548,
       "ato_ratio": 1.79,
-      "adj_porpagatu": 3.32
+      "adj_porpagatu": 3.32,
+      "bpr": 8.73
     },
     "college_stats_all": [
       {
@@ -3522,7 +3547,8 @@
       "efg_pct": 0.573,
       "ts_pct": 0.592,
       "ato_ratio": 0.75,
-      "adj_porpagatu": 3.49
+      "adj_porpagatu": 3.49,
+      "bpr": 6.06
     }
   },
   {
@@ -3779,7 +3805,8 @@
       "efg_pct": 0.498,
       "ts_pct": 0.554,
       "ato_ratio": 2.51,
-      "adj_porpagatu": 5.4
+      "adj_porpagatu": 5.4,
+      "bpr": 10.26
     },
     "college_stats_all": [
       {
@@ -3970,7 +3997,8 @@
       "efg_pct": 0.604,
       "ts_pct": 0.641,
       "ato_ratio": 2.59,
-      "adj_porpagatu": 6.37
+      "adj_porpagatu": 6.37,
+      "bpr": 9.79
     },
     "college_stats_all": [
       {
@@ -4134,7 +4162,8 @@
       "efg_pct": 0.51,
       "ts_pct": 0.575,
       "ato_ratio": 2.59,
-      "adj_porpagatu": 6.0
+      "adj_porpagatu": 6.0,
+      "bpr": 9.09
     },
     "college_stats_all": [
       {
@@ -4325,7 +4354,8 @@
       "efg_pct": 0.61,
       "ts_pct": 0.638,
       "ato_ratio": 1.12,
-      "adj_porpagatu": 3.4
+      "adj_porpagatu": 3.4,
+      "bpr": 3.96
     },
     "college_stats_all": [
       {
@@ -4541,7 +4571,8 @@
       "efg_pct": 0.528,
       "ts_pct": 0.571,
       "ato_ratio": 1.37,
-      "adj_porpagatu": 4.2
+      "adj_porpagatu": 4.2,
+      "bpr": 5.98
     }
   },
   {
@@ -4622,7 +4653,8 @@
       "efg_pct": 0.629,
       "ts_pct": 0.655,
       "ato_ratio": 1.56,
-      "adj_porpagatu": 4.23
+      "adj_porpagatu": 4.23,
+      "bpr": 6.58
     },
     "college_stats_all": [
       {
@@ -5033,7 +5065,8 @@
       "efg_pct": 0.457,
       "ts_pct": 0.494,
       "ato_ratio": 1.77,
-      "adj_porpagatu": 2.09
+      "adj_porpagatu": 2.09,
+      "bpr": 6.27
     },
     "college_stats_all": [
       {
@@ -5152,7 +5185,8 @@
       "efg_pct": 0.416,
       "ts_pct": 0.475,
       "ato_ratio": 0.66,
-      "adj_porpagatu": 1.04
+      "adj_porpagatu": 1.04,
+      "bpr": 3.71
     },
     "college_stats_all": [
       {
@@ -5324,7 +5358,8 @@
       "efg_pct": 0.47,
       "ts_pct": 0.504,
       "ato_ratio": 0.9,
-      "adj_porpagatu": 1.8
+      "adj_porpagatu": 1.8,
+      "bpr": 4.33
     }
   },
   {
@@ -5485,7 +5520,8 @@
       "efg_pct": 0.556,
       "ts_pct": 0.574,
       "ato_ratio": 1.65,
-      "adj_porpagatu": 4.18
+      "adj_porpagatu": 4.18,
+      "bpr": 6.05
     },
     "college_stats_all": [
       {
@@ -5676,7 +5712,8 @@
       "efg_pct": 0.544,
       "ts_pct": 0.582,
       "ato_ratio": 0.9,
-      "adj_porpagatu": 4.95
+      "adj_porpagatu": 4.95,
+      "bpr": 8.02
     },
     "college_stats_all": [
       {
@@ -5867,7 +5904,8 @@
       "efg_pct": 0.538,
       "ts_pct": 0.581,
       "ato_ratio": 0.78,
-      "adj_porpagatu": 3.46
+      "adj_porpagatu": 3.46,
+      "bpr": 5.07
     },
     "college_stats_all": [
       {
@@ -6006,7 +6044,8 @@
     "outcome": "Bust",
     "outcome_tags": [],
     "college_stats": {
-      "adj_porpagatu": 3.81
+      "adj_porpagatu": 3.81,
+      "bpr": 5.44
     }
   },
   {
@@ -6069,7 +6108,8 @@
       "efg_pct": 0.482,
       "ts_pct": 0.532,
       "ato_ratio": 2.19,
-      "adj_porpagatu": 5.15
+      "adj_porpagatu": 5.15,
+      "bpr": 6.09
     },
     "college_stats_all": [
       {
@@ -6205,7 +6245,8 @@
       "efg_pct": 0.544,
       "ts_pct": 0.593,
       "ato_ratio": 1.42,
-      "adj_porpagatu": 4.53
+      "adj_porpagatu": 4.53,
+      "bpr": 7.67
     },
     "college_stats_all": [
       {
@@ -6396,7 +6437,8 @@
       "efg_pct": 0.552,
       "ts_pct": 0.604,
       "ato_ratio": 3.06,
-      "adj_porpagatu": 4.39
+      "adj_porpagatu": 4.39,
+      "bpr": 8.04
     },
     "college_stats_all": [
       {
@@ -6587,7 +6629,8 @@
       "efg_pct": 0.551,
       "ts_pct": 0.613,
       "ato_ratio": 1.92,
-      "adj_porpagatu": 5.12
+      "adj_porpagatu": 5.12,
+      "bpr": 8.72
     },
     "college_stats_all": [
       {
@@ -6867,7 +6910,8 @@
       "efg_pct": 0.55,
       "ts_pct": 0.573,
       "ato_ratio": 0.75,
-      "adj_porpagatu": 3.27
+      "adj_porpagatu": 3.27,
+      "bpr": 6.04
     },
     "college_stats_all": [
       {
@@ -7030,7 +7074,8 @@
       "efg_pct": 0.517,
       "ts_pct": 0.557,
       "ato_ratio": 0.81,
-      "adj_porpagatu": 3.59
+      "adj_porpagatu": 3.59,
+      "bpr": 4.55
     },
     "college_stats_all": [
       {
@@ -7221,7 +7266,8 @@
       "efg_pct": 0.552,
       "ts_pct": 0.58,
       "ato_ratio": 1.35,
-      "adj_porpagatu": 3.72
+      "adj_porpagatu": 3.72,
+      "bpr": 5.46
     },
     "college_stats_all": [
       {
@@ -7410,7 +7456,8 @@
       "efg_pct": 0.542,
       "ts_pct": 0.579,
       "ato_ratio": 0.55,
-      "adj_porpagatu": 2.43
+      "adj_porpagatu": 2.43,
+      "bpr": 3.36
     },
     "college_stats_all": [
       {
@@ -7600,7 +7647,8 @@
       "efg_pct": 0.584,
       "ts_pct": 0.585,
       "ato_ratio": 0.33,
-      "adj_porpagatu": 0.4
+      "adj_porpagatu": 0.4,
+      "bpr": -2.22
     }
   }
 ]

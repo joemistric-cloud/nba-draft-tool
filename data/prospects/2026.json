@@ -5653,7 +5653,8 @@
       "ws": 3.3,
       "ws_per_40": 0.172,
       "ato_ratio": 0.75,
-      "adj_porpagatu": 2.05
+      "adj_porpagatu": 2.05,
+      "bpr": 6.0
     },
     "outcome": null,
     "outcome_tags": []
@@ -10961,7 +10962,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "bpr": 6.75
+    }
   },
   {
     "id": "donald-hand-2026",

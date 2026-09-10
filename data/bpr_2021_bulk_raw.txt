@@ -1,0 +1,2715 @@
+Jared Butler|Baylor|10.38
+Davion Mitchell|Baylor|9.61
+Evan Mobley|USC|9.58
+Luka Garza|Iowa|9.44
+Drew Timme|Gonzaga|9.25
+Franz Wagner|Michigan|9.08
+McKinley Wright|Colorado|8.91
+Grayson Murphy|Belmont|8.58
+Neemias Queta|Utah State|8.58
+Jay Huff|Virginia|8.54
+Miles McBride|West Virginia|8.30
+Corey Kispert|Gonzaga|8.20
+DeJon Jarreau|Houston|8.18
+Chris Duarte|Oregon|8.12
+Ayo Dosunmu|Illinois|7.89
+Kofi Cockburn|Illinois|7.89
+Quentin Grimes|Houston|7.74
+Sam Hauser|Virginia|7.72
+Gaige Prim|Missouri State|7.68
+Jalen Suggs|Gonzaga|7.62
+Cameron Krutwig|Loyola Chicago|7.31
+Joel Ayayi|Gonzaga|7.28
+Kendric Davis|SMU|7.26
+Matthew Hurt|Duke|7.25
+Micah Potter|Wisconsin|7.25
+Aamir Simms|Clemson|7.24
+DeAndre Williams|Memphis|7.21
+E.J. Liddell|Ohio State|7.16
+Jordan Schakel|San Diego State|7.11
+Herbert Jones|Alabama|7.04
+Osun Osunniyi|Saint Bonaventure|6.99
+Alex Barcello|BYU|6.95
+MaCio Teague|Baylor|6.94
+Myles Johnson|Rutgers|6.88
+Scottie Barnes|Florida State|6.86
+Dru Smith|Missouri|6.86
+RJ Cole|Connecticut|6.78
+Matt Coleman III|Texas|6.78
+Jose Alvarado|Georgia Tech|6.77
+Andrew Nembhard|Gonzaga|6.69
+Isaiah Jackson|Kentucky|6.66
+Joe Wieskamp|Iowa|6.64
+Jeremiah Robinson-Earl|Villanova|6.61
+Justin Bean|Utah State|6.61
+Marcus Sasser|Houston|6.59
+Darius Days|LSU|6.56
+Oscar da Silva|Stanford|6.55
+Marcus Zegarowski|Creighton|6.54
+Isaiah Livers|Michigan|6.52
+Marreon Jackson|Toledo|6.52
+Armando Bacot|North Carolina|6.49
+Josiah-Jordan James|Tennessee|6.48
+Charles Bassey|Western Kentucky|6.42
+Marcus Garrett|Kansas|6.41
+Jason Preston|Ohio|6.37
+Jacob Gilyard|Richmond|6.36
+Collin Gillespie|Villanova|6.32
+Aaron Henry|Michigan State|6.31
+Roman Penn|Drake|6.31
+Kyler Edwards|Texas Tech|6.31
+Nah'Shon Hyland|VCU|6.26
+Cade Cunningham|Oklahoma State|6.26
+Matthew Mayer|Baylor|6.26
+DeVante' Jones|Coastal Carolina|6.25
+Anton Watson|Gonzaga|6.22
+Paul Scruggs|Xavier|6.19
+Kyle Young|Ohio State|6.17
+Carlik Jones|Louisville|6.13
+Jordan Goodwin|Saint Louis|6.09
+Hunter Dickinson|Michigan|6.08
+Jermaine Samuels|Villanova|6.03
+Isaiah Miller|UNC Greensboro|6.02
+Xavier Johnson|Pittsburgh|6.01
+Trevion Williams|Purdue|5.97
+Jacob Grandison|Illinois|5.94
+John Petty Jr.|Alabama|5.93
+Jaime Jaquez Jr.|UCLA|5.91
+Balsa Koprivica|Florida State|5.87
+Moses Moody|Arkansas|5.83
+Hunter Cattoor|Virginia Tech|5.80
+Javonte Smart|LSU|5.79
+LJ Figueroa|Oregon|5.78
+Marcus Carr|Minnesota|5.76
+Austin Reaves|Oklahoma|5.73
+Sasha Stefanovic|Purdue|5.72
+David Duke|Providence|5.70
+Trayce Jackson-Davis|Indiana|5.69
+Jaylin Williams|Auburn|5.63
+Gabe Osabuohien|West Virginia|5.63
+Donta Scott|Maryland|5.61
+Marek Dolezaj|Syracuse|5.61
+Hyunjung Lee|Davidson|5.60
+Terrence Shannon Jr.|Texas Tech|5.59
+Trey Murphy III|Virginia|5.59
+Jalen Pickett|Siena|5.58
+Tucker Richardson|Colgate|5.57
+Tre Mitchell|Massachusetts|5.54
+Eugene Omoruyi|Oregon|5.53
+Marquise Kennedy|Loyola Chicago|5.52
+D'Mitrik Trice|Wisconsin|5.50
+Mitch Ballock|Creighton|5.50
+Eli Brooks|Michigan|5.49
+Anthony Polite|Florida State|5.48
+Sharife Cooper|Auburn|5.46
+Michael Hughes|Duquesne|5.46
+Trent Frazier|Illinois|5.45
+Jaquori McLaughlin|UC Santa Barbara|5.44
+Alex Lomax|Memphis|5.42
+Tre Mann|Florida|5.40
+James Bouknight|Connecticut|5.33
+Matt Haarms|BYU|5.32
+Collin Welp|UC Irvine|5.28
+Drew Peterson|USC|5.27
+Isaiah Whaley|Connecticut|5.26
+Loren Cristian Jackson|Akron|5.26
+Ron Harper Jr.|Rutgers|5.26
+Chandler Vaudrin|Winthrop|5.25
+CJ Walker|Ohio State|5.25
+Colbey Ross|Pepperdine|5.23
+Tyson Etienne|Wichita State|5.23
+Tahj Eaddy|USC|5.22
+Aaron Wiggins|Maryland|5.21
+Lucas Williamson|Loyola Chicago|5.20
+Devontae Shuler|Ole Miss|5.18
+Matt Mitchell|San Diego State|5.17
+Jaden Springer|Tennessee|5.16
+Isaac Likekele|Oklahoma State|5.16
+Mark Vital|Baylor|5.15
+Hasahn French|Saint Louis|5.12
+Brad Greene|UC Irvine|5.12
+Justin Gorham|Houston|5.11
+Ochai Agbaji|Kansas|5.11
+Reggie Chaney|Houston|5.10
+Jalen Tate|Arkansas|5.09
+Scottie Lewis|Florida|5.06
+Justin Smith|Arkansas|5.05
+Jordan Bohannon|Iowa|5.04
+Max Abmas|Oral Roberts|5.04
+Johnny McCants|New Mexico State|5.03
+Jordan Burns|Colgate|5.02
+John Fulkerson|Tennessee|5.01
+Isaiah Mobley|USC|5.01
+Ethan Thompson|Oregon State|5.01
+David Roddy|Colorado State|5.00
+Brady Manek|Oklahoma|4.99
+Jared Rhoden|Seton Hall|4.98
+Day'Ron Sharpe|North Carolina|4.97
+Keyshaun Langley|UNC Greensboro|4.96
+Manny Bates|NC State|4.96
+Jalen Crutcher|Dayton|4.95
+Kalib Boone|Oklahoma State|4.94
+Isaiah Stevens|Colorado State|4.93
+Grant Basile|Wright State|4.92
+Isaiah Crawford|Louisiana Tech|4.91
+Jamaree Bouyea|San Francisco|4.90
+Da'Monte Williams|Illinois|4.89
+Brad Davison|Wisconsin|4.87
+Garrison Brooks|North Carolina|4.87
+Grant Sherfield|Nevada|4.84
+David McCormack|Kansas|4.84
+Eric Ayala|Maryland|4.84
+Tyrece Radford|Virginia Tech|4.82
+Remy Martin|Arizona State|4.81
+Trendon Watford|LSU|4.81
+Warith Alatishe|Oregon State|4.80
+Enrique Freeman|Akron|4.79
+Kyle Lofton|Saint Bonaventure|4.78
+Ben Vander Plas|Ohio|4.77
+James Akinjo|Arizona|4.77
+Marcus Bingham Jr.|Michigan State|4.77
+Clay Mounce|Furman|4.76
+CJ Fredrick|Iowa|4.76
+Justin Turner|Bowling Green|4.74
+Tyger Campbell|UCLA|4.74
+Michael Devoe|Georgia Tech|4.73
+Nick Muszynski|Belmont|4.72
+Jabari Walker|Colorado|4.72
+Kessler Edwards|Pepperdine|4.70
+Kevin Samuel|TCU|4.69
+John Harrar|Penn State|4.69
+Sandro Mamukelashvili|Seton Hall|4.69
+Justin Champagnie|Pittsburgh|4.68
+Lester Quinones|Memphis|4.68
+Cameron Thomas|LSU|4.67
+RaiQuan Gray|Florida State|4.67
+Taze Moore|Cal State Bakersfield|4.65
+Javonte Perkins|Saint Louis|4.64
+Keve Aluma|Virginia Tech|4.64
+Kerwin Walton|North Carolina|4.64
+Steffon Mitchell|Boston College|4.63
+Josh Mballa|Buffalo|4.63
+Liam Robbins|Minnesota|4.62
+Jayvon Graves|Buffalo|4.61
+Fatts Russell|Rhode Island|4.59
+Kadary Richmond|Syracuse|4.58
+Jamari Wheeler|Penn State|4.58
+Andre Curbelo|Illinois|4.58
+Luis Rodriguez|Ole Miss|4.56
+Keon Ellis|Alabama|4.55
+Dom Welch|Saint Bonaventure|4.54
+Mac McClung|Texas Tech|4.54
+Davion Mintz|Kentucky|4.54
+Geo Baker|Rutgers|4.54
+Jaden Shackelford|Alabama|4.53
+Terry Taylor|Austin Peay|4.53
+Juwan Durham|Notre Dame|4.53
+Tavin Lovan|UAB|4.52
+Tevin Brown|Murray State|4.51
+Jake LaRavia|Indiana State|4.49
+Santiago Vescovi|Tennessee|4.49
+Vince Williams|VCU|4.48
+Tanner Holden|Wright State|4.48
+Duane Washington Jr.|Ohio State|4.47
+Chaundee Brown|Michigan|4.46
+Jarrod West|Marshall|4.45
+Justice Sueing|Ohio State|4.45
+Braden Norris|Loyola Chicago|4.45
+Jordan Bruner|Alabama|4.44
+Scotty Pippen Jr.|Vanderbilt|4.44
+Jahvon Quinerly|Alabama|4.44
+Jericho Sims|Texas|4.42
+Kellan Grady|Davidson|4.42
+Myreon Jones|Penn State|4.41
+Terrell Brown Jr.|Arizona|4.41
+Baylor Scheierman|South Dakota State|4.40
+Race Thompson|Indiana|4.40
+Christian Braun|Kansas|4.39
+Jarod Lucas|Oregon State|4.37
+Alan Griffin|Syracuse|4.35
+KC Ndefo|Saint Peter's|4.34
+Jalen Hill|UCLA|4.34
+Justin Moore|Villanova|4.32
+Tanner Groves|Eastern Washington|4.32
+Hall Elisias|Bryant|4.31
+D.J. Jeffries|Memphis|4.31
+Jake Stephens|VMI|4.29
+Darius McGhee|Liberty|4.29
+Timmy Allen|Utah|4.28
+Storm Murphy|Wofford|4.27
+Kai Jones|Texas|4.27
+Nathan Mensah|San Diego State|4.27
+Alex Hunter|Furman|4.26
+Hayden Koval|UNC Greensboro|4.25
+Javion Hamlet|North Texas|4.25
+Julian Champagnie|St. John's|4.25
+Leaky Black|North Carolina|4.24
+Mikael Jantunen|Utah|4.24
+Will Richardson|Oregon|4.24
+Derek Culver|West Virginia|4.23
+Adam Flagler|Baylor|4.22
+Loudon Love|Wright State|4.20
+Evan Battey|Colorado|4.20
+Romello White|Ole Miss|4.19
+Paul Mulcahy|Rutgers|4.19
+Feron Hunt|SMU|4.19
+Taz Sherman|West Virginia|4.15
+Dylan Disu|Vanderbilt|4.15
+Kevin McCullar Jr.|Texas Tech|4.14
+Davonte Davis|Arkansas|4.14
+Devon Daniels|NC State|4.14
+M.J. Walker|Florida State|4.14
+Dalonte Brown|Miami (OH)|4.14
+Michael Nuga|Kent State|4.13
+Iverson Molinar|Mississippi State|4.13
+Mylik Wilson|Louisiana-Lafayette|4.12
+Santi Aldama|Loyola Maryland|4.12
+KJ Buffen|Ole Miss|4.11
+Kim Aiken Jr.|Eastern Washington|4.11
+Taevion Kinsey|Marshall|4.10
+Keith Clemons|Loyola Chicago|4.06
+Sir'Jabari Rice|New Mexico State|4.06
+Avery Anderson III|Oklahoma State|4.06
+Jaren Holmes|Saint Bonaventure|4.06
+D'Shawn Schwartz|Colorado|4.06
+Tyrn Flowers|Long Island|4.05
+Connor McCaffery|Iowa|4.05
+Eli Scott|Loyola Marymount|4.04
+Jalen Wilson|Kansas|4.03
+Mike Smith|Michigan|4.01
+Marcus Weathers|Duquesne|4.00
+KJ Williams|Murray State|4.00
+Christian Bishop|Creighton|3.99
+Shavar Reynolds|Seton Hall|3.99
+Mark Sears|Ohio|3.98
+Nate Reuvers|Wisconsin|3.98
+Damien Jefferson|Creighton|3.97
+Michael Weathers|Texas Southern|3.97
+Tramon Mark|Houston|3.96
+Joe Toussaint|Iowa|3.96
+Tyreke Key|Indiana State|3.96
+Juwan Gary|Alabama|3.96
+Greg Brown|Texas|3.95
+Colin Castleton|Florida|3.95
+Braxton Beverly|NC State|3.94
+Tyson Walker|Northeastern|3.94
+Keith Williams|Cincinnati|3.93
+Kolton Kohl|Abilene Christian|3.93
+Marcus Santos-Silva|Texas Tech|3.93
+Daejon Davis|Stanford|3.92
+Jack Ferguson|Colgate|3.91
+Kyle Rode|Liberty|3.89
+DJ Funderburk|NC State|3.88
+Jordan Goldwire|Duke|3.88
+Grant Golden|Richmond|3.88
+Spencer Littleson|Toledo|3.85
+Buddy Boeheim|Syracuse|3.85
+Boogie Ellis|Memphis|3.85
+Jeriah Horne|Colorado|3.85
+Alex Reese|Alabama|3.84
+Pete Nance|Northwestern|3.83
+Prentiss Hubb|Notre Dame|3.83
+Johnny Davis|Wisconsin|3.82
+Jack Nunge|Iowa|3.81
+De'Vion Harmon|Oklahoma|3.81
+Olivier Sarr|Kentucky|3.81
+DJ Steward|Duke|3.81
+Terry Nolan Jr.|Bradley|3.80
+Terrell Gomez|San Diego State|3.78
+Dajuan Harris Jr.|Kansas|3.78
+Danny Pippen|Kent State|3.78
+Max Fiedler|Rice|3.77
+Keegan Murray|Iowa|3.77
+Austin Phyfe|Northern Iowa|3.76
+Walker Kessler|North Carolina|3.75
+Abdul Ado|Mississippi State|3.75
+Desmond Cambridge Jr.|Nevada|3.75
+Nate Watson|Providence|3.74
+Spencer Jones|Stanford|3.74
+Zach Freemantle|Xavier|3.74
+Noah Williams|Washington State|3.74
+Tyrese Martin|Connecticut|3.74
+Andrew Taylor|Marshall|3.73
+Nijel Pack|Kansas State|3.73
+Nate Johnson|Xavier|3.72
+Yves Pons|Tennessee|3.71
+Myles Dread|Penn State|3.69
+AJ Lawson|South Carolina|3.69
+Hason Ward|VCU|3.69
+Courtney Ramey|Texas|3.69
+Andrew Jones|Texas|3.68
+Ryan Davis|Vermont|3.68
+Jovan Blacksher Jr.|Grand Canyon|3.68
+Javon Greene|George Mason|3.67
+Thomas Bell|North Texas|3.65
+Brandon Rachal|Tulsa|3.65
+Armaan Franklin|Indiana|3.65
+JD Notae|Arkansas|3.65
+Jemarl Baker Jr.|Arizona|3.65
+Tommy Kuhse|Saint Mary's|3.64
+ShanQuan Hemphill|Drake|3.63
+John Knight III|Southern Utah|3.63
+Tyreek Scott-Grayson|UAB|3.63
+Blake Preston|Liberty|3.63
+Rocky Kreuser|North Dakota State|3.62
+Moses Wright|Georgia Tech|3.61
+Bennedict Mathurin|Arizona|3.61
+Brandon Johnson|Minnesota|3.59
+Quincy Guerrier|Syracuse|3.58
+Nate Laszewski|Notre Dame|3.58
+Noah Gurley|Furman|3.58
+Mark Williams|Duke|3.57
+Mike Bothwell|Furman|3.57
+Matthias Tass|Saint Mary's|3.56
+Isaiah Wong|Miami (Fla.)|3.55
+Antoine Davis|Detroit|3.53
+Darryl Morsell|Maryland|3.52
+Yuri Collins|Saint Louis|3.52
+Jhivvan Jackson|UTSA|3.51
+Matt Lewis|James Madison|3.50
+Reggie Miller|Abilene Christian|3.50
+Isiah Small|Texas State|3.50
+Eral Penn|Long Island|3.49
+Adonis Arms|Winthrop|3.49
+Charles Pride|Bryant|3.48
+Jaheam Cornwall|Gardner-Webb|3.47
+Asbjorn Midtgaard|Grand Canyon|3.47
+Keegan Records|Colgate|3.47
+D.J. Carton|Marquette|3.47
+Te'Jon Lucas|Milwaukee|3.45
+Brison Gresham|Houston|3.45
+Messiah Jones|Wofford|3.45
+Adama Sanogo|Connecticut|3.45
+Malachi Smith|Chattanooga|3.44
+D.J. Burns Jr.|Winthrop|3.44
+Christian Koloko|Arizona|3.43
+Mason Faulkner|Western Carolina|3.42
+Justyn Mutts|Virginia Tech|3.42
+Matt Bradley|California|3.41
+Connor Harding|BYU|3.41
+Jordan Bell|Pacific|3.40
+Sahvir Wheeler|Georgia|3.40
+Garrett Sturtz|Drake|3.40
+Felipe Haase|Mercer|3.39
+Cody Riley|UCLA|3.39
+James Butler|Drexel|3.38
+Rob Phinisee|Indiana|3.37
+JT Shumate|Toledo|3.37
+Jalen Ray|Hofstra|3.36
+Damari Monsanto|East Tennessee State|3.35
+Nick Honor|Clemson|3.35
+Michael Jones|Davidson|3.35
+Orlando Robinson|Fresno State|3.35
+Rasir Bolton|Iowa State|3.35
+Jordan Miller|George Mason|3.34
+Dzmitry Ryuny|San Francisco|3.34
+Peter Kiss|Bryant|3.33
+Azuolas Tubelis|Arizona|3.33
+Dylan van Eyck|Iona|3.33
+D.J. Stewart Jr.|Mississippi State|3.32
+Jeenathan Williams|Buffalo|3.32
+Devearl Ramsey|UC Santa Barbara|3.31
+John-Michael Wright|High Point|3.31
+Mattias Markusson|Loyola Marymount|3.28
+Jarron Coleman|Ball State|3.28
+Jubrile Belo|Montana State|3.28
+Daeqwon Plowden|Bowling Green|3.28
+Sean McNeil|West Virginia|3.28
+Posh Alexander|St. John's|3.27
+Eric Hunter Jr.|Purdue|3.27
+Mason Gillis|Purdue|3.26
+Abu Kigab|Boise State|3.26
+Micah Peavy|Texas Tech|3.26
+Kevin Obanor|Oral Roberts|3.26
+Ahsan Asadullah|Lipscomb|3.25
+Rylan Jones|Utah|3.24
+Ian DuBose|Wake Forest|3.24
+David Singleton|UCLA|3.23
+Greg Williams Jr.|St. John's|3.23
+Kenneth Lofton, Jr.|Louisiana Tech|3.22
+Ruot Monyyong|Arkansas-Little Rock|3.22
+Dwon Odom|Xavier|3.22
+George Papas|Monmouth|3.22
+Darien Jackson|Tulsa|3.21
+Coryon Mason|Abilene Christian|3.21
+Dominick Pickett|UC Riverside|3.21
+Miles Norris|UC Santa Barbara|3.21
+Derrick Alston|Boise State|3.21
+Brandon Mahan|UCF|3.20
+Keion Brooks Jr.|Kentucky|3.20
+Cole Swider|Villanova|3.20
+Elijah Parquet|Colorado|3.20
+Luke Smith|Belmont|3.19
+Jeremiah Tilmon|Missouri|3.19
+Jalen Adaway|Saint Bonaventure|3.19
+Jules Bernard|UCLA|3.19
+Theo John|Marquette|3.18
+Chudier Bile|Georgetown|3.18
+Malique Jacobs|Kent State|3.17
+Umoja Gibson|Oklahoma|3.17
+Desi Sills|Arkansas|3.17
+Elijah Joiner|Tulsa|3.16
+Omar Payne|Florida|3.16
+Connor Vanover|Arkansas|3.16
+Jalen Slawson|Furman|3.16
+Tyler Polley|Connecticut|3.15
+Jericole Hellems|NC State|3.15
+Josh Anderson|Western Kentucky|3.15
+Malik Hall|Michigan State|3.14
+Alex Morales|Wagner|3.13
+Zach Edey|Purdue|3.13
+Joseph Girard III|Syracuse|3.13
+Toumani Camara|Georgia|3.12
+Darius Brown II|Cal State Northridge|3.12
+Au'Diese Toney|Pittsburgh|3.10
+Camren Wynter|Drexel|3.10
+Ryan Larson|Wofford|3.08
+Marcellus Earlington|St. John's|3.08
+Kihei Clark|Virginia|3.07
+Tremell Murphy|Drake|3.06
+Damian Chong Qui|Mount St. Mary's|3.06
+Caleb McConnell|Rutgers|3.05
+Wendell Moore Jr.|Duke|3.04
+Michael Moreno|Eastern Kentucky|3.03
+Johnny Juzang|UCLA|3.03
+CJ Fleming|Bellarmine|3.03
+Maizen Fausett|Southern Utah|3.03
+Cobe Williams|Louisiana Tech|3.02
+Elijah Ford|Wagner|3.02
+Aaron Thompson|Butler|3.02
+Elijah Harkless|Oklahoma|3.02
+Ibi Watson|Dayton|3.01
+David Johnson|Louisville|3.01
+Jaylin Williams|Arkansas|2.99
+Ben Shungu|Vermont|2.99
+Quenton Jackson|Texas A&M|2.98
+Elijah Childs|Bradley|2.98
+Tyree Appleby|Florida|2.97
+Zachary Simmons|North Texas|2.97
+Jordan Wright|Vanderbilt|2.97
+Khalil Shabazz|San Francisco|2.96
+Jalen Johnson|Duke|2.96
+Brandon Averette|BYU|2.96
+David Kachelries|Stephen F. Austin|2.96
+Cam Mack|Prairie View|2.95
+Keaton Wallace|UTSA|2.94
+Trey Pulliam|San Diego State|2.94
+Ryan Kalkbrenner|Creighton|2.94
+Jordan Usher|Georgia Tech|2.93
+Noah Locke|Florida|2.93
+Antwann Jones|Creighton|2.93
+LaQuill Hardnett|Buffalo|2.93
+Joshua Lusane|Campbell|2.92
+Ethan Claycomb|Bellarmine|2.92
+Gabe McGlothan|Grand Canyon|2.92
+Joey Hauser|Michigan State|2.92
+Airion Simmons|Abilene Christian|2.92
+Zach Reichle|Oregon State|2.91
+Gabe Brown|Michigan State|2.91
+Jamorko Pickett|Georgetown|2.91
+Pierre Crockrell II|Pacific|2.91
+Savion Flagg|Texas A&M|2.91
+Jeremy Sheppard|Rhode Island|2.91
+Mika Adams-Woods|Cincinnati|2.90
+Ledarrius Brewer|East Tennessee State|2.90
+Gavin Kensmil|Stephen F. Austin|2.90
+Obadiah Noel|UMass Lowell|2.89
+Quan Jackson|UAB|2.89
+Jamal Cain|Marquette|2.89
+Dallas Walton|Colorado|2.89
+RayJ Dennis|Boise State|2.89
+Riley Battin|Utah|2.89
+Eric Williams Jr.|Oregon|2.88
+David Sloan|East Tennessee State|2.88
+Flo Thamba|Baylor|2.88
+Amadou Sow|UC Santa Barbara|2.88
+Gabe Kalscheur|Minnesota|2.87
+Brandon Boston Jr.|Kentucky|2.87
+Allen Flanigan|Auburn|2.87
+Qudus Wahab|Georgetown|2.86
+Stef Smith|Vermont|2.86
+Marco Anthony|Utah State|2.86
+Alexis Yetna|South Florida|2.85
+Aaron Wheeler|Purdue|2.85
+James Reese V|North Texas|2.85
+Isiaih Mosley|Missouri State|2.85
+Both Gach|Minnesota|2.85
+Donovan Gregory|Appalachian State|2.84
+Theo Akwuba|Louisiana-Lafayette|2.83
+Alterique Gilbert|Wichita State|2.83
+Tim Finke|Wright State|2.83
+Wabissa Bede|Virginia Tech|2.82
+Aljami Durham|Indiana|2.82
+Marquis Eaton|Arkansas State|2.82
+Tyler Wahl|Wisconsin|2.80
+Cam Davis|Navy|2.80
+Reece Beekman|Virginia|2.80
+Eliel Nsoseme|Georgia State|2.78
+Jake Kyman|UCLA|2.78
+Isaiah White|USC|2.78
+D.J. Wilkins|Drake|2.77
+Jason Carter|Xavier|2.76
+Demarkus Lampley|Sam Houston State|2.76
+Oscar Frayer|Grand Canyon|2.76
+Adam Miller|Illinois|2.76
+Koby McEwen|Marquette|2.75
+Dalen Terry|Arizona|2.75
+Brandon Huffman|Jacksonville State|2.75
+Ryan Young|Northwestern|2.75
+Caleb Asberry|Texas State|2.75
+Izaiah Brockington|Penn State|2.74
+Brandon Newman|Purdue|2.74
+Donte Powers|Sam Houston State|2.74
+Josip Vrankic|Santa Clara|2.73
+Corey Allen|Georgia State|2.73
+Michael Flowers|South Alabama|2.73
+Jeremiah Bailey|Pacific|2.72
+Shahada Wells|UT Arlington|2.72
+Jalen Moore|Oakland|2.72
+Isaih Moore|St. John's|2.71
+Giovanni Santiago|Kent State|2.71
+Aleem Ford|Wisconsin|2.71
+Malik Curry|Old Dominion|2.70
+Andrew Garcia|Georgia|2.70
+Shereef Mitchell|Creighton|2.70
+Xavier Pinson|Missouri|2.70
+Matt Dentlinger|South Dakota State|2.69
+Michael Forrest|Florida Atlantic|2.69
+Trey Jemison|UAB|2.69
+Jamarius Burton|Texas Tech|2.69
+Patrick McCaffery|Iowa|2.69
+Sukhmail Mathon|Boston University|2.69
+Hakim Hart|Maryland|2.69
+Jahvon Blair|Georgetown|2.68
+Caleb Daniels|Villanova|2.68
+Moussa Cisse|Memphis|2.68
+Richard Harward|BYU|2.68
+Donald Carey|Georgetown|2.68
+Charlie Moore|DePaul|2.68
+Ross Cummings|Mercer|2.67
+Johni Broome|Morehead State|2.66
+Luka Brajkovic|Davidson|2.66
+Thomas Kithier|Michigan State|2.66
+Arinze Chidom|UC Riverside|2.66
+Jayveous McKinnis|Jackson State|2.66
+Adam Thistlewood|Colorado State|2.65
+Dillon Jones|Weber State|2.65
+Trey McGowens|Nebraska|2.65
+Noah Fernandes|Massachusetts|2.64
+Rollie Worster|Utah State|2.64
+Jimmy Clark III|VCU|2.64
+Jeremy Roach|Duke|2.64
+Xavier Fuller|South Dakota|2.63
+Kane Williams|Georgia State|2.63
+Solomon Young|Iowa State|2.63
+Taylor Funk|Saint Joseph's|2.62
+Mark Smith|Missouri|2.62
+Sam Sessoms|Penn State|2.62
+Darius Perry|UCF|2.62
+Seth Towns|Ohio State|2.61
+Bryce Nze|Butler|2.61
+Myles Cale|Seton Hall|2.61
+Joe Quintana|Loyola Marymount|2.60
+Javon Levi|Texas-Rio Grande Valley|2.59
+Jae'Lyn Withers|Louisville|2.59
+Aher Uguak|Loyola Chicago|2.59
+Al-Amir Dawes|Clemson|2.59
+Radshad Davis|Florida International|2.59
+Bryson Williams|UTEP|2.58
+Emanuel Miller|Texas A&M|2.58
+Taveion Hollingsworth|Western Kentucky|2.58
+Abdoul Karim Coulibaly|Pittsburgh|2.57
+Payton Willis|College of Charleston|2.57
+Ryan Daly|Saint Joseph's|2.57
+Tre Gomillion|Cleveland State|2.57
+Elijah Cuffee|Liberty|2.57
+Mladen Armus|Boise State|2.56
+Trey Wade|Wichita State|2.56
+Anthony Tarke|Coppin State|2.55
+Joseph Yesufu|Drake|2.55
+Greg Elliott|Marquette|2.55
+John Newman III|Clemson|2.55
+Neal Quinn|Lafayette|2.55
+Clay Gayman|Abilene Christian|2.55
+Ikenna Ndugba|Elon|2.55
+Jayden Saddler|Southern|2.54
+Caleb Love|North Carolina|2.53
+Landers Nolley II|Memphis|2.52
+Elyjah Williams|Fairleigh Dickinson|2.52
+Josh Corbin|Winthrop|2.52
+Chad Baker-Mazara|Duquesne|2.51
+Phlandrous Fleming Jr.|Charleston Southern|2.51
+Foster Loyer|Michigan State|2.50
+David Azore|UT Arlington|2.49
+Justin Mazzulla|Vermont|2.49
+Victor Bailey Jr.|Tennessee|2.49
+De'Monte Buckingham|Cal State Bakersfield|2.49
+Souley Boum|UTEP|2.49
+Brandon Johns Jr.|Michigan|2.47
+Antwan Walker|Rhode Island|2.47
+Darnell Brodie|Drake|2.47
+Jonas Harper|Boston University|2.47
+Jordan Brown|Arizona|2.46
+Keon Johnson|Tennessee|2.45
+Flynn Cameron|UC Riverside|2.45
+Adam Seiko|San Diego State|2.44
+Kendle Moore|Colorado State|2.44
+Dane Goodwin|Notre Dame|2.43
+Isiah Brown|Weber State|2.43
+Jonathan Tchamwa Tchatchoua|Baylor|2.43
+J.P. Moorman II|Temple|2.43
+Broc Finstuen|Pacific|2.42
+Demarius Jacobs|Saint Louis|2.42
+Damion Baugh|Memphis|2.42
+Thorir Thorbjarnarson|Nebraska|2.42
+Dalano Banton|Nebraska|2.41
+Efe Abogidi|Washington State|2.41
+Kameron Langley|North Carolina A&T|2.41
+Marten Linssen|Saint Louis|2.40
+Marcus Shaver Jr.|Boise State|2.40
+Mikel Beyers|Marshall|2.39
+Keli Leaupepe|Loyola Marymount|2.39
+Jacob Young|Rutgers|2.39
+Josh Oduro|George Mason|2.37
+Pedro Bradshaw|Bellarmine|2.37
+Branden Carlson|Utah|2.37
+De'Torrion Ware|Morgan State|2.37
+Jalen Hill|Oklahoma|2.37
+Denzel Mahoney|Creighton|2.37
+Amorie Archibald|Louisiana Tech|2.37
+Dimon Carrigan|Florida International|2.36
+Russell Jones Jr.|Winthrop|2.36
+Ace Baldwin Jr.|VCU|2.34
+Justin Powell|Auburn|2.34
+Mekhi Lairy|Miami (OH)|2.34
+Jaden Ivey|Purdue|2.34
+Nelly Joseph|Iona|2.34
+Skyelar Potter|Morehead State|2.34
+RJ Eytle-Rock|UMBC|2.33
+Andre Kelly|California|2.33
+Jeff Woodward|Colgate|2.33
+Jalen Finch|Jacksonville State|2.33
+Joshua Langford|Michigan State|2.33
+Greg Summers|Navy|2.32
+Bo Hodges|Butler|2.32
+Caleb Lohner|BYU|2.32
+Malik Osborne|Florida State|2.32
+Miller Kopp|Northwestern|2.31
+Samuell Williamson|Louisville|2.31
+Tolu Smith III|Mississippi State|2.31
+Marcus Bagley|Arizona State|2.31
+Aaron Cook|Gonzaga|2.31
+Justin Roberts|Georgia State|2.30
+Troy Baxter Jr|Morgan State|2.29
+Blake Francis|Richmond|2.29
+Seth Lundy|Penn State|2.29
+Daivien Williamson|Wake Forest|2.28
+Jaylen Forbes|Tulane|2.28
+Tomas Woldetensae|Virginia|2.27
+Stanley Umude|South Dakota|2.27
+Carter Collins|Davidson|2.27
+Drew Buggs|Missouri|2.27
+Dwight Wilson|Ohio|2.26
+Dylan Addae-Wusu|St. John's|2.26
+Greg Parham II|VMI|2.26
+Khalid Thomas|Portland State|2.26
+De'Vondre Perry|Temple|2.26
+Chris Parker|Liberty|2.25
+Dawson Garcia|Marquette|2.25
+Ben Roderick|Ohio|2.25
+Seth Pinkney|Quinnipiac|2.24
+Jermaine Couisnard|South Carolina|2.23
+Cheikh Mbacke Diong|UNLV|2.23
+Ryghe Lyons|Nicholls State|2.22
+Tareq Coburn|Hofstra|2.21
+Joshua Primo|Alabama|2.21
+Trevor Anderson|Wisconsin|2.21
+Justin Minaya|South Carolina|2.21
+RJ Davis|North Carolina|2.21
+Bryce Hamilton|UNLV|2.21
+Hunter Tyson|Clemson|2.20
+Mason Harrell|Texas State|2.20
+Cam Hayes|NC State|2.20
+Kobe Brown|Missouri|2.20
+Jayden Gardner|East Carolina|2.20
+Mwani Wilkinson|LSU|2.19
+Darryl Polk Jr.|Pepperdine|2.19
+Greg Gantt Jr.|Providence|2.19
+Makai Ashton-Langford|Boston College|2.18
+Keylan Boone|Oklahoma State|2.18
+Trevin Knell|BYU|2.18
+Devonaire Doutrive|Boise State|2.18
+Javante McCoy|Boston University|2.17
+D'Maurian Williams|Gardner-Webb|2.17
+Jarvis Doles|Albany|2.17
+Ike Obiagu|Seton Hall|2.16
+Mitchell Smith|Missouri|2.15
+Corey Douglas|VCU|2.15
+Tari Eason|Cincinnati|2.15
+Ian Martinez|Utah|2.15
+Robbie Beran|Northwestern|2.15
+Markquis Nowell|Arkansas-Little Rock|2.14
+Brendan Barry|Temple|2.14
+Lucas Stieber|Green Bay|2.14
+Alessandro Lever|Grand Canyon|2.14
+Ronaldo Segu|Buffalo|2.13
+Brandon Horvath|UMBC|2.13
+Javon Freeman-Liberty|DePaul|2.13
+Bryce Wills|Stanford|2.12
+Nelson Boachie-Yiadom|Davidson|2.12
+Trevon Faulkner|Northern Kentucky|2.12
+Tristen Newton|East Carolina|2.12
+Donnie Tillman|New Mexico State|2.11
+Jannson Williams|Marshall|2.10
+Alex O'Connell|Creighton|2.10
+Stefan Kenic|Chattanooga|2.10
+Kalu Ezikpe|Old Dominion|2.10
+Hameir Wright|Washington|2.10
+Max Rice|Boise State|2.09
+Jamal Johnson|Auburn|2.08
+Dayvion McKnight|Western Kentucky|2.08
+K.J. Walton|Ball State|2.08
+Zyon Pullin|UC Riverside|2.08
+Carson Williams|Western Kentucky|2.08
+Darrion Trammell|Seattle|2.08
+Jamal Bieniemy|UTEP|2.08
+Teddy Allen|Nebraska|2.08
+Jock Perry|UC Riverside|2.07
+Jahmir Young|Charlotte|2.07
+Finn Sullivan|San Diego|2.07
+Patrick Dorsey|Navy|2.07
+Josh Pierre-Louis|UC Santa Barbara|2.07
+Nahiem Alleyne|Virginia Tech|2.06
+Juan Munoz|Longwood|2.06
+Robert Allen|Ole Miss|2.06
+Shaun Williams|Cal State Bakersfield|2.05
+Josh Christopher|Arizona State|2.05
+Justin Ahrens|Ohio State|2.04
+David Jean-Baptiste|Chattanooga|2.04
+Joel Brown|California|2.04
+Andrew Platek|North Carolina|2.04
+Michael O'Connell|Stanford|2.03
+Tate Hall|Loyola Chicago|2.03
+Robinson Idehen|UC Santa Barbara|2.03
+Melik Martin|Monmouth|2.03
+Isaiah Thompson|Purdue|2.02
+Curtis Haywood II|Tulsa|2.02
+Maxwell Evans|Vanderbilt|2.02
+Darius George|Marshall|2.02
+Joey Baker|Duke|2.02
+Hunter Maldonado|Wyoming|2.01
+Holland Woods|Arizona State|2.01
+Torrey Patton|Cleveland State|2.00
+Myron Gordon|Samford|2.00
+Christian Ray|La Salle|2.00
+Mezie Offurum|Mount St. Mary's|1.99
+Trey Diggs|Bowling Green|1.99
+Jalen Johnson|Mississippi State|1.99
+Adrian Nelson|Northern Kentucky|1.99
+Micah Parrish|Oakland|1.99
+Javohn Garcia|Massachusetts|1.98
+Tyler Burton|Richmond|1.98
+Gibson Jimerson|Saint Louis|1.97
+Ty Gordon|Nicholls State|1.97
+A.J. Plitzuweit|South Dakota|1.96
+Alondes Williams|Oklahoma|1.96
+Hayden Brown|The Citadel|1.96
+Cameron Parker|Montana|1.96
+Jalen Thomas|Georgia State|1.95
+Alex Arians|South Dakota State|1.95
+Erik Stevenson|Washington|1.95
+Chuck O'Bannon|TCU|1.94
+Douglas Wilson|South Dakota State|1.94
+Brandon McKissic|Missouri-Kansas City|1.94
+Brandon Slater|Villanova|1.94
+Clyde Trapp|Clemson|1.93
+JT Thor|Auburn|1.93
+Cameron Smith|Cal State Bakersfield|1.93
+Matt Cross|Miami (Fla.)|1.92
+Ethan Chargois|SMU|1.92
+Ty Groce|Eastern Michigan|1.92
+Jordan Walker|Tulane|1.91
+Alonzo Verge Jr.|Arizona State|1.91
+Dan Fotu|Saint Mary's|1.91
+Rondel Walker|Oklahoma State|1.90
+Carl Pierre|Massachusetts|1.90
+Kur Kuath|Oklahoma|1.90
+Dre Marin|Southern Utah|1.89
+R.J. Blakney|Dayton|1.89
+DeAndre Jones|Central Arkansas|1.88
+Ramiir Dixon-Conover|Saint Francis (PA)|1.88
+Frankie Policelli|Stony Brook|1.88
+Deivon Smith|Mississippi State|1.88
+Pelle Larsson|Utah|1.87
+Jordan Cintron|Niagara|1.87
+Isaiah Lee|UC Irvine|1.86
+Alfonso Plummer|Utah|1.86
+Emmanuel Akot|Boise State|1.86
+Naz Bohannon|Youngstown State|1.86
+Giorgi Bezhanishvili|Illinois|1.86
+Quade Green|Washington|1.85
+Austin Butler|Holy Cross|1.85
+Demarcus Sharp|Missouri State|1.85
+Chuck Harris|Butler|1.84
+Mohammed Abdulsalam|UNC Greensboro|1.84
+T.J. Weeks Jr.|Massachusetts|1.84
+Romeo Weems|DePaul|1.84
+Darin Green Jr.|UCF|1.84
+Isaiah Coleman-Lands|Miami (OH)|1.83
+Carlos Paez|Austin Peay|1.83
+Dylan Painter|Delaware|1.83
+DeWayne Cox|Prairie View|1.83
+Connor Withers|UMass Lowell|1.83
+DJ Horne|Illinois State|1.82
+Mike Peake|Austin Peay|1.81
+Jeremiah Williams|Temple|1.81
+Gorjok Gak|California Baptist|1.81
+Ebrima Dibba|Coastal Carolina|1.81
+Trae Hannibal|South Carolina|1.81
+Mardrez McBride|North Texas|1.80
+Ludovic Dufeal|Gardner-Webb|1.80
+Chase Claxton|Winthrop|1.80
+Trey Calvin|Wright State|1.79
+Bodie Hume|Northern Colorado|1.79
+Mike Okauru|UNC Wilmington|1.79
+Jacco Fritz|Canisius|1.79
+Morris Udeze|Wichita State|1.79
+Ben Sheppard|Belmont|1.77
+Goodnews Kpegeol|Valparaiso|1.77
+Ziaire Williams|Stanford|1.77
+Carlos Jürgens|Oral Roberts|1.77
+Chris Moore|Auburn|1.77
+Ayo Akinwole|Omaha|1.77
+Manny Camper|Siena|1.77
+Kaleb Hunter|UNC Greensboro|1.76
+Bryce Williams|Oklahoma State|1.76
+A.J. Reeves|Providence|1.76
+Jared Bynum|Providence|1.75
+Jordy Tshimanga|Dayton|1.75
+Emmitt Matthews Jr.|West Virginia|1.75
+Omar Habwe|Stony Brook|1.73
+Josh LeBlanc|LSU|1.73
+Darius Quisenberry|Youngstown State|1.73
+Jay Pal|Jacksonville State|1.73
+Michal Kozak|Weber State|1.73
+Michael Almonacy|Appalachian State|1.72
+Jeremiah Davenport|Cincinnati|1.72
+Bubba Parham|Georgia Tech|1.72
+Neftali Alvarez|Mercer|1.71
+Lonnie Grayson|Army|1.71
+Cormac Ryan|Notre Dame|1.71
+Kene Chukwuka|Pepperdine|1.71
+Malik Miller|Morgan State|1.71
+Zed Key|Ohio State|1.70
+Sigu Sisoho Jawara|Weber State|1.70
+Kamdyn Curfman|VMI|1.70
+Bailey Patella|Vermont|1.69
+Colby Jones|Xavier|1.69
+Darian Adams|Jacksonville State|1.68
+Craig Beaudion|Cleveland State|1.68
+Devante Carter|Norfolk State|1.66
+Luke Bumbalough|Ball State|1.66
+Michael Durr|South Florida|1.65
+Jalen Bridges|West Virginia|1.65
+Ishmael El-Amin|Ball State|1.65
+Clarence "Monzy" Jackson|Wichita State|1.65
+Matthew-Alexander Moncrieffe|Oklahoma State|1.64
+Setric Millner Jr.|Toledo|1.64
+Noah Carter|Northern Iowa|1.64
+Isaiah Ross|Iona|1.63
+Montre Gipson|Tarleton State|1.63
+Jaelen House|Arizona State|1.63
+Charles Falden|Winthrop|1.63
+Tajion Jones|UNC Asheville|1.63
+Precious Ayah|Miami (OH)|1.62
+Ryan Rollins|Toledo|1.62
+Lamont Butler|San Diego State|1.62
+Joshua Tomaic|San Diego State|1.62
+DeVon Cooper|Morehead State|1.61
+Jon Williams|Robert Morris|1.61
+Marcus Domask|Southern Illinois|1.61
+Clifford Omoruyi|Rutgers|1.61
+Isaiah Hill|Fresno State|1.60
+Josh Kunen|San Francisco|1.60
+Roti Ware|Stephen F. Austin|1.60
+Damien Daniels|Abilene Christian|1.60
+Jaylin Hunter|Old Dominion|1.60
+Emmanuel Bandoumel|SMU|1.59
+Sean East II|Bradley|1.59
+Tyree Eady|North Dakota State|1.59
+Dawson Baker|UC Irvine|1.59
+Leon Ayers III|Mercer|1.59
+Keyshawn Bryant|South Carolina|1.59
+Kolby Lee|BYU|1.58
+Kevin Johnson|Nicholls State|1.58
+Chandler Lawson|Oregon|1.58
+Donovan Newby|Milwaukee|1.57
+Aundre Hyatt|LSU|1.57
+Marques Warrick|Northern Kentucky|1.57
+Nathan Cayo|Richmond|1.57
+Kyle Sturdivant|Georgia Tech|1.56
+Tye Fagan|Georgia|1.56
+Ryan Myers|Iona|1.55
+Jamel Horton Jr.|Albany|1.55
+Justin Kier|Georgia|1.54
+Clayton Henry|New Mexico State|1.54
+Nelly Cummings|Colgate|1.54
+Chris Vogt|Cincinnati|1.54
+Bul Kuol|Detroit|1.54
+Jhamir Brickus|La Salle|1.54
+Darius McNeill|SMU|1.53
+Caleb Grill|UNLV|1.53
+Dontay Bassett|Weber State|1.53
+JJ Traynor|Louisville|1.53
+Elijah Gonzales|Louisiana-Monroe|1.53
+D'Moi Hodge|Cleveland State|1.53
+A.J. Caldwell|Chattanooga|1.52
+Noah Waterman|Detroit|1.52
+Mike McGuirl|Kansas State|1.52
+Dexter Dennis|Wichita State|1.52
+DeShang Weaver|Oral Roberts|1.51
+Chevez Goodwin|USC|1.51
+Jade' Smith|Pepperdine|1.51
+Jalen Johnson|Wake Forest|1.51
+Isaac Bonton|Washington State|1.50
+Isaiah Adams|UCF|1.50
+Jalen Hawkins|Norfolk State|1.49
+Hassan Diarra|Texas A&M|1.49
+Marcus Hammond|Niagara|1.49
+Tervell Beck|Kent State|1.49
+Jamir Harris|American|1.48
+Devin Askew|Kentucky|1.48
+Jimmy Nichols, Jr.|Providence|1.48
+Josh Caldwell|Army|1.48
+Musa Jallow|Ohio State|1.48
+Noah Freidel|South Dakota State|1.47
+KyKy Tandy|Xavier|1.47
+Alec Woodard|Austin Peay|1.47
+Ta'lon Cooper|Morehead State|1.47
+Jarkel Joiner|Ole Miss|1.47
+Tydus Verhoeven|UTEP|1.47
+Bryan Trimble Jr.|Akron|1.47
+Damion Rosser|New Orleans|1.46
+C.J. Kelly|Albany|1.46
+Tyrik Dixon|Coastal Carolina|1.46
+Robin Duncan|Vermont|1.45
+Cameron Johnson|Stephen F. Austin|1.45
+Mahki Morris|Abilene Christian|1.45
+Grant Nelson|North Dakota State|1.45
+Boo Buie|Northwestern|1.44
+Spencer Johnson|BYU|1.44
+Malek Green|Canisius|1.44
+Mate Okros|Drexel|1.44
+Makhel Mitchell|Rhode Island|1.44
+Anthony D'Avanzo|Southern Illinois|1.44
+Marvin Johnson|Eastern Illinois|1.44
+Jacob Groves|Eastern Washington|1.43
+Rylan Bergersen|Central Arkansas|1.42
+Kyle Bowen|Saint Mary's|1.42
+Marquell Fraser|Detroit|1.42
+Wil Tattersall|UC Riverside|1.42
+Tobias Cameron|Abilene Christian|1.42
+Isaiah Ihnen|Minnesota|1.41
+Davion Warren|Hampton|1.41
+Ty Gadsden|UNC Wilmington|1.41
+Jamal Bey|Washington|1.41
+Jr. Clay|Tennessee Tech|1.41
+Hunter Thompson|Wyoming|1.41
+Stephen Clark|The Citadel|1.41
+Jonathan Baehre|Clemson|1.40
+Kayne Henry|Jacksonville State|1.40
+Will Martinez|Wagner|1.40
+Jacolby Pemberton|Louisiana Tech|1.40
+Taavi Jurkatamm|San Francisco|1.40
+Kameron McGusty|Miami (Fla.)|1.39
+Jonah Antonio|Wake Forest|1.39
+Rodrigue Andela|Oregon State|1.39
+Jalen Cone|Virginia Tech|1.39
+Clifton Moore|La Salle|1.39
+K.D. Johnson|Georgia|1.39
+Tyler Robertson|Eastern Washington|1.38
+Kevin Anderson|Delaware|1.38
+Roman Silva|Oregon State|1.38
+Warren Washington|Nevada|1.38
+RayQuan Evans|Florida State|1.38
+Rodney Chatman|Dayton|1.38
+Hunter McIntosh|Elon|1.37
+Justin Jaworski|Lafayette|1.37
+Ryan Greer|Northwestern|1.37
+Zep Jasper|College of Charleston|1.36
+Ty Brewer|East Tennessee State|1.36
+Fardaws Aimaq|Utah Valley|1.36
+Brock Miller|Utah State|1.35
+Anthony Gaines|Northwestern|1.35
+Trae Berhow|Northern Iowa|1.35
+Jalen Hodge|James Madison|1.35
+Darion Jordan-Thomas|UMass Lowell|1.35
+David Collins|South Florida|1.34
+Chase Audige|Northwestern|1.34
+Elijah Weaver|Dayton|1.34
+Walter Whyte|Boston University|1.34
+Bowen Born|Northern Iowa|1.33
+Silas Adheke|East Tennessee State|1.33
+Mike Meadows|Eastern Washington|1.33
+Malcolm Dandridge|Memphis|1.33
+Josh Roberts|St. John's|1.33
+Josh Jefferson|Green Bay|1.33
+Darius Lee|Houston Christian|1.33
+Rich Kelly|Boston College|1.33
+Jalen Williams|Santa Clara|1.32
+Kimani Lawrence|Arizona State|1.32
+Alex Huibregtse|Wright State|1.32
+Luke Frampton|Western Kentucky|1.31
+Kalob Ledoux|Louisiana Tech|1.31
+Shamar Givance|Evansville|1.30
+Max Klesmit|Wofford|1.30
+Taryn Todd|TCU|1.30
+Marcus Burk|IU Indy|1.30
+Fred Thatch Jr.|Saint Louis|1.30
+Berrick JeanLouis|Iona|1.30
+Jack Perry|Eastern Washington|1.29
+Jailyn Ingram|Florida Atlantic|1.29
+Matthew Lee|Saint Peter's|1.28
+Ja'Monta Black|Missouri State|1.28
+Jacob Davison|Eastern Washington|1.28
+Mattia Acunzo|Toledo|1.28
+Calvin Solomon|Stephen F. Austin|1.28
+Jarred Godfrey|Fort Wayne|1.28
+Andrew Gordon|Louisiana Tech|1.27
+Trey Woodbury|Utah Valley|1.27
+Michael Akuchie|Youngstown State|1.27
+Dameane Douglas|Loyola Marymount|1.26
+Mike Sixsmith|Sacred Heart|1.26
+James Glisson III|Mercer|1.26
+Ira Lee|Arizona|1.26
+Colton Sandage|Western Illinois|1.25
+Aljaz Kunc|Washington State|1.25
+Jake Wojcik|Fairfield|1.24
+Sam Godwin|Wofford|1.24
+Vado Morse|James Madison|1.23
+Devan Cambridge|Auburn|1.23
+Braelen Bridges|Illinois-Chicago|1.23
+Anthony Holland|Fresno State|1.22
+John Walker III|Texas Southern|1.22
+C.J. Walker|UCF|1.22
+Derek Fountain|Mississippi State|1.22
+Cedric Henderson Jr.|Campbell|1.22
+Nigel Jackson|Wagner|1.21
+Brachen Hazen|Ball State|1.21
+Jalen Coleman-Lands|Iowa State|1.20
+Tate Pierson|Belmont|1.20
+D.J. Johnson|Rhode Island|1.20
+Johnny Brown|Florida A&M|1.20
+Jerome Hunter|Indiana|1.20
+Nick Guadarrama|New Hampshire|1.20
+Dontaie Allen|Kentucky|1.19
+Le'Tre Darthard|Utah Valley|1.19
+RJ Nembhard|TCU|1.19
+Jared Ridder|Missouri State|1.18
+Bobby Planutis|Fort Wayne|1.18
+E.J. Stephens|Lafayette|1.18
+Mack Smith|Eastern Illinois|1.18
+Dre Davis|Louisville|1.18
+Evan Gilyard II|New Mexico State|1.18
+Darius Burford|Elon|1.17
+Kwane Marble II|Wyoming|1.17
+Christiaan Jones|Stetson|1.17
+Marcus Williams|Wyoming|1.17
+Caleb Catto|Florida Gulf Coast|1.17
+Jackson Stormo|Siena|1.16
+Harrison Butler|Southern Utah|1.16
+Ricky Council IV|Wichita State|1.16
+Tre Coleman|Nevada|1.16
+Mikal Dawson|Akron|1.16
+Dwight Murray, Jr.|Rider|1.16
+Jaiden Delaire|Stanford|1.16
+Dishon Jackson|Washington State|1.15
+Chico Carter, Jr.|Murray State|1.15
+Logan Johnson|Saint Mary's|1.14
+Prince Toyambi|Georgia Southern|1.14
+Justin Amadi|James Madison|1.14
+Wendell Green Jr.|Eastern Kentucky|1.14
+Luke Loewe|William & Mary|1.14
+Jeameril Wilson|Lehigh|1.14
+Nick Hopkins|Siena|1.13
+Tristan Ikpe|Sam Houston State|1.13
+Mike Miles|TCU|1.13
+Sardaar Calhoun|Florida State|1.13
+Ethan Anderson|USC|1.12
+Sean Mobley|UCF|1.12
+Tevian Jones|Southern Utah|1.12
+Michael Ertel|UAB|1.12
+Jax Levitch|Evansville|1.12
+LJ Thorpe|UNC Asheville|1.11
+Pauly Paulicap|DePaul|1.11
+Ithiel Horton|Pittsburgh|1.11
+Trey Wertz|Notre Dame|1.11
+Matt Grace|Richmond|1.10
+Matthew Herasme|Marist|1.10
+Tre Jackson|Iowa State|1.10
+Jeff Gary|Mercer|1.09
+Sam Griesel|North Dakota State|1.09
+Charlie Easley|South Dakota State|1.09
+Kelton Talford|Winthrop|1.09
+Tyreek Smith|Texas Tech|1.09
+Tyler Moffe|The Citadel|1.08
+George Dixon|Eastern Illinois|1.08
+Tremont Robinson-White|East Carolina|1.08
+Lorenzo Edwards|College of Charleston|1.07
+Javon Pickett|Missouri|1.07
+Shaquille Walters|Northeastern|1.07
+Jalen Benjamin|UAB|1.07
+Dante Harris|Georgetown|1.07
+Paris Dawson|Portland State|1.07
+Steven Ashworth|Utah State|1.07
+Khalid Moore|Georgia Tech|1.06
+Zach Nutall|Sam Houston State|1.06
+Zane Meeks|Nevada|1.06
+Robert Ford III|Idaho State|1.05
+Kyle Owens|Montana|1.05
+A.J. Oliver|Old Dominion|1.05
+Robert Braswell|Syracuse|1.05
+Lewis Djonkam|Radford|1.04
+Devontae Blanton|Eastern Kentucky|1.04
+Bryce Fowler|Sacramento State|1.04
+Stephane Ingo|Maine|1.04
+Noah Baumann|USC|1.04
+Pierce Spencer|Nicholls State|1.04
+Mouhamadou Gueye|Stony Brook|1.04
+Tevin Brewer|Florida International|1.03
+Noah Horchler|Providence|1.03
+Jordan Jones|Marist|1.03
+Isaac Kante|Hofstra|1.03
+Rienk Mast|Bradley|1.03
+Dylan Cardwell|Auburn|1.02
+Casdon Jardine|Hawaii|1.02
+Trenton Massner|Northwestern State|1.02
+Rasheem Dunn|St. John's|1.01
+Cam Shelton|Northern Arizona|1.01
+Julian Rishwain|San Francisco|1.01
+Ryan Claflin|Green Bay|1.00
+Trey Thomas|Vanderbilt|0.99
+Tyler Kolek|George Mason|0.99
+Mitch Lightfoot|Kansas|0.99
+DJ Rodman|Washington State|0.99
+John Carter Jr.|Navy|0.98
+Joe Bryant|Norfolk State|0.98
+Malik Martin|Rhode Island|0.98
+Nana Opoku|Mount St. Mary's|0.98
+Xavier Bishop|Montana State|0.98
+Malcolm Farrington|Arkansas State|0.97
+Andre Jackson Jr.|Connecticut|0.97
+Payton Youngblood|North Alabama|0.97
+JJ Overton|Utah Valley|0.96
+Alex Hemenway|Clemson|0.96
+Myles Tate|Butler|0.96
+Cameron Christon|Grambling|0.95
+Mate Colina|Hawaii|0.95
+Michael Diggins|Illinois-Chicago|0.95
+Cameron Holden|Tennessee-Martin|0.95
+Wyatt Wilkes|Florida State|0.94
+Keshawn Justice|Santa Clara|0.94
+Jalen Graham|Arizona State|0.93
+Isaiah Rivera|Colorado State|0.93
+Ben Krikke|Valparaiso|0.93
+Jayden Martinez|New Hampshire|0.93
+Kvonn Cramer|Hofstra|0.92
+Jawaun Newton|Evansville|0.92
+Joel Soriano|Fordham|0.92
+Quirin Emanga|Northeastern|0.91
+David DeJulius|Cincinnati|0.91
+Adrian Delph|Appalachian State|0.91
+Stephan Swenson|Stetson|0.91
+Matt Halvorsen|Western Carolina|0.90
+Zack Bryant|Georgia Southern|0.90
+Justin Forrest|Appalachian State|0.90
+Brock Cunningham|Texas|0.90
+Kenan Blackshear|Florida Atlantic|0.89
+Jaylen Sims|UNC Wilmington|0.89
+Cedric Russell|Louisiana-Lafayette|0.89
+Sheldon Edwards Jr.|Valparaiso|0.89
+Karlis Silins|Florida Atlantic|0.89
+AJ Bramah|Robert Morris|0.89
+Tavian Dunn-Martin|Duquesne|0.89
+Ahmed Ali|Portland|0.88
+Ja'Shon Henry|Bradley|0.88
+Hugh Baxter|UC San Diego|0.88
+CJ Felder|Boston College|0.88
+Walter Ellis|Bucknell|0.88
+Garrett Covington|Youngstown State|0.88
+Sean Conway|VMI|0.88
+P.J. Horne|Georgia|0.88
+Amauri Hardy|Oregon|0.87
+Jadon Jones|Long Beach State|0.87
+Fletcher Abee|The Citadel|0.87
+Maddox Daniels|Colorado|0.87
+Quincy Olivari|Rice|0.86
+Jamir Watkins|VCU|0.86
+Isaiah Washington|Long Beach State|0.85
+Kyle Zunic|Winthrop|0.85
+Ben Coupet Jr.|Arkansas-Little Rock|0.85
+Tyreke Locure|South Alabama|0.83
+Keondre Kennedy|UMBC|0.83
+Mustapha Amzil|Dayton|0.83
+Jordan Ivy-Curry|UTSA|0.83
+Bryson Langdon|Northern Kentucky|0.82
+Vonnie Patterson|East Tennessee State|0.82
+Travis Evee|Rice|0.82
+Anthony Walker|Miami (Fla.)|0.81
+Tray Maddox Jr.|Cal State Fullerton|0.81
+Jaylen Clark|UCLA|0.81
+Samir Stewart|Manhattan|0.80
+Jacob Rigoni|Quinnipiac|0.80
+Bryce Golden|Butler|0.80
+Jordan Sears|Gardner-Webb|0.80
+Symir Torrence|Marquette|0.79
+Ajare Sanni|UC Santa Barbara|0.79
+Josiah Jeffers|Radford|0.79
+Jacob Falko|Gardner-Webb|0.79
+Mark Flagg|Saint Francis (PA)|0.78
+Andrej Jakimovski|Washington State|0.78
+Dre Fuller Jr.|UCF|0.78
+Matt Johnson II|Northern Colorado|0.78
+Kassim Nicholson|UAB|0.77
+PJ Pipes|Green Bay|0.77
+Femi Odukale|Pittsburgh|0.77
+Myles Ruth|Monmouth|0.77
+DJ Mitchell|Santa Clara|0.76
+Joe Pleasant|Abilene Christian|0.76
+Kobe Webster|Nebraska|0.76
+Dae Dae Grant|Miami (OH)|0.76
+Michael Christmas|James Madison|0.76
+Jaemyn Brakefield|Duke|0.75
+Chris Brandon|Detroit|0.75
+Ivan Alipiev|Loyola Marymount|0.75
+Austin Trice|Old Dominion|0.75
+Kruz Perrott-Hunt|South Dakota|0.75
+Alex Ducas|Saint Mary's|0.75
+Alex King|Army|0.74
+Nysier Brooks|Miami (Fla.)|0.74
+KC Hankton|Chattanooga|0.74
+Zach Cooks|NJIT|0.73
+Majesty Brandon|Canisius|0.73
+Josh Hall|Cal State Fullerton|0.73
+Antonio Rizzuto|Albany|0.72
+Ty Berry|Northwestern|0.72
+Tra'Von Fagan|Buffalo|0.71
+Norchad Omier|Arkansas State|0.71
+Jaylon Hall|Wright State|0.71
+Nikola Djogo|Notre Dame|0.70
+RJ McGee|Tulane|0.70
+Brock Bertram|Buffalo|0.70
+Jerroda Briscoe|Prairie View|0.69
+Garrick Green|Coastal Carolina|0.69
+Mike DePersia|IU Indy|0.68
+Jalyn McCreary|South Carolina|0.68
+B. Artis White|Western Michigan|0.68
+Rey Idowu|Tulsa|0.68
+Thomas Allen|NC State|0.68
+Makuach Maluach|New Mexico|0.68
+Zach Walton|Drexel|0.68
+Shakeel Moore|NC State|0.67
+Owen McCormack|Presbyterian|0.67
+Kobi Nwandu|Niagara|0.67
+DaJuan Gordon|Kansas State|0.67
+Monty Scott|Portland State|0.67
+Alec Pfriem|Bellarmine|0.67
+Keshaun Saunders|Toledo|0.67
+Jairus Hamilton|Maryland|0.67
+Emeka Udenyi|Seattle|0.67
+Josh Parrish|San Diego|0.67
+Clevon Brown|Vanderbilt|0.67
+Justin Webster|Hawaii|0.66
+Cooper Neese|Indiana State|0.66
+Jamison Battle|George Washington|0.66
+Justin Edler-Davis|Cal State Bakersfield|0.66
+Derek St. Hilaire|New Orleans|0.66
+Caleb Fields|Bowling Green|0.66
+Troy Green|New Orleans|0.65
+Vance Jackson|Arkansas|0.65
+Micheal Anumba|Winthrop|0.65
+Teyvion Kirk|Illinois-Chicago|0.64
+Jordan Hall|Saint Joseph's|0.64
+Amari Davis|Green Bay|0.64
+Morgan Safford|Wofford|0.64
+Marlin Davis|Texas State|0.64
+Willy Isiani|Detroit|0.64
+Matt Faw|Holy Cross|0.63
+Jordan Henderson|Canisius|0.63
+Charles Smith IV|SMU|0.63
+Jay Heath|Boston College|0.63
+Ishmael Leggett|Rhode Island|0.62
+Bas Leyte|UNC Greensboro|0.61
+Matt Mims|South Dakota State|0.61
+Ray Salnave|DePaul|0.61
+Cameron Matthews|Mississippi State|0.61
+Stacy Beckton Jr.|American|0.60
+Sam Griffin|UT Arlington|0.60
+Evan Kuhlman|Evansville|0.60
+Quentin Millora-Brown|Vanderbilt|0.60
+Daniss Jenkins|Pacific|0.59
+Joe Pridgen|UNC Wilmington|0.59
+T.J. Bickerstaff|Drexel|0.59
+Brandon Cyrus|UC Santa Barbara|0.58
+Isaiah Powell|Vermont|0.58
+Curt Lewis|Eastern Kentucky|0.58
+Aguek Arop|San Diego State|0.58
+Jair Bolden|Butler|0.58
+Kenneth Jones|Loyola Maryland|0.58
+Jacob Toppin|Kentucky|0.58
+Dischon Thomas|Colorado State|0.57
+Daniel Foster|Nevada|0.56
+Luis Hurtado|Bryant|0.56
+Zion Morgan|Valparaiso|0.56
+Doug Edert|Saint Peter's|0.56
+Eric Gaines|LSU|0.56
+Lat Mayen|Nebraska|0.56
+DeAndre Gholston|Milwaukee|0.55
+Andre Henry|UC Irvine|0.55
+Josh Thomas|Milwaukee|0.55
+Will Carius|Western Illinois|0.54
+Isaiah Mucius|Wake Forest|0.54
+Jaylin Andrews|Loyola Maryland|0.54
+Josh Vazquez|Montana|0.54
+Khyre Thompson|UNC Greensboro|0.54
+Ty Rowell|California Baptist|0.53
+Xavier Cork|Western Carolina|0.53
+M.J. Randolph|Florida A&M|0.53
+Caleb Hollander|Belmont|0.53
+Kennedy Koehler|UC Davis|0.52
+Khalyl Waters|Troy|0.52
+Josiah Fulcher|Bowling Green|0.52
+Nick Finke|Army|0.51
+Eric Curry|Minnesota|0.51
+Shemar Rathan-Mayes|Youngstown State|0.51
+KJ Hunt|Morehead State|0.51
+DeAnthony Tipler Jr.|Coastal Carolina|0.50
+Cody Carlson|Weber State|0.50
+Montez Mathis|Rutgers|0.50
+Elijah Pepper|UC Davis|0.49
+Bryan Greenlee|Florida Atlantic|0.49
+Sam Iorio|South Alabama|0.49
+Austin McCullough|Campbell|0.48
+Andre Gustavson|Richmond|0.48
+JJ Murray|North Texas|0.48
+Gianni Hunt|Oregon State|0.48
+J'Wan Roberts|Houston|0.48
+Grant Anticevich|California|0.48
+Wynston Tabbs|Boston College|0.48
+James Baker|Morehead State|0.48
+Zahir Porter|Weber State|0.48
+Dan Oladapo|Oakland|0.48
+Daryl Anderson|Norfolk State|0.48
+David Jenkins Jr.|UNLV|0.47
+Chuck Hannah|Elon|0.47
+Devin Jensen|Merrimack|0.47
+Tre Armstrong|California Baptist|0.46
+Xavier DuSell|Wyoming|0.46
+Maleeck Harden-Hayes|North Dakota State|0.45
+Antonio Daye, Jr.|Florida International|0.44
+Moses Wood|UNLV|0.44
+Tyler Nelson|Navy|0.44
+Jordan Shepherd|Charlotte|0.43
+AJ Wilson|George Mason|0.43
+Josh Nicholas|Louisiana-Monroe|0.43
+Deion Hammond|Monmouth|0.42
+LJ Owens|UMBC|0.42
+Bryce Workman|Jacksonville|0.42
+Elijah Buchanan|Manhattan|0.42
+Ebby Asamoah|Delaware|0.41
+Damion Squire|UC Davis|0.41
+Grant Huffman|Davidson|0.40
+George Tinsley|Binghamton|0.40
+Souleymane Diakite|NJIT|0.40
+Czar Perry|Cal State Bakersfield|0.40
+Marcus McClary|Monmouth|0.40
+Tasos Kamateros|South Dakota|0.40
+Jalen Celestine|California|0.39
+Daniel Deaver|Navy|0.39
+Guglielmo Caruso|Santa Clara|0.39
+Dylan Carl|Fort Wayne|0.39
+Brandon Suggs|East Carolina|0.39
+Nike Sibande|Pittsburgh|0.38
+Eric Boone|Georgia Southern|0.38
+Carter Hendricksen|North Florida|0.38
+Christian Guess|Samford|0.38
+A.J. Staton-McCray|Samford|0.38
+Wheza Panzo|Stetson|0.37
+Jamir Chaplin|South Florida|0.37
+Lunden McDay|Ohio|0.37
+Dalton Banks|Southern Illinois|0.37
+Fah'Mir Ali|Radford|0.37
+Jabe Mullins|Saint Mary's|0.37
+TJ Starks|Cal State Northridge|0.37
+Riley Grigsby|Seattle|0.37
+Brayan Au|Louisiana-Lafayette|0.37
+Kahliel Spear|Robert Morris|0.37
+Quinten Post|Mississippi State|0.36
+Mikey Watkins|Merrimack|0.36
+Delonnie Hunt|Wagner|0.36
+Kenny Cooper|Western Kentucky|0.35
+Derrick Walker|Nebraska|0.35
+Alex Watson|Sacred Heart|0.35
+Jaedon LeDee|TCU|0.35
+Ray Harrison|Presbyterian|0.35
+Justin Brown|South Florida|0.35
+Dylan Penn|Bellarmine|0.34
+Alex Rivera|Long Island|0.34
+Khristian Lander|Indiana|0.34
+Kevin Kangu|Oakland|0.33
+Jason Gibson|Towson|0.33
+Tyrese Samuel|Seton Hall|0.33
+Brantly Stevenson|Cal Poly|0.32
+Jordan McCabe|West Virginia|0.32
+Aaron Duhart|Army|0.32
+Warren Williams|Manhattan|0.32
+Mikey Howell|UC San Diego|0.31
+Angelo Allegri|UNC Greensboro|0.31
+Matt Johnson|Detroit|0.30
+Eddy Kayouloud|Central Arkansas|0.30
+Jordan Perkins|North Carolina Central|0.29
+Josiah Strong|Illinois State|0.29
+Devontae Lane|Central Michigan|0.29
+Donovan Sims|Middle Tennessee|0.29
+Devin Gilmore|Murray State|0.28
+Cory Hightower|Western Carolina|0.28
+Tyrel Bladen|Rider|0.28
+Pedro Castro|Houston Christian|0.28
+Amanze Ngumezi|Jacksonville State|0.27
+Tyler Thomas|Sacred Heart|0.27
+Tyler Stevenson|Southern Mississippi|0.27
+Daryl Banks III|Saint Peter's|0.27
+Quinn Slazinski|Louisville|0.26
+Filip Rebraca|North Dakota|0.26
+Alonzo Sule|Texas State|0.26
+Jase Townsend|Denver|0.26
+Kyonze Chavis|Norfolk State|0.26
+Ziggy Reid|Merrimack|0.25
+Dylan Branson|Southeast Missouri State|0.25
+Ezra Manjon|UC Davis|0.24
+Kasen Harrison|Lamar|0.24
+Tre King|Eastern Kentucky|0.23
+Mekhi Long|Old Dominion|0.23
+Elyjah Goss|IU Indy|0.23
+Ricky Lindo Jr.|George Washington|0.23
+John Mikey Square|Fairleigh Dickinson|0.23
+Jaylen Minnett|IU Indy|0.22
+Tre Williams|Indiana State|0.22
+Darius Banks|Chattanooga|0.22
+Keshawn Curry|VCU|0.22
+Andre Jones|Nicholls State|0.22
+Andrei Savrasov|Georgia Southern|0.21
+Jahlil Jenkins|Fairleigh Dickinson|0.21
+Nick Boyd|Florida Atlantic|0.21
+Jamari Blackmon|North Alabama|0.21
+Justyn Hamilton|Kent State|0.20
+Caleb Burgess|Hofstra|0.20
+Coty Jude|UNC Asheville|0.20
+Marvin Nesbitt Jr.|Missouri-Kansas City|0.20
+Riley Sorn|Washington|0.20
+Dereon Seabron|NC State|0.20
+Seventh Woods|South Carolina|0.20
+KJ Cunningham|Weber State|0.20
+Makale Foreman|California|0.20
+Jordan Phillips|UT Arlington|0.19
+Gabe Hadley|UC San Diego|0.19
+Travon Broadway Jr.|Central Michigan|0.19
+Victor Iwuakor|Oklahoma|0.19
+Cedrick Alley Jr.|UTSA|0.19
+Jamal Mashburn, Jr.|Minnesota|0.19
+Javion May|Sam Houston State|0.19
+Dante Treacy|Robert Morris|0.18
+Tory San Antonio|Cal State Fullerton|0.18
+Eric Reed, Jr.|Southeast Missouri State|0.18
+Ryan Allen|Delaware|0.18
+Nigel Hawkins|Stephen F. Austin|0.18
+Bitumba Baruti|East Carolina|0.18
+Trey Townsend|Oakland|0.17
+Mehkel Harvey|William & Mary|0.17
+Jalen Gaffney|Connecticut|0.17
+Lydell Elmore|High Point|0.16
+James Anderson|North Alabama|0.16
+Kalil Thomas|UMass Lowell|0.16
+Keishawn Davidson|Tennessee Tech|0.16
+Damari Milstead|San Francisco|0.15
+Kevion Nolan|Jacksonville|0.15
+Jack Clark|La Salle|0.15
+Alphonso Anderson|Utah State|0.14
+Rocket Watts|Michigan State|0.13
+Gideon George|BYU|0.13
+Sherwyn Devonish-Prince Jr.|Morgan State|0.13
+Jake Killingsworth|UC San Diego|0.13
+John Tonje|Colorado State|0.13
+Jordan Skipper-Brown|Eastern Illinois|0.13
+Xavier Castaneda|South Florida|0.12
+DeJuan Clayton|Coppin State|0.12
+Justin Hill|Longwood|0.11
+Elijah Olaniyi|Miami (Fla.)|0.10
+Tray Hollowell|Wofford|0.10
+Ville Tahvanainen|Bradley|0.09
+Ryan Moffatt|Colgate|0.09
+Takal Molson|Seton Hall|0.09
+Kareem Thompson|Oral Roberts|0.08
+Jeron Artest|UC Irvine|0.08
+Dusan Mahorcic|Illinois State|0.08
+Nick Stampley|Troy|0.08
+Blondeau Tchoukuiegno|New Hampshire|0.08
+Rubin Jones|North Texas|0.07
+Ricky Clemons|Campbell|0.07
+Duke Miles|Troy|0.07
+Kaden Metheny|Bowling Green|0.07
+DaQuan Smith|Murray State|0.06
+Abdou Ndiaye|Illinois State|0.06
+Brycen Long|Houston Christian|0.06
+Casey Morsell|Virginia|0.06
+Sam Mennenga|Davidson|0.06
+Kareem Reid|Gardner-Webb|0.06
+Myles Lewis|VMI|0.06
+Raheem Solomon|Niagara|0.05
+Anthony Duruji|Florida|0.05
+Alex Merkviladze|Cal State Northridge|0.05
+Joey Calcaterra|San Diego|0.05
+Zion Williams|Missouri-Kansas City|0.05
+Max Agbonkpolo|USC|0.05
+Collin Moore|Georgia State|0.05
+Algevon Eichelberger|Cleveland State|0.05
+Trevor Moore|Morgan State|0.04
+AJ Walker|Air Force|0.04
+James Bishop IV|George Washington|0.03
+AJ McGinnis|UNC Greensboro|0.03
+Tristan Jarrett|Jackson State|0.03
+Wildens Leveque|South Carolina|0.03
+Deandre Thomas|Mount St. Mary's|0.02
+Juan Felix Rodriguez|Stony Brook|0.02
+Biwali Bayles|Hawaii|0.02
+Jarren Cook|Sam Houston State|0.02
+Ellis Jefferson|Lamar|0.02
+Kaiden Rice|The Citadel|0.01
+Miryne Thomas|Ball State|0.01
+Austin Crowley|Ole Miss|0.01
+Parker Hazen|Lipscomb|0.01
+Nick Blake|UNLV|0.00
+Evan Clayborne|UNC Asheville|0.00
+Juwan Perdue|Jacksonville State|0.00
+Elijah Thomas|California Baptist|0.00
+Ronnie DeGray III|Massachusetts|-0.00
+Kashawn Charles|Eastern Illinois|-0.00
+Romeao Ferguson|Lipscomb|-0.01
+Avery Felts|Arkansas State|-0.01
+Brice Williams|Charlotte|-0.02
+Isiah Jasey|SMU|-0.02
+Jaron Pierre Jr.|Southern Mississippi|-0.02
+David Beatty|La Salle|-0.02
+Davion Bradford|Kansas State|-0.02
+Adam Kunkel|Xavier|-0.03
+Leo O'Boyle|Lafayette|-0.03
+Amin Adamu|Montana State|-0.03
+Brendan Adams|Connecticut|-0.03
+Payton Moore|Rice|-0.03
+TJ Bamba|Washington State|-0.03
+Bryce Daley|UMass Lowell|-0.04
+Matt Pile|Omaha|-0.04
+Justin Lewis|Marquette|-0.04
+Davion Buster|Lamar|-0.04
+Nikola Maric|Arkansas-Little Rock|-0.04
+Xavier Green|Old Dominion|-0.04
+Jonathan Aku|Texas A&M|-0.04
+Josh Cohen|Saint Francis (PA)|-0.06
+Ryan Boyce|Georgia State|-0.06
+Richard Njoku|Navy|-0.07
+Keshad Johnson|San Diego State|-0.07
+Nick Caldwell|Southeastern Louisiana|-0.07
+Mason Archambault|South Dakota|-0.07
+Samkelo Cele|Southern|-0.07
+Issac McBride|Vanderbilt|-0.08
+Cooper Robb|Eastern Kentucky|-0.08
+Ian Burke|Portland State|-0.08
+Ben Harvey|Southern Illinois|-0.08
+Graham Ike|Wyoming|-0.09
+Kenny Foster|Wyoming|-0.09
+Blaze Nield|Utah Valley|-0.09
+Jovon McClanahan|Hawaii|-0.09
+Elijah McCadden|Georgia Southern|-0.10
+Terell Strickland|James Madison|-0.10
+Ethan Esposito|Sacramento State|-0.10
+Kashaun Hicks|Norfolk State|-0.10
+Zach Jacobs|James Madison|-0.11
+Malik Porter|Idaho State|-0.11
+James Moors|Colorado State|-0.12
+Jordan Rawls|Western Kentucky|-0.12
+Dalvin White|South Carolina Upstate|-0.12
+EJ Bellinger|Belmont|-0.12
+Jaylen Walker|Navy|-0.12
+Connor Kochera|William & Mary|-0.13
+John Pettway|South Alabama|-0.13
+Amir Allen|Milwaukee|-0.13
+Justin Roberts|Niagara|-0.13
+Jordan Whitfield|Campbell|-0.13
+Jake Forrester|Temple|-0.13
+Brandon Whitney|Montana|-0.14
+Johnny McCoy|Delaware|-0.14
+Chris Shelton|Hampton|-0.14
+Evan Cole|Utah Valley|-0.14
+Julian Larry|Indiana State|-0.15
+Dravon Mangum|Radford|-0.15
+DeMarr Langford Jr.|Boston College|-0.15
+Amound Anderson|Cal State Northridge|-0.15
+Javonni Bickham|Denver|-0.15
+Terrell Williams Jr.|Southern|-0.16
+Chase Johnston|Stetson|-0.16
+Dajour Dickens|Hampton|-0.16
+Dou Gueye|Louisiana-Lafayette|-0.16
+Cameron Sheffield|Rice|-0.16
+Victor Ohia Obioha|Pepperdine|-0.16
+Javan Johnson|Iowa State|-0.16
+Josh Alexander|American|-0.17
+Nick Ongenda|DePaul|-0.18
+Jamaine Mann|Gardner-Webb|-0.18
+Jason Whitens|Western Michigan|-0.18
+Connor Nelson|American|-0.19
+Patrick Mwamba|UT Arlington|-0.19
+Rob Perry|Stetson|-0.19
+Camron Reece|Akron|-0.19
+Omari Moore|San Jose State|-0.19
+David Early|Marshall|-0.20
+Shakur Daniel|Tarleton State|-0.20
+Jordan King|Siena|-0.20
+Isiah Kirby|Southeastern Louisiana|-0.21
+Maciej Bender|Mercer|-0.21
+Jarius Cook|North Dakota State|-0.21
+David Nickelberry|Buffalo|-0.21
+Mark Carbone|California Baptist|-0.22
+Jamal Hartwell II|George Mason|-0.22
+Caleb Huffman|Central Michigan|-0.22
+Kayo Goncalves|South Alabama|-0.22
+Kani Acree|Ball State|-0.22
+Darius Beane|Northern Illinois|-0.22
+Volodymyr Markovetskyy|Washington State|-0.22
+Eron Gordon|Valparaiso|-0.23
+Joirdon Karl Nicholas|Texas Southern|-0.23
+Cainan McClelland|Jackson State|-0.23
+Ellis Magnuson|Eastern Washington|-0.23
+Trevell Cunningham|Grambling|-0.23
+Koreem Ozier|Louisiana-Monroe|-0.23
+Brendan McGuire|Quinnipiac|-0.23
+Quinn Clinton|Saint Mary's|-0.24
+Gabe Watson|Tulane|-0.24
+Joe Munden Jr.|Fairleigh Dickinson|-0.24
+LaDavius Draine|Southern Mississippi|-0.24
+Asante Gist|Iona|-0.24
+Sean Miller-Moore|Grand Canyon|-0.25
+DeShaun Wade|Longwood|-0.25
+KJ Johnson|Lipscomb|-0.25
+Charles Thompson|Towson|-0.25
+Michael Carter III|Long Beach State|-0.26
+Emmanuel Ansong|Green Bay|-0.26
+Messiah Thompson|Campbell|-0.26
+Michael Green III|Bryant|-0.27
+Zay Williams|Troy|-0.27
+Jalen Speer|Florida A&M|-0.27
+Eric Parrish|UTSA|-0.27
+Francis Lācis|Oral Roberts|-0.29
+Kevin Easley|TCU|-0.29
+Hakim Byrd|Marist|-0.29
+Tyler Brelsford|George Washington|-0.29
+Shakem Johnson|Tennessee State|-0.30
+Andrew Carr|Delaware|-0.30
+DeAndre Pinckney|Southern Mississippi|-0.30
+Xander Rice|Bucknell|-0.30
+Jawaun Daniels|Prairie View|-0.30
+Allen Betrand|Rhode Island|-0.30
+JaCobi Wood|Belmont|-0.31
+Jay Jay Chandler|Texas A&M|-0.31
+Brayden Parker|Idaho State|-0.31
+Caleb Murphy|South Florida|-0.32
+Perry Francois|Texas A&M-Corpus Christi|-0.32
+K.J. Hymes|Nevada|-0.32
+Cyrus Largie|Florida Gulf Coast|-0.33
+Braelon Bush|McNeese State|-0.33
+Ben Pyle|San Diego|-0.33
+Jordan Campbell|Fresno State|-0.33
+Justin McCall|Cal State Bakersfield|-0.33
+James Rojas|Alabama|-0.33
+Emon Washington|Illinois State|-0.33
+Robby Robinson|Nevada|-0.33
+Alimamy Koroma|Cal Poly|-0.34
+Brandon Rush|Fairleigh Dickinson|-0.34
+Rudi Williams|Kansas State|-0.34
+Sion James|Tulane|-0.34
+DJ Davis|UC Irvine|-0.34
+Nate Scott|Northern Illinois|-0.34
+Mikey Dixon|Grand Canyon|-0.34
+Salif Boudie|UMass Lowell|-0.35
+Blake Huggins|Ball State|-0.35
+Derrick Carter-Hollinger Jr.|Montana|-0.35
+Levi Stockard III|VCU|-0.35
+Scott Spencer|La Salle|-0.35
+Artur Konontsuk|Southern Mississippi|-0.35
+Luke Johnson|Loyola Maryland|-0.36
+Tyrese Jenkins|Norfolk State|-0.36
+Tyson Acuff|Duquesne|-0.36
+Kyndall Davis|Long Island|-0.36
+Trent Brown|Southern Illinois|-0.36
+Keaton Hervey|Missouri State|-0.36
+Tre'Shon Smoots|Northern Colorado|-0.37
+Tucker Blackwell|Army|-0.37
+Chase Adams|Portland|-0.37
+Xavier Johnson|George Mason|-0.37
+Essam Mostafa|Coastal Carolina|-0.37
+Tyreese Davis|Jacksonville|-0.37
+Bryce Thompson|Kansas|-0.37
+Greg Lee|Western Michigan|-0.37
+Jalen Jordan|Middle Tennessee|-0.39
+Braden Bell|Marist|-0.39
+Kristian Sjolund|UTEP|-0.39
+Dionte Bostick|Murray State|-0.39
+Keegan McDowell|Liberty|-0.40
+Jacob Ognacevic|Valparaiso|-0.40
+Nighael Ceaser|Texas State|-0.40
+Carlos Curtis|SIU Edwardsville|-0.40
+Jeremiah Gambrell|Prairie View|-0.40
+Babatunde Akingbola|Auburn|-0.41
+Brian White|Northwestern State|-0.41
+Mack Anderson|Montana|-0.41
+Trey Bonham|VMI|-0.41
+Raheim Sullivan|Marist|-0.41
+Kobe Langley|UNC Greensboro|-0.42
+Landis Spivey|Cal State Fullerton|-0.42
+Junior Madut|Hawaii|-0.42
+Marques Wilson|Lehigh|-0.42
+Geoff Hamperian|Youngstown State|-0.42
+Deon Stroud|Fresno State|-0.43
+Hunter Woods|Elon|-0.43
+Jaron Rillie|Samford|-0.43
+Shiloh Robinson|Liberty|-0.43
+Andrew Funk|Bucknell|-0.43
+Chris Youngblood|Kennesaw State|-0.44
+Brandon Davis|Sacramento State|-0.44
+Chris Mullins|Rice|-0.44
+Jermaine Jackson Jr.|Long Island|-0.45
+Jaylen Sebree|Morehead State|-0.45
+Galen Alexander|Texas Southern|-0.45
+Matey Juric|Drexel|-0.45
+Cameron Brown|Saint Joseph's|-0.45
+Bentiu Panoam|North Dakota|-0.46
+Trendon Hankerson|Northern Illinois|-0.46
+Damian Dunn|Temple|-0.46
+Adham Eleeda|Northern Kentucky|-0.46
+Keonte Kennedy|UTEP|-0.46
+Ronne Readus|Cal State Bakersfield|-0.46
+Jesus Cruz|Fairfield|-0.46
+Russell (Deuce) Dean|Hampton|-0.47
+Hassan Drame|Saint Peter's|-0.47
+Joe Reece|Old Dominion|-0.47
+Alyn Breed|Providence|-0.48
+Jaden Bediako|Santa Clara|-0.48
+Russhard Cruickshank|Eastern Kentucky|-0.48
+Jalin Anderson|Loyola Marymount|-0.48
+Donovan Clay|Valparaiso|-0.49
+Jordan Gilliam|Texas Southern|-0.49
+Simon Wright|Elon|-0.49
+Greg Kuakumensah|Niagara|-0.49
+Derek Webster, Jr.|The Citadel|-0.49
+Cameron Ba|UC Davis|-0.49
+Jermaine Harris|Rhode Island|-0.50
+Jahmyl Telfort|Northeastern|-0.50
+Vince Cole|St. John's|-0.50
+Darnell Rogers|UMBC|-0.50
+Kevin Cross|Tulane|-0.51
+Julius Marble|Michigan State|-0.51
+Tahj Small|Tarleton State|-0.51
+Ryan Betley|California|-0.51
+Miles Brown|Ohio|-0.51
+Saquan Singleton|New Mexico|-0.51
+Nate Heise|Northern Iowa|-0.51
+Samari Curtis|Evansville|-0.52
+Keith Smith|Cal Poly|-0.52
+Lance Ware|Kentucky|-0.53
+Kamar Robertson|Mercer|-0.53
+Osinachi Smart|College of Charleston|-0.53
+Lagio Grantsaan|Morgan State|-0.53
+Brandon Powell|Fairleigh Dickinson|-0.54
+Nana Antwi-Boasiako|Stephen F. Austin|-0.54
+Ody Oguama|Wake Forest|-0.54
+Maishe Dailey|Akron|-0.54
+Zac Watson|Longwood|-0.55
+Giordan Williams|Santa Clara|-0.55
+Jason Strong|Northeastern|-0.55
+Sammy Friday IV|Eastern Illinois|-0.56
+Mason Madsen|Cincinnati|-0.56
+Isaac Chatman|North Alabama|-0.56
+Dante Maddox Jr.|Cal State Fullerton|-0.56
+Ty Perry|Lafayette|-0.56
+Robby Beasley|Montana|-0.56
+Jacob Germany|UTSA|-0.56
+Leslie Nkereuwem|Longwood|-0.56
+Chris Maidoh|Fairfield|-0.56
+Jake Boggs|UNC Wilmington|-0.56
+Keeshawn Barthelemy|Colorado|-0.56
+Even Brauns|Belmont|-0.57
+Devin Tillis|UNLV|-0.57
+Bryce Johnson|Sacred Heart|-0.57
+Deante Johnson|Cleveland State|-0.58
+Fousseyni Drame|Saint Peter's|-0.58
+Abdul Mohamed|Montana State|-0.58
+Christian Agnew|UTEP|-0.58
+Mustafa Lawrence|Norfolk State|-0.58
+JJ Miles|East Carolina|-0.58
+KK Curry|South Alabama|-0.59
+Jordan Minor|Merrimack|-0.59
+Serrel Smith Jr.|East Tennessee State|-0.59
+Aaron Nettles|Seattle|-0.59
+Drew Lutz|Incarnate Word|-0.59
+Matthew Murrell|Ole Miss|-0.59
+Everett Winchester|Florida Atlantic|-0.59
+Deonte Billups|Fort Wayne|-0.59
+Marlon Ruffin|Omaha|-0.59
+Ajiri Ogemuno-Johnson|Rider|-0.60
+Mahamadou Diawara|Stetson|-0.60
+Exavian Christon|Louisiana Tech|-0.60
+Nana Akenten|Southeast Missouri State|-0.60
+Nevin Zink|South Carolina Upstate|-0.60
+Reed Nottage|California Baptist|-0.60
+Dontrell Shuler|Middle Tennessee|-0.61
+Tyree Ihenacho|North Dakota|-0.61
+Austin Davis|Michigan|-0.61
+Toby Okani|Duquesne|-0.62
+Erik Czumbel|UTSA|-0.62
+Zane Martin|Towson|-0.62
+Nick Johnson|New Hampshire|-0.62
+Dylan Swingle|Bowling Green|-0.62
+Jayce Johnson|Middle Tennessee|-0.62
+Golden Dike|Loyola Maryland|-0.63
+Quinn Blair|William & Mary|-0.63
+Judson Martindale|Holy Cross|-0.63
+Chase Hunter|Clemson|-0.63
+Sean Price|Charleston Southern|-0.63
+Kwe Parker|North Carolina A&T|-0.63
+Lamar Oden Jr.|Drexel|-0.64
+Jamie Ahale|Illinois-Chicago|-0.64
+George Conditt|Iowa State|-0.64
+Nicolas Timberlake|Towson|-0.65
+Jacob Tryon|Samford|-0.65
+Nobal Days|Tulane|-0.65
+Jamon Battle|UNC Asheville|-0.65
+Ryan Rapp|Washington State|-0.65
+Webster Filmore|North Carolina A&T|-0.66
+D.J. Harvey|Vanderbilt|-0.66
+Zahad Munford|Grambling|-0.66
+Dan Akin|UMBC|-0.66
+Josiah Allick|Missouri-Kansas City|-0.66
+Bryant Randleman|High Point|-0.67
+Malik Jefferson|Mount St. Mary's|-0.67
+Hunter Schofield|Utah Tech|-0.67
+Shamir Bogues|Tarleton State|-0.67
+Romelle Mansel|Long Beach State|-0.68
+Justin Hopkins|Texas Southern|-0.68
+Yeikson Montero|Eastern Michigan|-0.68
+Faite Williams|Prairie View|-0.68
+Antonio Reeves|Illinois State|-0.68
+Kevin Williamson|Coastal Carolina|-0.68
+David Wingett|South Dakota State|-0.69
+Caleb Fields|Arkansas State|-0.70
+Booty Butler|NJIT|-0.70
+Evan Johnson|Georgia State|-0.70
+Nendah Tarke|Coppin State|-0.71
+Isaiah Pope|Utah Tech|-0.71
+Demond Robinson|Murray State|-0.71
+Chris Childs|Bryant|-0.72
+Terreon Randolph|Grambling|-0.72
+Obinna Anochili-Killen|Marshall|-0.72
+Cam Young|Bowling Green|-0.72
+Nik Mains|Northern Arizona|-0.72
+Mike Saunders Jr.|Cincinnati|-0.72
+Christian Terrell|Sacramento State|-0.72
+Emmanuel Adedoyin|North Florida|-0.73
+Zach Anderson|Florida Gulf Coast|-0.73
+Mike Adewunmi|SIU Edwardsville|-0.73
+Shelby Adams|Texas State|-0.74
+Zion Griffin|Illinois-Chicago|-0.74
+Ali Ali|Akron|-0.74
+Fredelin De La Cruz|UT Arlington|-0.74
+Juston Betz|Bellarmine|-0.74
+Cam Burrell|Western Illinois|-0.75
+Danya Kingsby|Bradley|-0.75
+Tyler Cochran|Northern Illinois|-0.75
+Lavar Batts, Jr.|UNC Asheville|-0.75
+Junior Ballard|Fresno State|-0.75
+Jalon Pipkins|Fort Wayne|-0.75
+Noel Coleman|Hawaii|-0.75
+Justin Hemsley|Hawaii|-0.75
+Matt Beachler|Central Michigan|-0.76
+Dan Petcash|Binghamton|-0.76
+Nate Pryor|Washington|-0.76
+Cameron Copeland|College of Charleston|-0.77
+Winston Hill|Presbyterian|-0.77
+Patrick Emilien|Western Michigan|-0.77
+Manny Littles|North Alabama|-0.77
+Daylen Kountz|Northern Colorado|-0.77
+Luke Avdalovic|Northern Arizona|-0.78
+Harwin Francois|McNeese State|-0.78
+Hakon Hjalmarsson|Binghamton|-0.78
+James Karnik|Boston College|-0.78
+Shaquan Jules|Radford|-0.78
+Jaden McClanahan|Utah Valley|-0.78
+Carlos Rosario|McNeese State|-0.78
+Marko Andric|Arkansas-Little Rock|-0.78
+Robert Jones|Denver|-0.78
+Garrett Hien|Furman|-0.79
+Kur Jongkuch|Northern Colorado|-0.79
+Reginald Duhart Jr.|Appalachian State|-0.79
+Caden Sanchez|High Point|-0.80
+Gedi Juozapaitis|Georgia Southern|-0.80
+Konstantin Dotsenko|Tarleton State|-0.80
+Darious Hall|DePaul|-0.80
+Josiah Wallace|Eastern Illinois|-0.80
+Justin Thomas|Alcorn State|-0.80
+Mark Freeman|Tennessee State|-0.80
+Jamille Reynolds|UCF|-0.80
+Najee Garvin|Nicholls State|-0.80
+William Jeffress|Pittsburgh|-0.80
+Victor Enoh|Marist|-0.81
+Eric Lovett|Florida International|-0.81
+Tymu Chenery|Quinnipiac|-0.81
+Richardson Maitre|Samford|-0.81
+Shamiel Stevenson|Nebraska|-0.81
+Tywhon Pickford|Northern Iowa|-0.81
+Jordan McKenzie|Stony Brook|-0.81
+Julien Wooden|James Madison|-0.82
+Kurk Lee|Alcorn State|-0.82
+Harrison Henderson|Southern|-0.82
+Tae Hardy|Southern Mississippi|-0.82
+Samba Diallo|Manhattan|-0.82
+Sean Bairstow|Utah State|-0.82
+Connor Barrett|Valparaiso|-0.82
+Meikkel Murray|Central Michigan|-0.82
+Ladarius Marshall|New Orleans|-0.82
+Nick Ferrarini|Omaha|-0.83
+Chase Paar|George Washington|-0.83
+Lars Thiemann|California|-0.83
+Selton Miguel|Kansas State|-0.83
+B.J. Mack|Wofford|-0.83
+Heru Bligen|Longwood|-0.84
+Cavit Ege Havsa|Rice|-0.84
+Franco Miller Jr.|Florida Gulf Coast|-0.84
+Tafari Simms|Milwaukee|-0.84
+Luke Phillips|Louisiana-Monroe|-0.84
+Marcus Larsson|Incarnate Word|-0.85
+Christian Carlyle|Santa Clara|-0.85
+Lance Jones|Southern Illinois|-0.85
+Riley Abercrombie|Rice|-0.85
+Bryce Moragne|Florida A&M|-0.85
+Tre Mitchell|Central Connecticut|-0.85
+Myles Wilmoth|Butler|-0.86
+Jamal West Jr.|South Alabama|-0.86
+Caleb Fuller|UC Davis|-0.86
+Cole Bajema|Washington|-0.86
+Jacob Washington|Bowling Green|-0.86
+Joe Hampton|Long Beach State|-0.86
+Nigel Scantlebury|Central Connecticut|-0.86
+Eli Abaev|Florida Gulf Coast|-0.86
+Marko Lukic|Arkansas-Little Rock|-0.87
+Greg Eboigbodin|Northeastern|-0.88
+Matthew Moyer|George Washington|-0.88
+Kyle Jenkins|Lafayette|-0.88
+Deng Gak|Miami (Fla.)|-0.89
+Diego Willis|NJIT|-0.89
+Miguel Tomley|Santa Clara|-0.89
+Myles Thompson|Saint Francis (PA)|-0.89
+Samuel Chaput|Monmouth|-0.89
+Trey Galloway|Indiana|-0.90
+D.J. Jones|Florida A&M|-0.90
+Ryan Burkhardt|North Florida|-0.90
+George Willborn III|UC Riverside|-0.91
+Miles Latimer|Bucknell|-0.91
+Luis Kortright|Quinnipiac|-0.91
+Harlond Beverly|Miami (Fla.)|-0.91
+Ahmil Flowers|High Point|-0.91
+Keon Clergeot|Southeastern Louisiana|-0.92
+Demaree King|Jacksonville State|-0.92
+Dylan O'Hearn|NJIT|-0.92
+Dorian James|North Florida|-0.93
+Nolan Taylor|Southeast Missouri State|-0.93
+Jo'Vontae Millner-Criss|Middle Tennessee|-0.93
+Malik Edmead|Merrimack|-0.94
+J.J. Matthews|Norfolk State|-0.94
+Sherif Gross-Bullock|La Salle|-0.94
+Howie Fleming Jr.|Illinois State|-0.94
+Shawn Stith|Cal State Bakersfield|-0.95
+A.J. Hoggard|Michigan State|-0.96
+Rongie Gordon|UAB|-0.97
+Tariq Balogun|Eastern Kentucky|-0.97
+Jordyn Adams|Austin Peay|-0.97
+Jakigh Dottin|Towson|-0.98
+Quinton Morton-Robertson|Radford|-0.98
+Kyle Cardaci|Coppin State|-0.98
+Yvan Ouedraogo|Nebraska|-0.98
+JC Butler|UC Irvine|-0.98
+Austin Inge|Navy|-0.99
+Alejandro Vasquez|Saint Bonaventure|-0.99
+Karrington Wallace|Central Connecticut|-1.00
+Kam Gibson|Western Carolina|-1.01
+Taj Benning|Fairfield|-1.01
+Dontrell McQuarter|Rider|-1.02
+Xavier Lipscomb|Radford|-1.02
+Jarred Hyder|California|-1.02
+Franck Kamgain|Missouri-Kansas City|-1.02
+Ben Wight|William & Mary|-1.03
+Chris Lester|New Hampshire|-1.03
+P.J. Byrd|Colorado State|-1.03
+Caleb Green|Fairfield|-1.03
+Ismael Massoud|Wake Forest|-1.03
+Jan Zidek|Pepperdine|-1.04
+Jhery Matos|Charlotte|-1.04
+Tommy Bruner|South Carolina Upstate|-1.04
+Courtney Carter|SIU Edwardsville|-1.04
+Dequan Morris|Arkansas-Pine Bluff|-1.04
+Luke Appel|South Dakota State|-1.04
+Dontarius James|Jacksonville|-1.05
+David Muoka|Lamar|-1.05
+Ant Nelson|Manhattan|-1.05
+Kyle Luedtke|Omaha|-1.05
+William FitzPatrick|Sacramento State|-1.06
+Tyler Harris|Iowa State|-1.06
+Brandon Stroud|Kennesaw State|-1.07
+Matas Spokas|Sacred Heart|-1.07
+Aidan Carpenter|Siena|-1.07
+Chris Harris|Southeast Missouri State|-1.07
+Chris Ford|Norfolk State|-1.08
+PJ Fuller II|TCU|-1.08
+Gerrale Gates|Holy Cross|-1.08
+Avery Sullivan|Lamar|-1.08
+Ty Dalton|Houston Christian|-1.08
+Drake Jeffries|Wyoming|-1.08
+DeAndre Dishman|Middle Tennessee|-1.09
+Myja White|Miami (OH)|-1.09
+Ferron Flavors Jr.|Oklahoma State|-1.09
+Kobe Elvis|DePaul|-1.10
+Sedrick Altman|Pepperdine|-1.10
+Latrell Wrightsell Jr.|Cal State Fullerton|-1.10
+Nicholas Jones|Arkansas-Pine Bluff|-1.10
+Shakwon Barrett|Tennessee State|-1.10
+Christian Anigwe|UC Davis|-1.10
+Marcus Tsohonis|Washington|-1.11
+Andre Gordon|Texas A&M|-1.11
+Trent Buttrick|Penn State|-1.12
+Prince Moss|Grambling|-1.12
+Jamir Moultrie|North Carolina Central|-1.12
+Lukas Kisunas|Stanford|-1.12
+Austin Smellie|Idaho State|-1.13
+Quentin Scott|Texas State|-1.13
+Milos Supica|Charlotte|-1.13
+DJ Peavy|Austin Peay|-1.13
+Richard Washington|San Jose State|-1.13
+Yuat Alok|Coppin State|-1.13
+KeyShawn Feazell|McNeese State|-1.13
+C.J. Keyser|North Carolina Central|-1.13
+Savion Lewis|Quinnipiac|-1.13
+Tyrese Williams|Quinnipiac|-1.14
+Deven Palmer|North Carolina Central|-1.14
+Marlon Hargis|Saint Francis (PA)|-1.14
+Jaylen Fornes|Nicholls State|-1.15
+Jalen Cobb|Fordham|-1.16
+Ronell Giles, Jr.|Saint Francis (PA)|-1.16
+Kellon Taylor|Albany|-1.16
+Tyler Stephenson-Moore|Stony Brook|-1.16
+Japannah Kellogg|Green Bay|-1.16
+Jacob Eyman|Portland State|-1.18
+Bryson Mozone|South Carolina Upstate|-1.18
+Daxton Carr|Idaho State|-1.18
+Khalif Battle|Temple|-1.18
+Jacob Nicolds|Utah Tech|-1.19
+Logan Dye|Samford|-1.19
+Daniel Sackey|Valparaiso|-1.19
+Mitchell Sueker|North Dakota|-1.19
+Chryee Walker|Radford|-1.20
+Kyler Filewich|Southern Illinois|-1.20
+Nate Roberts|Washington|-1.20
+Nicolas Fennell|North Carolina Central|-1.20
+Donovann Toatley|Monmouth|-1.20
+Tarik Cool|Idaho State|-1.21
+Kane Milling|Nevada|-1.21
+Rob Howard|Illinois-Chicago|-1.22
+Zimi Nwokeji|Dayton|-1.22
+Aaron Clarke|Sacred Heart|-1.23
+Ajang Aguek|Northern Arizona|-1.23
+A.J. Lawson|McNeese State|-1.23
+Charlie Peterson|Army|-1.24
+Greg Tribble|Akron|-1.24
+Ricky Nelson|Texas-Rio Grande Valley|-1.24
+Nick MacDonald|Niagara|-1.24
+Cobie Barnes|Indiana State|-1.25
+Thomas Howell|Louisiana-Monroe|-1.25
+Caleb Nero|North Dakota|-1.25
+Frank Staine|Utah Tech|-1.25
+Demetric Horton|Fort Wayne|-1.26
+Spencer Rodgers|Kennesaw State|-1.26
+Luke Kasubke|Kansas State|-1.26
+Tyler Maye|North Carolina A&T|-1.26
+Jordan Love|Southeast Missouri State|-1.26
+Vincent Lee|Cal State Fullerton|-1.27
+Kaodirichi Akobundu-Ehiogu|UT Arlington|-1.27
+Grant Weatherford|Georgia Southern|-1.28
+Antwon Jackson|Arkansas State|-1.28
+Greg Outlaw|Central Connecticut|-1.28
+Jalen Warren|Florida Gulf Coast|-1.28
+Coleman Stucke|Northeastern|-1.28
+Rashad Williams|Oakland|-1.28
+Quinton Johnson II|Texas-Rio Grande Valley|-1.29
+Seybian Sims|North Dakota|-1.29
+Jaden Sayles|Stony Brook|-1.29
+Tre Clark|Rice|-1.29
+Mykel Derring|Merrimack|-1.30
+Darius Hannah|Bradley|-1.30
+Denny Slay|High Point|-1.30
+Brandon Swaby|Incarnate Word|-1.31
+Jalen Rucker|Army|-1.31
+Everette Hammond|South Carolina Upstate|-1.31
+Myles Stute|Vanderbilt|-1.31
+Jesus Carralero Martin|Campbell|-1.32
+Lamar Wright|SIU Edwardsville|-1.32
+Jonathan Jackson|Tarleton State|-1.32
+Cantavio Dutreil|Sacred Heart|-1.33
+Antonio Gordon|Kansas State|-1.33
+Ivan Madunic|Southern Utah|-1.34
+Tre' Williams|Minnesota|-1.35
+Jordan Davis|Middle Tennessee|-1.36
+Nolan Bertain|Texas A&M-Corpus Christi|-1.36
+Russell Harrison|Louisiana-Monroe|-1.37
+Rodney Henderson Jr.|Rider|-1.37
+Keyon Wesley|Arkansas State|-1.37
+Kjell de Graaf|NJIT|-1.38
+Carson Towt|Northern Arizona|-1.38
+Myles Smith|Texas A&M-Corpus Christi|-1.39
+Maurice Commander|Illinois-Chicago|-1.39
+Josh Smith|Stetson|-1.39
+Ryan Wade|Holy Cross|-1.39
+Noah Frederking|Evansville|-1.39
+Qon Murphy|New Hampshire|-1.40
+Gediminas Mokseckas|Campbell|-1.40
+James Lewis Jr.|Appalachian State|-1.40
+Omar Croskey|South Carolina State|-1.40
+Rahmir Moore|Saint Joseph's|-1.41
+Isaiah Hart|Loyola Maryland|-1.41
+Jonah Jackson|Drake|-1.42
+Blake Harris|North Carolina A&T|-1.42
+Bryce Laskey|Saint Francis (PA)|-1.42
+Yusuf Mohamed|Tennessee State|-1.43
+Courtney Brown Jr.|Milwaukee|-1.43
+Dakota Rivers|Florida Gulf Coast|-1.44
+Christian Willis|Arkansas State|-1.44
+C.J. Wilbourn|Milwaukee|-1.44
+Dwayne Rose Jr.|Detroit|-1.45
+Josh Endicott|North Florida|-1.45
+Tykei Greene|Stony Brook|-1.45
+Jamal King|Winthrop|-1.45
+C.J. Brim|North Alabama|-1.45
+Noah Morgan|Eastern Michigan|-1.45
+Demetrius Mims|Towson|-1.46
+Kam Farris|Robert Morris|-1.46
+Nate McClure|IU Indy|-1.46
+Ken Evans Jr.|Jackson State|-1.46
+Monty Johal|Tennessee State|-1.46
+C.J. Roberts|New Mexico State|-1.47
+Mervin James|North Alabama|-1.47
+Valdir Manuel|New Mexico|-1.47
+Kendal Coleman|Northwestern State|-1.47
+Tyler Saint-Furcy|Marist|-1.47
+Jackson Threadgill|Charlotte|-1.47
+Babacar Thiombane|Idaho|-1.48
+Logan Bracamonte|Incarnate Word|-1.48
+Josh Linder|Tennessee State|-1.48
+Jose Placer|North Florida|-1.48
+Mark Crowe|Cal Poly|-1.48
+Jovan Zelenbaba|Northwestern State|-1.48
+Chris Osten|Arizona State|-1.48
+Anthony Fairley|Alcorn State|-1.48
+James Jean-Marie|Hawaii|-1.48
+Rodney Carson Jr.|New Orleans|-1.49
+Pierre Mitchell|Central Michigan|-1.49
+Kamari Brown|Georgia Southern|-1.50
+Jahcobi Neath|Wake Forest|-1.50
+San Antonio Brinson|NJIT|-1.50
+Galin Smith|Maryland|-1.50
+Troymain Crosby|Alcorn State|-1.51
+Dearon Tucker|Oregon State|-1.52
+Tyrone Lyons|North Carolina A&T|-1.53
+Pier-Olivier Racine|Fairleigh Dickinson|-1.53
+Javian Davis|Mississippi State|-1.54
+Kaden Archie|Georgia Southern|-1.54
+Nick Gazelas|Montana State|-1.55
+Keaton Van Soelen|Air Force|-1.55
+Jake Wolfe|Lipscomb|-1.55
+Ahsante Shivers|Southern|-1.56
+Manny Crump|Sam Houston State|-1.56
+Jared Kimbrough|La Salle|-1.56
+Solomon Uyaelunmo|Towson|-1.56
+Reed Fenton|Lehigh|-1.57
+Borja Fernandez|Montana State|-1.58
+Trevon Reddish-Rhone|Presbyterian|-1.58
+Ludgy Debaut|East Carolina|-1.59
+Ahamadou Fofana|Canisius|-1.59
+Marion Humphrey|San Diego|-1.59
+Terrence Edwards Jr.|James Madison|-1.60
+Tyler Bertram|Binghamton|-1.61
+Tra'Michael Moton|Grambling|-1.61
+Jonathan Aybar|North Florida|-1.61
+Tshiefu Ngalakulondi|Fairfield|-1.61
+LJ Bryan|Morehead State|-1.61
+Justice Hill|Murray State|-1.62
+Trent Stephney|UNC Asheville|-1.63
+Armon Harried|Canisius|-1.63
+Carvell Teasett|Northwestern State|-1.64
+Kobe Williamson|Seattle|-1.64
+Brandon Younger|Presbyterian|-1.64
+Dimitrije Spasojevic|UMBC|-1.64
+Anthony Blunt|UMass Lowell|-1.65
+RJ Johnson|Holy Cross|-1.65
+Anthony Selden|Gardner-Webb|-1.66
+Jaxson Baker|Central Arkansas|-1.66
+Jacob Crews|North Florida|-1.67
+Chance Hunter|Long Beach State|-1.67
+Michael Steadman|Montana|-1.67
+Dwayne Koroma|Iona|-1.67
+Oddyst Walker|Alcorn State|-1.68
+Yahuza Rasas|Texas Southern|-1.68
+Manny Patterson|Southeast Missouri State|-1.68
+Larry Owens|Northwestern State|-1.68
+Rod Johnson|Western Illinois|-1.68
+Dalin Williams|Northwestern State|-1.69
+Bryce Beamer|Binghamton|-1.69
+Anwar Gill|La Salle|-1.70
+Greg Jones|Lipscomb|-1.70
+Javon Cooley|Marist|-1.70
+Tyler Patterson|Montana State|-1.71
+Alec Oglesby|Cleveland State|-1.71
+Fletcher Tynen|Boston University|-1.72
+Josh Bannan|Montana|-1.72
+Damien Sears|Nicholls State|-1.73
+Shamar Wright|SIU Edwardsville|-1.73
+Jayson Woodrich|Cleveland State|-1.73
+Jadin Booth|Omaha|-1.73
+Shandon Goldman|Tennessee Tech|-1.74
+Anthony Jones|Western Illinois|-1.74
+Bryce McBride|Eastern Michigan|-1.74
+Caleb Simmons|San Jose State|-1.74
+Eden Holt|Tennessee-Martin|-1.74
+Ethan Igbanugo|North Dakota|-1.74
+Nicolas Elame|UT Arlington|-1.75
+Nate Robinson|Seattle|-1.75
+Virshon Cotton|Long Island|-1.75
+Davis Steelman|UT Arlington|-1.77
+Jordan O'Neal|Alabama State|-1.77
+Marco Morency|Louisiana-Monroe|-1.77
+Latrell Jones|Portland|-1.78
+Terrance Banyard|Arkansas-Pine Bluff|-1.78
+Drake Dobbs|Liberty|-1.78
+Tylan Pope|Tulane|-1.80
+Malik Muhammad|Central Michigan|-1.81
+Tamell Pearson|Western Illinois|-1.82
+Josh Ayeni|Chattanooga|-1.82
+Chuck Champion|Albany|-1.82
+Brendon Brooks|Southern|-1.82
+Kaosi Ezeagu|Kansas State|-1.83
+RaeQuan Battle|Washington|-1.83
+LaTrell Tate|Alabama State|-1.83
+Jeremiah Buford|Nicholls State|-1.83
+Devin Butts|Louisiana-Lafayette|-1.84
+Myles Carter|Delaware State|-1.84
+Elijah Allen|Wagner|-1.84
+Ra Kpedi|Fort Wayne|-1.84
+Hannes Polla|Tennessee-Martin|-1.85
+Dominic Parolin|Lehigh|-1.85
+Titus Wright|Western Michigan|-1.85
+Joshua Aaron Reaves|Mount St. Mary's|-1.86
+Rafael Cruz Jr.|Western Michigan|-1.86
+Nikkei Rutty|Monmouth|-1.87
+Freddy Hicks|Tarleton State|-1.87
+Chris Efretuei|Louisiana-Monroe|-1.87
+Keyshawn Embery-Simpson|Tulsa|-1.87
+Amadou Sylla|Tennessee Tech|-1.88
+Kyle Rose|Fordham|-1.89
+E.J. Clark|Alabama State|-1.90
+Tyson Jackson|Middle Tennessee|-1.90
+Jeremiah Hernandez|Kent State|-1.90
+Dru Kuxhausen|McNeese State|-1.90
+Angus McWilliam|UC Riverside|-1.91
+Austin Johnson|UC Irvine|-1.94
+Maxwell Land|Saint Francis (PA)|-1.95
+Jemal Davis|South Carolina State|-1.95
+Jonas James|Jackson State|-1.95
+Harouna Sissoko|Illinois State|-1.95
+Tuukka Jaakkola|Cal Poly|-1.95
+Triston Chambers|Samford|-1.96
+Cameron Gooden|Utah Tech|-1.96
+Azariah Seay|IU Indy|-1.96
+Callum Baker|Fairleigh Dickinson|-1.96
+Emmanuel Kuac|New Mexico|-1.96
+Delor Johnson|Southern|-1.96
+Keaston Willis|Incarnate Word|-1.96
+Kevin McAdoo|Bradley|-1.97
+Corey Romich|Jacksonville|-1.97
+RayQuawndis Mitchell|Illinois-Chicago|-1.97
+Zool Kueth|Northern Illinois|-1.98
+Isaiah Marin|New Mexico|-1.98
+Markise Davis|Arkansas State|-1.98
+Bakari LaStrap|IU Indy|-1.99
+Randy Miller Jr.|Indiana State|-1.99
+Luis Rolon|Florida Gulf Coast|-2.00
+Justin Johnson|Southern Mississippi|-2.00
+Rod Brown|New Mexico|-2.00
+Darlinstone Dubar|Iowa State|-2.00
+Trey Robinson|Northern Kentucky|-2.00
+LaTerrance Reed|Northwestern State|-2.00
+Supreme Cook|Fairfield|-2.00
+Derek Sabin|Belmont|-2.01
+Preston Parks|Samford|-2.01
+La'Mel Robinson|Omaha|-2.01
+Demarius Pitts|Missouri-Kansas City|-2.02
+DeAngelo Epps|College of Charleston|-2.02
+Frankie Hughes|San Diego|-2.02
+Jordan McKoy|Merrimack|-2.02
+Evan Taylor|Lehigh|-2.02
+William Boyer-Richard|Western Michigan|-2.03
+Trey Sides|Jacksonville|-2.03
+David Böhm|Northern Kentucky|-2.04
+Denijay Harris|Southern Mississippi|-2.04
+TJ Moss|South Carolina|-2.05
+Dominik Fragala|Delaware State|-2.05
+Desmond Williams|Troy|-2.05
+Darrian Wilson|Jackson State|-2.05
+Destin Barnes|UC Santa Barbara|-2.06
+Peyton Smith|Texas A&M-Corpus Christi|-2.06
+Ameka Akaya|Air Force|-2.06
+Jacob Johnson|Missouri-Kansas City|-2.06
+Max Brooks|UMass Lowell|-2.06
+Ravel Moody|Tennessee State|-2.06
+Darion Spottsville|Eastern Michigan|-2.06
+Jared Cross|Army|-2.07
+Nygal Russell|Southeast Missouri State|-2.07
+DQ Nicholas|Southeast Missouri State|-2.07
+Josh Aldrich|South Carolina Upstate|-2.08
+Fidelis Okereke|Cal State Northridge|-2.08
+Xavier Wilson|Central Connecticut|-2.09
+Jared Chatham|Central Arkansas|-2.09
+Milos Stajcic|Campbell|-2.09
+Malik Hardmon|Alcorn State|-2.09
+Cam Bryant|Georgia Southern|-2.10
+D'Rell Roberts|Prairie View|-2.10
+James Beck|Miami (OH)|-2.10
+GianCarlo Valdez|Stetson|-2.10
+Isaiah Richards|Louisiana-Lafayette|-2.11
+Harp Hunter|Youngstown State|-2.11
+Jarvis Walker|Fort Wayne|-2.11
+Koby Thomas|Coppin State|-2.11
+Travion McCray|Western Carolina|-2.11
+Jairus Roberson|Northwestern State|-2.12
+Marcus Fitzgerald Jr.|Tennessee State|-2.13
+Jeremiah Oden|Wyoming|-2.13
+Jack Ballantyne|Long Island|-2.13
+Melvin Edwards Jr.|Charleston Southern|-2.14
+Iyen Enaruna|Evansville|-2.14
+Allen Powell|Rider|-2.15
+Deuce Turner|Bucknell|-2.15
+Jamir Reed|Central Connecticut|-2.16
+Emmanuel Izunabor|High Point|-2.16
+Reginald Gee|Austin Peay|-2.16
+Toni Rocak|UC San Diego|-2.16
+Deshon Parker|Appalachian State|-2.17
+Jayden Hardaway|Memphis|-2.17
+Justin Brookens|Western Illinois|-2.17
+Kasen Jennings|Kennesaw State|-2.18
+Jonas Visser|San Francisco|-2.18
+Uche Dibiamaka|Texas-Rio Grande Valley|-2.18
+Yahel Hill|Cleveland State|-2.19
+Ethan Brittain-Watts|Boston University|-2.19
+Mo Arnold|Jacksonville|-2.20
+Jadrian Tracey|Saint Joseph's|-2.20
+Steven Verplancken|Southern Illinois|-2.20
+Adong Makuoi|Northern Illinois|-2.21
+Sidney Wilson|SIU Edwardsville|-2.21
+Devin Kirby|Montana State|-2.21
+Anderson Kopp|Lamar|-2.22
+Marque Maultsby|New Hampshire|-2.23
+Dedric Boyd|Illinois State|-2.23
+Stephane Ayangma|Central Connecticut|-2.23
+Godsgift Ezedinma|Incarnate Word|-2.24
+Darius Bowser|Charleston Southern|-2.25
+Jamahri Harvey|UNC Wilmington|-2.25
+Charlie Daniels|Stephen F. Austin|-2.25
+Brady Danielson|North Dakota|-2.26
+Vladimir Pinchuk|San Diego|-2.27
+Jamaure Gregg|Northwestern State|-2.28
+Jalen Johnson|Alabama A&M|-2.28
+Bayron Matos|New Mexico|-2.29
+Marques Watson|Manhattan|-2.30
+Damaria Franklin|Tennessee Tech|-2.30
+Rudy Fitzgibbons III|The Citadel|-2.31
+Kenton Eskridge|Tennessee-Martin|-2.31
+Daniel Ogoro|Youngstown State|-2.31
+Darius Hicks|Jackson State|-2.32
+Ramean Hinton|Western Illinois|-2.35
+Mileek McMillan|Valparaiso|-2.35
+Deang Deang|Eastern Illinois|-2.35
+Bryce Pope|UC San Diego|-2.35
+Jason Thompson|Houston Christian|-2.35
+Eman Sertovic|Tennessee-Martin|-2.35
+Nicholas Kratholm|Niagara|-2.36
+Ronald Polite III|George Mason|-2.36
+Jahmel Myers|New Orleans|-2.36
+LeChaun DuHart|Maine|-2.37
+Ahren Freeman|New Orleans|-2.37
+Myles Baker|Central Connecticut|-2.37
+Ian Krishnan|Central Connecticut|-2.38
+Eli Lawrence|Middle Tennessee|-2.38
+Russel Tchewa|South Florida|-2.38
+Jamir Moore|Charleston Southern|-2.39
+Michael Henn|Portland|-2.40
+Cam Allen|Towson|-2.40
+Marvin Cannon|Charlotte|-2.40
+Jeremiah Pope|Rider|-2.41
+Scott Blakney|Idaho|-2.41
+Cameron Wilbon|Robert Morris|-2.42
+Mike Hood|Montana State|-2.42
+Dane Quest|Tennessee Tech|-2.43
+Lamont Berzat|New Orleans|-2.43
+Marcus Hopkins|Tennessee Tech|-2.43
+Noah Taitz|Stanford|-2.45
+Ron Mitchell|UMass Lowell|-2.46
+Isaiah Palermo|Arkansas-Little Rock|-2.46
+Kevion Stewart|Alabama State|-2.47
+Nathaniel Stokes|Bryant|-2.47
+Taelyr Gatlin|Denver|-2.47
+Bo Montgomery|Holy Cross|-2.47
+Zach Crisler|Fairfield|-2.50
+Dason Youngblood|Utah Tech|-2.50
+Tyler Harris|Western Carolina|-2.50
+Lenell Henry|Prairie View|-2.52
+Christian Ings|Rider|-2.52
+Junior Farquhar|Eastern Illinois|-2.52
+Paris Taylor|Green Bay|-2.55
+Markedric Bell|Arkansas-Pine Bluff|-2.55
+Jack Hemphill|Boston University|-2.55
+Armani Harris|Kennesaw State|-2.56
+Trayden Williams|Robert Morris|-2.56
+Takiula Fahrensohn|Portland|-2.56
+Brenden Tucker|College of Charleston|-2.57
+Roscoe Eastmond|Denver|-2.57
+Nic Lynch|Lehigh|-2.57
+Austin Harvell|Tennessee Tech|-2.57
+Brenton Mills|Binghamton|-2.59
+Elton Walker|Austin Peay|-2.59
+Trey Smith|San Jose State|-2.59
+Jalen Carey|Rhode Island|-2.60
+Jeremiah Francis|New Mexico|-2.60
+Wanjang Tut|Omaha|-2.60
+Philip McKenzie|Houston Christian|-2.61
+Damen Thacker|Idaho|-2.61
+Tim Ceaser|Coastal Carolina|-2.62
+Jordan Hairston|Texas A&M-Corpus Christi|-2.62
+Javonté Johnson|New Mexico|-2.63
+Khaleem Bennett|Central Arkansas|-2.63
+Isaiah Williams|Jackson State|-2.63
+Elijah Ifejeh|Southeastern Louisiana|-2.63
+Kirshon Thrash|Presbyterian|-2.65
+CJ White|Arkansas-Little Rock|-2.65
+David Pierce|Alcorn State|-2.65
+Ajani Kennedy|Tennessee-Martin|-2.65
+C. J. Jones|Northwestern State|-2.66
+Tai'Reon Joseph|Austin Peay|-2.67
+Daniel Banister|Hampton|-2.67
+Terrell Burden|Kennesaw State|-2.67
+Alex Peterson|Kennesaw State|-2.68
+Pinky Wiley|Delaware State|-2.68
+Grant Coleman|Milwaukee|-2.70
+Adrian Martin|Western Michigan|-2.70
+Shandon Brown|Niagara|-2.71
+Hunter Janacek|Houston Christian|-2.71
+Trever Irish|Long Beach State|-2.72
+Carter Whitt|Wake Forest|-2.72
+Quentin Jones|North Carolina A&T|-2.72
+Jonathan Nunez|Florida International|-2.73
+Colby Rogers|Cal Poly|-2.73
+Blake Lampman|Oakland|-2.73
+Des Balentine|Incarnate Word|-2.74
+Kieffer Punter|Troy|-2.74
+Ricardo Wright|Marist|-2.75
+Mekhi Gray|NJIT|-2.75
+Jade Tse|Houston Christian|-2.76
+Evins Desir|Florida A&M|-2.77
+Zion Young|Oakland|-2.80
+Tarojae Brake|Saint Peter's|-2.80
+Chris Austin|Fordham|-2.81
+Jahbril Price-Noel|Pacific|-2.82
+Austin Richie|Tulsa|-2.82
+Josiah Freeman|Western Michigan|-2.82
+Jaden Walker|Iowa State|-2.83
+Brent Davis|The Citadel|-2.83
+Ja'Mier Fletcher|Wagner|-2.84
+Shaun Doss Jr.|Arkansas-Pine Bluff|-2.84
+Madani Diarra|Eastern Illinois|-2.84
+Isaiah Lewis|Northern Arizona|-2.86
+LaQuan Butler Jr.|Texas-Rio Grande Valley|-2.87
+Elijah Hardy|Portland State|-2.88
+Byron Smith|Southeastern Louisiana|-2.89
+Charles Bain|Robert Morris|-2.90
+Detalian Brown|North Alabama|-2.90
+Christian Turner|Troy|-2.90
+Zach Newkirk|Central Connecticut|-2.92
+Jaden House|High Point|-2.92
+Anzac Rissetto|Charlotte|-2.93
+Eddie Davis|Portland|-2.95
+Alex Holt|High Point|-2.95
+Chris Joyce|Air Force|-2.96
+Vukasin Masic|Hofstra|-2.96
+Collin Cooper|Central Arkansas|-2.97
+Ralph Agee|San Jose State|-2.97
+Elijah McNamara|Miami (OH)|-2.97
+Lu'cye Patterson|Missouri State|-2.98
+Khydarius Smith|South Carolina Upstate|-2.98
+Christian Wilson|Longwood|-2.99
+Jamaal Walker|Chattanooga|-3.00
+Jace Roquemore|UC San Diego|-3.02
+Jesper Granlund|Longwood|-3.02
+John Hall|Portland State|-3.03
+Kobey Lam|Denver|-3.03
+Nikc Jackson|Air Force|-3.04
+Sarion McGee|Grambling|-3.06
+Eric Moenkhaus|Denver|-3.06
+Fred Cleveland Jr.|North Carolina A&T|-3.06
+Josh Colon-Navarro|Fordham|-3.07
+Emorie Knox|Charleston Southern|-3.08
+Iziah James|SIU Edwardsville|-3.11
+Garrett Hicks|Alabama A&M|-3.12
+Camren Pierce|Cal Poly|-3.13
+Dante Wilcox|Florida International|-3.14
+Raymond Bethea, Jr.|Hampton|-3.16
+Maurice Calloo|Oregon State|-3.16
+Gus Okafor|Southeastern Louisiana|-3.17
+Isaiah Rollins|Southern|-3.18
+Floyd Rideau Jr.|South Carolina State|-3.19
+Jordan Cousin|Alabama State|-3.19
+Carter Mahaney|Northern Arizona|-3.20
+SK Shittu|Central Arkansas|-3.20
+Sam Hines, Jr.|Denver|-3.21
+Tyler Millin|Middle Tennessee|-3.22
+Jalen Dalcourt|San Jose State|-3.23
+Kenny Strawbridge|Alabama State|-3.24
+Alex Vargo|Youngstown State|-3.25
+Ty Harper|Louisiana-Lafayette|-3.26
+Tanner Christensen|Idaho|-3.27
+Clythus Griffith Jr.|Portland|-3.28
+Glen McClintock|Air Force|-3.28
+DJ Jackson|Alabama State|-3.29
+Zach Kent|Delaware State|-3.30
+Sebastian Guitian|South Carolina State|-3.31
+Matt Balanc|Quinnipiac|-3.32
+Isiah Dasher|Portland|-3.32
+Jalen Leach|Fairfield|-3.34
+Jay Malone|Southern Mississippi|-3.35
+D'Marco Baucum|Delaware State|-3.36
+Gabe Quinnett|Idaho|-3.36
+Masai Olowokere|Central Arkansas|-3.37
+RJ Glasper|Oral Roberts|-3.37
+Marquis Godwin|Hampton|-3.38
+Henry Abraham|Eastern Illinois|-3.38
+Riley Till|Cal Poly|-3.38
+Tristan Green|Denver|-3.39
+Hunter Jack Madden|Idaho|-3.41
+Bobby Harvey|IU Indy|-3.43
+Ralph Bissainthe|Central Michigan|-3.45
+Atin Wright|Cal State Northridge|-3.45
+EJ Williams|Alabama A&M|-3.47
+Dezmond McKinney|North Dakota State|-3.48
+Tyler Jones|North Carolina A&T|-3.48
+Josh Morgan|Incarnate Word|-3.49
+Rahsaan Edwards|South Carolina State|-3.50
+John Jones|Texas Southern|-3.51
+Joe Kasperzyk|Southeastern Louisiana|-3.51
+Tyree Corbett|Alcorn State|-3.52
+Zahree Harrison|Saint Francis (PA)|-3.54
+Kaleb Thornton|Northern Illinois|-3.55
+Zeb Graham|Presbyterian|-3.56
+Marco Smith|Omaha|-3.57
+Martaz Robinson|Delaware State|-3.62
+Dahmir Bishop|Saint Joseph's|-3.62
+Javaunte Hawkins|Florida International|-3.62
+De'Lazarus Keys|Texas A&M-Corpus Christi|-3.64
+Kenyon Duling|North Carolina A&T|-3.64
+Devin Gordon|Mississippi Valley State|-3.64
+Kam Woods|Troy|-3.65
+Sin'Cere McMahon|Western Carolina|-3.65
+JonDarius Warren|Southeastern Louisiana|-3.66
+Andre Mulibea|Utah Tech|-3.67
+Za-Ontay Boothman|Houston Christian|-3.68
+Jason Douglas-Stanley|Manhattan|-3.70
+Ja'Vary Christmas|Idaho|-3.70
+Jaron Williams|Tennessee-Martin|-3.70
+Allin Blunt|UMass Lowell|-3.72
+Sam Masten|Northern Colorado|-3.72
+Miles Miller|Lipscomb|-3.74
+Joshuwan Johnson|Arkansas-Pine Bluff|-3.74
+Kenny White Jr.|Tennessee Tech|-3.76
+Festus Ndumanya|Cal State Northridge|-3.76
+Collin Warren|McNeese State|-3.77
+Colin Golson, Jr.|Siena|-3.82
+DeAndre Robinson|Idaho|-3.86
+Yuri Covington|William & Mary|-3.87
+Simeon Fryer|Texas A&M-Corpus Christi|-3.88
+Kamron Reaves|Florida A&M|-3.90
+Quinlan Bennett|Lamar|-3.94
+Zach Iyeyemi|Houston Christian|-3.95
+Erie Olonade|Louisiana-Monroe|-3.96
+Alvin Stredic|Arkansas-Pine Bluff|-3.97
+Terrance Thompson|Green Bay|-3.98
+Jalen White|Texas A&M-Corpus Christi|-3.99
+RJ Rhoden|Long Beach State|-4.00
+Kenan Sarvan|Coppin State|-4.01
+Tariq Simmons|South Carolina State|-4.02
+Desmond Polk|SIU Edwardsville|-4.03
+Kobe Sanders|Cal Poly|-4.04
+Jarod Greene|Utah Tech|-4.07
+Ethan Kilgore|Idaho|-4.07
+Daman Tate|Boston University|-4.12
+TJ Porter|Charleston Southern|-4.13
+Kelton Edwards|Grambling|-4.14
+Bryce Monroe|Sam Houston State|-4.14
+Tre Wood|Long Island|-4.16
+Petar Krivokapic|Florida International|-4.16
+Ja'Quavian Florence|Charleston Southern|-4.18
+DJ Heath|Alabama State|-4.18
+Chinedu Kingsley Okanu|Northern Illinois|-4.30
+Myles Pierre|Houston Christian|-4.30
+Ameer Bennett|Delaware State|-4.31
+Jalen Lynn|Arkansas-Pine Bluff|-4.33
+Sebastian Mendoza|San Jose State|-4.35
+Dwaine Jones|Coppin State|-4.40
+Ambaka Le Gregam|Presbyterian|-4.44
+Jay Green|Northern Arizona|-4.46
+Treylan Smith|Mississippi Valley State|-4.47
+Jevon Tatum|Alabama A&M|-4.52
+Lincoln Smith|Lamar|-4.52
+Brandon Battle|Alabama State|-4.55
+Miles Gibson|Eastern Michigan|-4.65
+Dyson Koehler|Cal Poly|-4.65
+Samson George|Central Arkansas|-4.69
+Darrius Hughes|Omaha|-4.70
+Byron Joshua|Alcorn State|-4.80
+Keith Haymon II|Northern Arizona|-4.82
+Anthony Thomas|Tennessee-Martin|-4.84
+Quavon Blackwood|Mississippi Valley State|-4.85
+Latavian Lawrence|South Carolina State|-4.91
+Xavier Johnson|Chicago State|-4.94
+Terry Collins|Mississippi Valley State|-5.00
+Lee'Andre Howard|Mississippi Valley State|-5.09
+Sam'i Roe|Omaha|-5.25
+Anthony Crump|Northern Illinois|-5.30
+Barlow Alleruzzo IV|Eastern Illinois|-5.40
+Brendan Harrick|Cal State Northridge|-5.50
+Dailin Smith|Alabama A&M|-5.55
+Themus Fulks|South Carolina State|-5.71
+Caleb Hunter|Mississippi Valley State|-5.89
+Keiondre Jefferson|Mississippi Valley State|-6.18
+Ronald Williams|Mississippi Valley State|-6.90
+Kam'Ron Blue|Mississippi Valley State|-7.45
+Alexander Perry|Mississippi Valley State|-10.47
