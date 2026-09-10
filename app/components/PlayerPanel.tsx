@@ -235,6 +235,20 @@ export default function PlayerPanel({ player, onClose }: PlayerPanelProps) {
             </p>
           )}
 
+          {/* Advanced metrics — room for more tiles to the right */}
+          {collegeStats?.adj_porpagatu != null && (
+            <div className="flex flex-wrap gap-3 mb-6">
+              <div className="px-3 py-2 rounded border border-gray-800 bg-gray-900/40 min-w-[76px]">
+                <p className="text-[10px] text-gray-500 font-mono uppercase tracking-wide mb-0.5">
+                  PRPG!
+                </p>
+                <p className="text-lg font-semibold text-white tabular-nums">
+                  {fmt(collegeStats.adj_porpagatu, "num")}
+                </p>
+              </div>
+            </div>
+          )}
+
           {/* Pre-draft stats */}
           <div>
             <p className="text-[10px] text-gray-500 font-mono uppercase tracking-widest mb-4">

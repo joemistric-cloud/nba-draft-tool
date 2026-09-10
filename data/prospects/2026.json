@@ -69,7 +69,8 @@
       "bpm": 11.7,
       "ws": 6.4,
       "ws_per_40": 0.209,
-      "ato_ratio": 1.19
+      "ato_ratio": 1.19,
+      "adj_porpagatu": 6.59
     },
     "outcome": null,
     "outcome_tags": []
@@ -144,7 +145,8 @@
       "bpm": 18.7,
       "ws": 10.4,
       "ws_per_40": 0.327,
-      "ato_ratio": 1.64
+      "ato_ratio": 1.64,
+      "adj_porpagatu": 7.59
     },
     "outcome": null,
     "outcome_tags": []
@@ -219,7 +221,8 @@
       "bpm": 14.1,
       "ws": 3.5,
       "ws_per_40": 0.198,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 4.69
     },
     "outcome": null,
     "outcome_tags": []
@@ -294,7 +297,8 @@
       "bpm": 14,
       "ws": 4.8,
       "ws_per_40": 0.254,
-      "ato_ratio": 1.35
+      "ato_ratio": 1.35,
+      "adj_porpagatu": 5.31
     },
     "outcome": null,
     "outcome_tags": []
@@ -369,7 +373,8 @@
       "bpm": 12.4,
       "ws": 7.1,
       "ws_per_40": 0.234,
-      "ato_ratio": 2.39
+      "ato_ratio": 2.39,
+      "adj_porpagatu": 6.46
     },
     "outcome": null,
     "outcome_tags": []
@@ -407,7 +412,10 @@
       "team": "GSW"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 5.83
+    }
   },
   {
     "id": "morez-johnson-2026",
@@ -479,7 +487,8 @@
       "bpm": 11.7,
       "ws": 5.8,
       "ws_per_40": 0.246,
-      "ato_ratio": 0.92
+      "ato_ratio": 0.92,
+      "adj_porpagatu": 4.34
     },
     "outcome": null,
     "outcome_tags": []
@@ -554,7 +563,8 @@
       "bpm": 10.5,
       "ws": 5.4,
       "ws_per_40": 0.208,
-      "ato_ratio": 1.94
+      "ato_ratio": 1.94,
+      "adj_porpagatu": 6.33
     },
     "outcome": null,
     "outcome_tags": []
@@ -629,7 +639,8 @@
       "bpm": 12,
       "ws": 6.4,
       "ws_per_40": 0.226,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 4.43
     },
     "outcome": null,
     "outcome_tags": []
@@ -704,7 +715,8 @@
       "bpm": 12.6,
       "ws": 6.6,
       "ws_per_40": 0.225,
-      "ato_ratio": 2.89
+      "ato_ratio": 2.89,
+      "adj_porpagatu": 4.96
     },
     "outcome": null,
     "outcome_tags": []
@@ -779,7 +791,8 @@
       "bpm": 10.5,
       "ws": 5.6,
       "ws_per_40": 0.191,
-      "ato_ratio": 1.33
+      "ato_ratio": 1.33,
+      "adj_porpagatu": 4.87
     },
     "outcome": null,
     "outcome_tags": []
@@ -854,7 +867,8 @@
       "bpm": 10.1,
       "ws": 6.2,
       "ws_per_40": 0.196,
-      "ato_ratio": 2.91
+      "ato_ratio": 2.91,
+      "adj_porpagatu": 6.66
     },
     "outcome": null,
     "outcome_tags": []
@@ -929,7 +943,8 @@
       "bpm": 9.4,
       "ws": 4.7,
       "ws_per_40": 0.168,
-      "ato_ratio": 1.08
+      "ato_ratio": 1.08,
+      "adj_porpagatu": 4.78
     },
     "outcome": null,
     "outcome_tags": []
@@ -1004,7 +1019,8 @@
       "bpm": 14.2,
       "ws": 4.9,
       "ws_per_40": 0.222,
-      "ato_ratio": 1.2
+      "ato_ratio": 1.2,
+      "adj_porpagatu": 3.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -1078,7 +1094,8 @@
       "bpm": 1.9,
       "ws": 0.1,
       "ws_per_40": 0.051,
-      "ato_ratio": 0.33
+      "ato_ratio": 0.33,
+      "adj_porpagatu": -0.07
     },
     "outcome": null,
     "outcome_tags": []
@@ -1153,7 +1170,8 @@
       "bpm": 10.2,
       "ws": 6.7,
       "ws_per_40": 0.191,
-      "ato_ratio": 2.44
+      "ato_ratio": 2.44,
+      "adj_porpagatu": 6.17
     },
     "outcome": null,
     "outcome_tags": []
@@ -1228,7 +1246,8 @@
       "bpm": 10.1,
       "ws": 5.6,
       "ws_per_40": 0.215,
-      "ato_ratio": 0.8
+      "ato_ratio": 0.8,
+      "adj_porpagatu": 5.58
     },
     "outcome": null,
     "outcome_tags": []
@@ -1303,7 +1322,8 @@
       "bpm": 7,
       "ws": 4,
       "ws_per_40": 0.143,
-      "ato_ratio": 2.5
+      "ato_ratio": 2.5,
+      "adj_porpagatu": 3.89
     },
     "outcome": null,
     "outcome_tags": []
@@ -1341,7 +1361,10 @@
       "team": "BKN"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.89
+    }
   },
   {
     "id": "allen-graves-2026",
@@ -1413,7 +1436,8 @@
       "bpm": 13.4,
       "ws": 5.3,
       "ws_per_40": 0.266,
-      "ato_ratio": 2.57
+      "ato_ratio": 2.57,
+      "adj_porpagatu": 4.12
     },
     "outcome": null,
     "outcome_tags": []
@@ -1488,7 +1512,8 @@
       "bpm": 11.3,
       "ws": 5,
       "ws_per_40": 0.198,
-      "ato_ratio": 2
+      "ato_ratio": 2,
+      "adj_porpagatu": 5.99
     },
     "outcome": null,
     "outcome_tags": []
@@ -1563,7 +1588,8 @@
       "bpm": 8.6,
       "ws": 4.5,
       "ws_per_40": 0.187,
-      "ato_ratio": 1.59
+      "ato_ratio": 1.59,
+      "adj_porpagatu": 3.55
     },
     "outcome": null,
     "outcome_tags": []
@@ -1638,7 +1664,8 @@
       "bpm": 9.4,
       "ws": 5.6,
       "ws_per_40": 0.177,
-      "ato_ratio": 2.24
+      "ato_ratio": 2.24,
+      "adj_porpagatu": 6.11
     },
     "outcome": null,
     "outcome_tags": []
@@ -1713,7 +1740,8 @@
       "bpm": 8.4,
       "ws": 4.6,
       "ws_per_40": 0.179,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 3.79
     },
     "outcome": null,
     "outcome_tags": []
@@ -1823,7 +1851,8 @@
       "bpm": 14.5,
       "ws": 6.6,
       "ws_per_40": 0.239,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 4.96
     },
     "outcome": null,
     "outcome_tags": []
@@ -1898,7 +1927,8 @@
       "bpm": 10.7,
       "ws": 4.1,
       "ws_per_40": 0.21,
-      "ato_ratio": 1.31
+      "ato_ratio": 1.31,
+      "adj_porpagatu": 5.24
     },
     "outcome": null,
     "outcome_tags": []
@@ -1973,7 +2003,8 @@
       "bpm": 13.1,
       "ws": 5.4,
       "ws_per_40": 0.242,
-      "ato_ratio": 1.26
+      "ato_ratio": 1.26,
+      "adj_porpagatu": 4.27
     },
     "outcome": null,
     "outcome_tags": []
@@ -2048,7 +2079,8 @@
       "bpm": 8.5,
       "ws": 5.7,
       "ws_per_40": 0.175,
-      "ato_ratio": 2.09
+      "ato_ratio": 2.09,
+      "adj_porpagatu": 4.36
     },
     "outcome": null,
     "outcome_tags": []
@@ -2123,7 +2155,8 @@
       "bpm": 9.8,
       "ws": 5.3,
       "ws_per_40": 0.199,
-      "ato_ratio": 1.18
+      "ato_ratio": 1.18,
+      "adj_porpagatu": 3.95
     },
     "outcome": null,
     "outcome_tags": []
@@ -2198,7 +2231,8 @@
       "bpm": 7.4,
       "ws": 4.3,
       "ws_per_40": 0.147,
-      "ato_ratio": 1.29
+      "ato_ratio": 1.29,
+      "adj_porpagatu": 3.87
     },
     "outcome": null,
     "outcome_tags": []
@@ -2273,7 +2307,8 @@
       "bpm": 13,
       "ws": 6.1,
       "ws_per_40": 0.226,
-      "ato_ratio": 1.92
+      "ato_ratio": 1.92,
+      "adj_porpagatu": 4.4
     },
     "outcome": null,
     "outcome_tags": []
@@ -2307,7 +2342,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 5.92
+    }
   },
   {
     "id": "henri-veesaar-2026",
@@ -2379,7 +2417,8 @@
       "bpm": 10.7,
       "ws": 5.1,
       "ws_per_40": 0.209,
-      "ato_ratio": 1.24
+      "ato_ratio": 1.24,
+      "adj_porpagatu": 4.75
     },
     "outcome": null,
     "outcome_tags": []
@@ -2454,7 +2493,8 @@
       "bpm": 7.5,
       "ws": 4.3,
       "ws_per_40": 0.189,
-      "ato_ratio": 0.78
+      "ato_ratio": 0.78,
+      "adj_porpagatu": 2.52
     },
     "outcome": null,
     "outcome_tags": []
@@ -2529,7 +2569,8 @@
       "bpm": 7.3,
       "ws": 4.4,
       "ws_per_40": 0.166,
-      "ato_ratio": 1.29
+      "ato_ratio": 1.29,
+      "adj_porpagatu": 3.97
     },
     "outcome": null,
     "outcome_tags": []
@@ -2604,7 +2645,8 @@
       "bpm": 9.8,
       "ws": 5.8,
       "ws_per_40": 0.173,
-      "ato_ratio": 3.03
+      "ato_ratio": 3.03,
+      "adj_porpagatu": 5.33
     },
     "outcome": null,
     "outcome_tags": []
@@ -2642,7 +2684,10 @@
       "team": "DEN"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.72
+    }
   },
   {
     "id": "emmanuel-sharp-2026",
@@ -2677,7 +2722,10 @@
       "team": "SAC"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.49
+    }
   },
   {
     "id": "nick-martinelli-2026",
@@ -2712,7 +2760,10 @@
       "team": "LAC"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 6.02
+    }
   },
   {
     "id": "baba-miller-2026",
@@ -2784,7 +2835,8 @@
       "bpm": 9.4,
       "ws": 4.6,
       "ws_per_40": 0.186,
-      "ato_ratio": 1.68
+      "ato_ratio": 1.68,
+      "adj_porpagatu": 3.29
     },
     "outcome": null,
     "outcome_tags": []
@@ -2885,7 +2937,10 @@
       "team": "HOU"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 7.23
+    }
   },
   {
     "id": "milos-uzan-2026",
@@ -2953,7 +3008,8 @@
       "bpm": 6.4,
       "ws": 4.1,
       "ws_per_40": 0.135,
-      "ato_ratio": 3.08
+      "ato_ratio": 3.08,
+      "adj_porpagatu": 2.78
     },
     "outcome": null,
     "outcome_tags": []
@@ -3022,7 +3078,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.57
+    }
   },
   {
     "id": "malique-brown-2026",
@@ -3057,7 +3116,10 @@
       "team": "SAS"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 1.75
+    }
   },
   {
     "id": "quadir-copeland-2026",
@@ -3125,7 +3187,8 @@
       "bpm": 7.7,
       "ws": 4.2,
       "ws_per_40": 0.171,
-      "ato_ratio": 2.32
+      "ato_ratio": 2.32,
+      "adj_porpagatu": 4.03
     },
     "outcome": null,
     "outcome_tags": []
@@ -3159,7 +3222,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 2.66
+    }
   },
   {
     "id": "ugonna-onyenso-2026",
@@ -3231,7 +3297,8 @@
       "bpm": 12.2,
       "ws": 3.5,
       "ws_per_40": 0.21,
-      "ato_ratio": 1.5
+      "ato_ratio": 1.5,
+      "adj_porpagatu": 2.16
     },
     "outcome": null,
     "outcome_tags": []
@@ -3302,7 +3369,8 @@
       "bpm": 7.6,
       "ws": 4.7,
       "ws_per_40": 0.163,
-      "ato_ratio": 1.04
+      "ato_ratio": 1.04,
+      "adj_porpagatu": 5.26
     },
     "outcome": null,
     "outcome_tags": []
@@ -3377,7 +3445,8 @@
       "bpm": 9.3,
       "ws": 4.5,
       "ws_per_40": 0.173,
-      "ato_ratio": 3
+      "ato_ratio": 3,
+      "adj_porpagatu": 2.85
     },
     "outcome": null,
     "outcome_tags": []
@@ -3411,7 +3480,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.3
+    }
   },
   {
     "id": "tucker-devries-2026",
@@ -3479,7 +3551,8 @@
       "bpm": 6.9,
       "ws": 3.4,
       "ws_per_40": 0.125,
-      "ato_ratio": 2.2
+      "ato_ratio": 2.2,
+      "adj_porpagatu": 3.17
     },
     "outcome": null,
     "outcome_tags": []
@@ -3517,7 +3590,10 @@
       "team": "NYK"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.63
+    }
   },
   {
     "id": "jakobi-gillespie-2026",
@@ -3552,7 +3628,10 @@
       "team": "SAS"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 5.01
+    }
   },
   {
     "id": "jaden-bradley-2026",
@@ -3587,7 +3666,10 @@
       "team": "TOR"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.79
+    }
   },
   {
     "id": "trey-kaufman-renn-2026",
@@ -3622,7 +3704,10 @@
       "team": "MIN"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.65
+    }
   },
   {
     "id": "tyler-bilodeau-2026",
@@ -3657,7 +3742,10 @@
       "team": "BKN"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.88
+    }
   },
   {
     "id": "izaiyah-nelson-2026",
@@ -3692,7 +3780,10 @@
       "team": "WAS"
     },
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.87
+    }
   },
   {
     "id": "motiejus-krivas-2026",
@@ -3760,7 +3851,8 @@
       "bpm": 11,
       "ws": 5.6,
       "ws_per_40": 0.232,
-      "ato_ratio": 0.85
+      "ato_ratio": 0.85,
+      "adj_porpagatu": 3.51
     },
     "outcome": null,
     "outcome_tags": []
@@ -3831,7 +3923,8 @@
       "bpm": 11,
       "ws": 5.9,
       "ws_per_40": 0.208,
-      "ato_ratio": 1.4
+      "ato_ratio": 1.4,
+      "adj_porpagatu": 4.83
     },
     "outcome": null,
     "outcome_tags": []
@@ -3902,7 +3995,8 @@
       "bpm": 9.8,
       "ws": 5.2,
       "ws_per_40": 0.195,
-      "ato_ratio": 1.37
+      "ato_ratio": 1.37,
+      "adj_porpagatu": 4.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -3973,7 +4067,8 @@
       "bpm": 6.5,
       "ws": 3,
       "ws_per_40": 0.14,
-      "ato_ratio": 1.15
+      "ato_ratio": 1.15,
+      "adj_porpagatu": 2.7
     },
     "outcome": null,
     "outcome_tags": []
@@ -4075,7 +4170,8 @@
       "bpm": 6.3,
       "ws": 4.1,
       "ws_per_40": 0.153,
-      "ato_ratio": 0.89
+      "ato_ratio": 0.89,
+      "adj_porpagatu": 4.04
     },
     "outcome": null,
     "outcome_tags": []
@@ -4146,7 +4242,8 @@
       "bpm": 7.8,
       "ws": 3.4,
       "ws_per_40": 0.149,
-      "ato_ratio": 2.21
+      "ato_ratio": 2.21,
+      "adj_porpagatu": 3.48
     },
     "outcome": null,
     "outcome_tags": []
@@ -4217,7 +4314,8 @@
       "bpm": 10.7,
       "ws": 5.6,
       "ws_per_40": 0.202,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 4.37
     },
     "outcome": null,
     "outcome_tags": []
@@ -4288,7 +4386,8 @@
       "bpm": 10.9,
       "ws": 4.3,
       "ws_per_40": 0.247,
-      "ato_ratio": 1.54
+      "ato_ratio": 1.54,
+      "adj_porpagatu": 3.51
     },
     "outcome": null,
     "outcome_tags": []
@@ -4359,7 +4458,8 @@
       "bpm": 5.4,
       "ws": 4,
       "ws_per_40": 0.146,
-      "ato_ratio": 1.17
+      "ato_ratio": 1.17,
+      "adj_porpagatu": 3.04
     },
     "outcome": null,
     "outcome_tags": []
@@ -4430,7 +4530,8 @@
       "bpm": 5.9,
       "ws": 2.8,
       "ws_per_40": 0.148,
-      "ato_ratio": 1.25
+      "ato_ratio": 1.25,
+      "adj_porpagatu": 1.54
     },
     "outcome": null,
     "outcome_tags": []
@@ -4501,7 +4602,8 @@
       "bpm": -0.9,
       "ws": 0.4,
       "ws_per_40": 0.037,
-      "ato_ratio": 0.91
+      "ato_ratio": 0.91,
+      "adj_porpagatu": 1.65
     },
     "outcome": null,
     "outcome_tags": []
@@ -4572,7 +4674,8 @@
       "bpm": 8.6,
       "ws": 3,
       "ws_per_40": 0.131,
-      "ato_ratio": 1.37
+      "ato_ratio": 1.37,
+      "adj_porpagatu": 1.4
     },
     "outcome": null,
     "outcome_tags": []
@@ -4643,7 +4746,8 @@
       "bpm": 2.7,
       "ws": 1.8,
       "ws_per_40": 0.072,
-      "ato_ratio": 2.09
+      "ato_ratio": 2.09,
+      "adj_porpagatu": 1.9
     },
     "outcome": null,
     "outcome_tags": []
@@ -4714,7 +4818,8 @@
       "bpm": 6.7,
       "ws": 3.4,
       "ws_per_40": 0.132,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 3.08
     },
     "outcome": null,
     "outcome_tags": []
@@ -4785,7 +4890,8 @@
       "bpm": 4.4,
       "ws": 3,
       "ws_per_40": 0.109,
-      "ato_ratio": 1.15
+      "ato_ratio": 1.15,
+      "adj_porpagatu": 4.29
     },
     "outcome": null,
     "outcome_tags": []
@@ -4856,7 +4962,8 @@
       "bpm": 12.3,
       "ws": 6.6,
       "ws_per_40": 0.22,
-      "ato_ratio": 2.68
+      "ato_ratio": 2.68,
+      "adj_porpagatu": 5.77
     },
     "outcome": null,
     "outcome_tags": []
@@ -4927,7 +5034,8 @@
       "bpm": 8.1,
       "ws": 3.4,
       "ws_per_40": 0.166,
-      "ato_ratio": 1.23
+      "ato_ratio": 1.23,
+      "adj_porpagatu": 3.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -4998,7 +5106,8 @@
       "bpm": 9.8,
       "ws": 4.1,
       "ws_per_40": 0.19,
-      "ato_ratio": 0.84
+      "ato_ratio": 0.84,
+      "adj_porpagatu": 5.26
     },
     "outcome": null,
     "outcome_tags": []
@@ -5069,7 +5178,8 @@
       "bpm": 11.4,
       "ws": 6.2,
       "ws_per_40": 0.221,
-      "ato_ratio": 1.25
+      "ato_ratio": 1.25,
+      "adj_porpagatu": 5.11
     },
     "outcome": null,
     "outcome_tags": []
@@ -5140,7 +5250,8 @@
       "bpm": 9.5,
       "ws": 4.5,
       "ws_per_40": 0.166,
-      "ato_ratio": 1.64
+      "ato_ratio": 1.64,
+      "adj_porpagatu": 2.61
     },
     "outcome": null,
     "outcome_tags": []
@@ -5211,7 +5322,8 @@
       "bpm": 7.7,
       "ws": 3.3,
       "ws_per_40": 0.164,
-      "ato_ratio": 1.38
+      "ato_ratio": 1.38,
+      "adj_porpagatu": 2.56
     },
     "outcome": null,
     "outcome_tags": []
@@ -5245,7 +5357,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 2.86
+    }
   },
   {
     "id": "jayden-ross-2026",
@@ -5313,7 +5428,8 @@
       "bpm": 7.1,
       "ws": 2.3,
       "ws_per_40": 0.146,
-      "ato_ratio": 1.33
+      "ato_ratio": 1.33,
+      "adj_porpagatu": 1.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -5384,7 +5500,8 @@
       "bpm": 4.2,
       "ws": 2.2,
       "ws_per_40": 0.098,
-      "ato_ratio": 1.47
+      "ato_ratio": 1.47,
+      "adj_porpagatu": 2.86
     },
     "outcome": null,
     "outcome_tags": []
@@ -5455,7 +5572,8 @@
       "bpm": 7,
       "ws": 3.3,
       "ws_per_40": 0.172,
-      "ato_ratio": 0.75
+      "ato_ratio": 0.75,
+      "adj_porpagatu": 2.05
     },
     "outcome": null,
     "outcome_tags": []
@@ -5526,7 +5644,8 @@
       "bpm": 4.5,
       "ws": 2,
       "ws_per_40": 0.107,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 1.55
     },
     "outcome": null,
     "outcome_tags": []
@@ -5560,7 +5679,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.05
+    }
   },
   {
     "id": "elyjah-freeman-2026",
@@ -5628,7 +5750,8 @@
       "bpm": 5.3,
       "ws": 2.6,
       "ws_per_40": 0.108,
-      "ato_ratio": 1.09
+      "ato_ratio": 1.09,
+      "adj_porpagatu": 2.4
     },
     "outcome": null,
     "outcome_tags": []
@@ -5699,7 +5822,8 @@
       "bpm": 3.8,
       "ws": 2.3,
       "ws_per_40": 0.127,
-      "ato_ratio": 0.52
+      "ato_ratio": 0.52,
+      "adj_porpagatu": 2.81
     },
     "outcome": null,
     "outcome_tags": []
@@ -5770,7 +5894,8 @@
       "bpm": 4.5,
       "ws": 3.2,
       "ws_per_40": 0.137,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 3.32
     },
     "outcome": null,
     "outcome_tags": []
@@ -5841,7 +5966,8 @@
       "bpm": 7.3,
       "ws": 3.7,
       "ws_per_40": 0.183,
-      "ato_ratio": 2.53
+      "ato_ratio": 2.53,
+      "adj_porpagatu": 2.16
     },
     "outcome": null,
     "outcome_tags": []
@@ -5912,7 +6038,8 @@
       "bpm": 5.7,
       "ws": 2.8,
       "ws_per_40": 0.127,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 0.92
     },
     "outcome": null,
     "outcome_tags": []
@@ -5983,7 +6110,8 @@
       "bpm": 4.1,
       "ws": 2.3,
       "ws_per_40": 0.127,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 2.33
     },
     "outcome": null,
     "outcome_tags": []
@@ -6054,7 +6182,8 @@
       "bpm": 6.6,
       "ws": 3.5,
       "ws_per_40": 0.138,
-      "ato_ratio": 0.86
+      "ato_ratio": 0.86,
+      "adj_porpagatu": 2.6
     },
     "outcome": null,
     "outcome_tags": []
@@ -6125,7 +6254,8 @@
       "bpm": 8,
       "ws": 3.9,
       "ws_per_40": 0.165,
-      "ato_ratio": 2.47
+      "ato_ratio": 2.47,
+      "adj_porpagatu": 2.99
     },
     "outcome": null,
     "outcome_tags": []
@@ -6196,7 +6326,8 @@
       "bpm": 5.9,
       "ws": 3.7,
       "ws_per_40": 0.124,
-      "ato_ratio": 4.22
+      "ato_ratio": 4.22,
+      "adj_porpagatu": 3.79
     },
     "outcome": null,
     "outcome_tags": []
@@ -6267,7 +6398,8 @@
       "bpm": 3.5,
       "ws": 2,
       "ws_per_40": 0.09,
-      "ato_ratio": 0.56
+      "ato_ratio": 0.56,
+      "adj_porpagatu": 0.89
     },
     "outcome": null,
     "outcome_tags": []
@@ -6338,7 +6470,8 @@
       "bpm": 1.8,
       "ws": 0.9,
       "ws_per_40": 0.063,
-      "ato_ratio": 1.33
+      "ato_ratio": 1.33,
+      "adj_porpagatu": 0.86
     },
     "outcome": null,
     "outcome_tags": []
@@ -6409,7 +6542,8 @@
       "bpm": 7.1,
       "ws": 5.1,
       "ws_per_40": 0.165,
-      "ato_ratio": 1.12
+      "ato_ratio": 1.12,
+      "adj_porpagatu": 4.95
     },
     "outcome": null,
     "outcome_tags": []
@@ -6443,7 +6577,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 0.77
+    }
   },
   {
     "id": "ben-humrichous-2026",
@@ -6511,7 +6648,8 @@
       "bpm": 8.3,
       "ws": 3.1,
       "ws_per_40": 0.152,
-      "ato_ratio": 4
+      "ato_ratio": 4,
+      "adj_porpagatu": 2.75
     },
     "outcome": null,
     "outcome_tags": []
@@ -6545,7 +6683,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.08
+    }
   },
   {
     "id": "boogie-fland-2026",
@@ -6613,7 +6754,8 @@
       "bpm": 7.1,
       "ws": 4,
       "ws_per_40": 0.152,
-      "ato_ratio": 2.19
+      "ato_ratio": 2.19,
+      "adj_porpagatu": 2.82
     },
     "outcome": null,
     "outcome_tags": []
@@ -6684,7 +6826,8 @@
       "bpm": 7.1,
       "ws": 3.9,
       "ws_per_40": 0.178,
-      "ato_ratio": 2.82
+      "ato_ratio": 2.82,
+      "adj_porpagatu": 4.37
     },
     "outcome": null,
     "outcome_tags": []
@@ -6755,7 +6898,8 @@
       "bpm": 5.1,
       "ws": 2.4,
       "ws_per_40": 0.127,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 2.24
     },
     "outcome": null,
     "outcome_tags": []
@@ -6826,7 +6970,8 @@
       "bpm": 5.3,
       "ws": 1.6,
       "ws_per_40": 0.136,
-      "ato_ratio": 0.2
+      "ato_ratio": 0.2,
+      "adj_porpagatu": 1.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -6897,7 +7042,8 @@
       "bpm": 4.4,
       "ws": 1.3,
       "ws_per_40": 0.11,
-      "ato_ratio": 1.2
+      "ato_ratio": 1.2,
+      "adj_porpagatu": 1.87
     },
     "outcome": null,
     "outcome_tags": []
@@ -6968,7 +7114,8 @@
       "bpm": 0.5,
       "ws": 1.6,
       "ws_per_40": 0.084,
-      "ato_ratio": 0.64
+      "ato_ratio": 0.64,
+      "adj_porpagatu": 0.78
     },
     "outcome": null,
     "outcome_tags": []
@@ -7002,7 +7149,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 3.57
+    }
   },
   {
     "id": "taylor-bol-bowen-2026",
@@ -7070,7 +7220,8 @@
       "bpm": 4.7,
       "ws": 1.5,
       "ws_per_40": 0.104,
-      "ato_ratio": 0.83
+      "ato_ratio": 0.83,
+      "adj_porpagatu": 1.51
     },
     "outcome": null,
     "outcome_tags": []
@@ -7176,7 +7327,8 @@
       "bpm": 7.4,
       "ws": 3.4,
       "ws_per_40": 0.164,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 2.7
     },
     "outcome": null,
     "outcome_tags": []
@@ -7247,7 +7399,8 @@
       "bpm": 4.7,
       "ws": 2,
       "ws_per_40": 0.113,
-      "ato_ratio": 0.96
+      "ato_ratio": 0.96,
+      "adj_porpagatu": 3.23
     },
     "outcome": null,
     "outcome_tags": []
@@ -7281,7 +7434,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 1.74
+    }
   },
   {
     "id": "cam-manyawu-2026",
@@ -7348,7 +7504,8 @@
       "bpm": 7,
       "ws": 3.2,
       "ws_per_40": 0.183,
-      "ato_ratio": 1.38
+      "ato_ratio": 1.38,
+      "adj_porpagatu": 2.45
     },
     "outcome": null,
     "outcome_tags": []
@@ -7419,7 +7576,8 @@
       "bpm": 3.5,
       "ws": 2.5,
       "ws_per_40": 0.088,
-      "ato_ratio": 1.61
+      "ato_ratio": 1.61,
+      "adj_porpagatu": 3.34
     },
     "outcome": null,
     "outcome_tags": []
@@ -7490,7 +7648,8 @@
       "bpm": 10.8,
       "ws": 5,
       "ws_per_40": 0.192,
-      "ato_ratio": 1.5
+      "ato_ratio": 1.5,
+      "adj_porpagatu": 3.82
     },
     "outcome": null,
     "outcome_tags": []
@@ -7565,7 +7724,8 @@
       "bpm": 5,
       "ws": 3.4,
       "ws_per_40": 0.122,
-      "ato_ratio": 1.11
+      "ato_ratio": 1.11,
+      "adj_porpagatu": 3.57
     },
     "outcome": null,
     "outcome_tags": []
@@ -7636,7 +7796,8 @@
       "bpm": 6.5,
       "ws": 3.7,
       "ws_per_40": 0.173,
-      "ato_ratio": 0.77
+      "ato_ratio": 0.77,
+      "adj_porpagatu": 3.7
     },
     "outcome": null,
     "outcome_tags": []
@@ -7707,7 +7868,8 @@
       "bpm": 5.2,
       "ws": 2.7,
       "ws_per_40": 0.11,
-      "ato_ratio": 1.87
+      "ato_ratio": 1.87,
+      "adj_porpagatu": 2.86
     },
     "outcome": null,
     "outcome_tags": []
@@ -7778,7 +7940,8 @@
       "bpm": 0.5,
       "ws": 1.1,
       "ws_per_40": 0.051,
-      "ato_ratio": 1.71
+      "ato_ratio": 1.71,
+      "adj_porpagatu": 1.3
     },
     "outcome": null,
     "outcome_tags": []
@@ -7849,7 +8012,8 @@
       "bpm": 4.3,
       "ws": 2.7,
       "ws_per_40": 0.176,
-      "ato_ratio": 1.22
+      "ato_ratio": 1.22,
+      "adj_porpagatu": 2.67
     },
     "outcome": null,
     "outcome_tags": []
@@ -7920,7 +8084,8 @@
       "bpm": 5.9,
       "ws": 2.5,
       "ws_per_40": 0.117,
-      "ato_ratio": 1.14
+      "ato_ratio": 1.14,
+      "adj_porpagatu": 2.47
     },
     "outcome": null,
     "outcome_tags": []
@@ -7991,7 +8156,8 @@
       "bpm": 0.7,
       "ws": 0.7,
       "ws_per_40": 0.07,
-      "ato_ratio": 0.92
+      "ato_ratio": 0.92,
+      "adj_porpagatu": 0.48
     },
     "outcome": null,
     "outcome_tags": []
@@ -8093,7 +8259,8 @@
       "bpm": 1.7,
       "ws": 0.9,
       "ws_per_40": 0.086,
-      "ato_ratio": 2.67
+      "ato_ratio": 2.67,
+      "adj_porpagatu": 1.08
     },
     "outcome": null,
     "outcome_tags": []
@@ -8164,7 +8331,8 @@
       "bpm": 9,
       "ws": 4.4,
       "ws_per_40": 0.185,
-      "ato_ratio": 1.88
+      "ato_ratio": 1.88,
+      "adj_porpagatu": 4.6
     },
     "outcome": null,
     "outcome_tags": []
@@ -8235,7 +8403,8 @@
       "bpm": 5.8,
       "ws": 3.4,
       "ws_per_40": 0.161,
-      "ato_ratio": 0.36
+      "ato_ratio": 0.36,
+      "adj_porpagatu": 2.25
     },
     "outcome": null,
     "outcome_tags": []
@@ -8306,7 +8475,8 @@
       "bpm": 5.6,
       "ws": 2.7,
       "ws_per_40": 0.141,
-      "ato_ratio": 2.14
+      "ato_ratio": 2.14,
+      "adj_porpagatu": 3.45
     },
     "outcome": null,
     "outcome_tags": []
@@ -8377,7 +8547,8 @@
       "bpm": 5.5,
       "ws": 3.5,
       "ws_per_40": 0.127,
-      "ato_ratio": 2.62
+      "ato_ratio": 2.62,
+      "adj_porpagatu": 3.58
     },
     "outcome": null,
     "outcome_tags": []
@@ -8448,7 +8619,8 @@
       "bpm": 6.9,
       "ws": 2.6,
       "ws_per_40": 0.191,
-      "ato_ratio": 0.83
+      "ato_ratio": 0.83,
+      "adj_porpagatu": 1.65
     },
     "outcome": null,
     "outcome_tags": []
@@ -8519,7 +8691,8 @@
       "bpm": 5.1,
       "ws": 3.3,
       "ws_per_40": 0.14,
-      "ato_ratio": 1.35
+      "ato_ratio": 1.35,
+      "adj_porpagatu": 1.76
     },
     "outcome": null,
     "outcome_tags": []
@@ -8590,7 +8763,8 @@
       "bpm": 4.2,
       "ws": 1.5,
       "ws_per_40": 0.167,
-      "ato_ratio": 4
+      "ato_ratio": 4,
+      "adj_porpagatu": 1.09
     },
     "outcome": null,
     "outcome_tags": []
@@ -8661,7 +8835,8 @@
       "bpm": 3.6,
       "ws": 1.6,
       "ws_per_40": 0.102,
-      "ato_ratio": 1.25
+      "ato_ratio": 1.25,
+      "adj_porpagatu": 1.3
     },
     "outcome": null,
     "outcome_tags": []
@@ -8732,7 +8907,8 @@
       "bpm": 5.9,
       "ws": 3.3,
       "ws_per_40": 0.175,
-      "ato_ratio": 0.86
+      "ato_ratio": 0.86,
+      "adj_porpagatu": 1.79
     },
     "outcome": null,
     "outcome_tags": []
@@ -8803,7 +8979,8 @@
       "bpm": 3.4,
       "ws": 1.1,
       "ws_per_40": 0.098,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 0.19
     },
     "outcome": null,
     "outcome_tags": []
@@ -8874,7 +9051,8 @@
       "bpm": 6.6,
       "ws": 3.6,
       "ws_per_40": 0.167,
-      "ato_ratio": 2.31
+      "ato_ratio": 2.31,
+      "adj_porpagatu": 2.46
     },
     "outcome": null,
     "outcome_tags": []
@@ -8945,7 +9123,8 @@
       "bpm": 4.7,
       "ws": 1.3,
       "ws_per_40": 0.121,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 1.7
     },
     "outcome": null,
     "outcome_tags": []
@@ -9016,7 +9195,8 @@
       "bpm": 3.7,
       "ws": 3.5,
       "ws_per_40": 0.134,
-      "ato_ratio": 1.25
+      "ato_ratio": 1.25,
+      "adj_porpagatu": 2.82
     },
     "outcome": null,
     "outcome_tags": []
@@ -9087,7 +9267,8 @@
       "bpm": 4.3,
       "ws": 1.7,
       "ws_per_40": 0.116,
-      "ato_ratio": 1.1
+      "ato_ratio": 1.1,
+      "adj_porpagatu": 1.05
     },
     "outcome": null,
     "outcome_tags": []
@@ -9158,7 +9339,8 @@
       "bpm": -1,
       "ws": 0.4,
       "ws_per_40": 0.114,
-      "ato_ratio": 0.76
+      "ato_ratio": 0.76,
+      "adj_porpagatu": 1.23
     },
     "outcome": null,
     "outcome_tags": []
@@ -9229,7 +9411,8 @@
       "bpm": 0.7,
       "ws": 0.8,
       "ws_per_40": 0.073,
-      "ato_ratio": 1.6
+      "ato_ratio": 1.6,
+      "adj_porpagatu": 0.9
     },
     "outcome": null,
     "outcome_tags": []
@@ -9300,7 +9483,8 @@
       "bpm": 3,
       "ws": 0.4,
       "ws_per_40": 0.09,
-      "ato_ratio": 1.1
+      "ato_ratio": 1.1,
+      "adj_porpagatu": 0.75
     },
     "outcome": null,
     "outcome_tags": []
@@ -9371,7 +9555,8 @@
       "bpm": 6.9,
       "ws": 2.6,
       "ws_per_40": 0.135,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 1.5
     },
     "outcome": null,
     "outcome_tags": []
@@ -9535,7 +9720,8 @@
       "bpm": 9.1,
       "ws": 2.7,
       "ws_per_40": 0.139,
-      "ato_ratio": 1.18
+      "ato_ratio": 1.18,
+      "adj_porpagatu": 3.66
     },
     "outcome": null,
     "outcome_tags": []
@@ -9699,7 +9885,8 @@
       "bpm": 8,
       "ws": 1.8,
       "ws_per_40": 0.155,
-      "ato_ratio": 2
+      "ato_ratio": 2,
+      "adj_porpagatu": 1.32
     },
     "outcome": null,
     "outcome_tags": []
@@ -9770,7 +9957,8 @@
       "bpm": 4.2,
       "ws": 0.8,
       "ws_per_40": 0.151,
-      "ato_ratio": 2.29
+      "ato_ratio": 2.29,
+      "adj_porpagatu": 1.61
     },
     "outcome": null,
     "outcome_tags": []
@@ -9872,7 +10060,8 @@
       "bpm": 4.4,
       "ws": 2.4,
       "ws_per_40": 0.115,
-      "ato_ratio": 1.08
+      "ato_ratio": 1.08,
+      "adj_porpagatu": 2.3
     },
     "outcome": null,
     "outcome_tags": []
@@ -9974,7 +10163,8 @@
       "bpm": 4.6,
       "ws": 2.1,
       "ws_per_40": 0.126,
-      "ato_ratio": 0.93
+      "ato_ratio": 0.93,
+      "adj_porpagatu": 1.58
     },
     "outcome": null,
     "outcome_tags": []
@@ -10008,7 +10198,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 1.67
+    }
   },
   {
     "id": "rj-lewis-2026",
@@ -10107,7 +10300,8 @@
       "bpm": 5.9,
       "ws": 2.9,
       "ws_per_40": 0.148,
-      "ato_ratio": 1.64
+      "ato_ratio": 1.64,
+      "adj_porpagatu": 2.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -10178,7 +10372,8 @@
       "bpm": 7.4,
       "ws": 4.4,
       "ws_per_40": 0.159,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 3.75
     },
     "outcome": null,
     "outcome_tags": []
@@ -10308,7 +10503,8 @@
       "bpm": 4.5,
       "ws": 1.1,
       "ws_per_40": 0.093,
-      "ato_ratio": 1.25
+      "ato_ratio": 1.25,
+      "adj_porpagatu": 0.62
     },
     "outcome": null,
     "outcome_tags": []
@@ -10410,7 +10606,8 @@
       "bpm": 6.1,
       "ws": 1.9,
       "ws_per_40": 0.14,
-      "ato_ratio": 1.38
+      "ato_ratio": 1.38,
+      "adj_porpagatu": 2.33
     },
     "outcome": null,
     "outcome_tags": []
@@ -10512,7 +10709,8 @@
       "bpm": 4.3,
       "ws": 0.4,
       "ws_per_40": 0.087,
-      "ato_ratio": 2.67
+      "ato_ratio": 2.67,
+      "adj_porpagatu": 1.39
     },
     "outcome": null,
     "outcome_tags": []
@@ -10583,7 +10781,8 @@
       "bpm": 0.7,
       "ws": 0.4,
       "ws_per_40": 0.051,
-      "ato_ratio": 1.11
+      "ato_ratio": 1.11,
+      "adj_porpagatu": 0.61
     },
     "outcome": null,
     "outcome_tags": []
@@ -10675,7 +10874,8 @@
       "tov_pct": 20.4,
       "ws": 2.5,
       "ws_per_40": 0.111,
-      "ato_ratio": 1.88
+      "ato_ratio": 1.88,
+      "adj_porpagatu": 0.51
     },
     "outcome": null,
     "outcome_tags": []
@@ -10746,7 +10946,8 @@
       "bpm": 2.8,
       "ws": 1.9,
       "ws_per_40": 0.095,
-      "ato_ratio": 2.25
+      "ato_ratio": 2.25,
+      "adj_porpagatu": 1.76
     },
     "outcome": null,
     "outcome_tags": []
@@ -10817,7 +11018,8 @@
       "bpm": 3.7,
       "ws": 1.9,
       "ws_per_40": 0.092,
-      "ato_ratio": 3.43
+      "ato_ratio": 3.43,
+      "adj_porpagatu": 1.83
     },
     "outcome": null,
     "outcome_tags": []
@@ -10888,7 +11090,8 @@
       "bpm": 1.7,
       "ws": 0.9,
       "ws_per_40": 0.078,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 0.61
     },
     "outcome": null,
     "outcome_tags": []
@@ -11051,7 +11254,8 @@
       "bpm": 2.5,
       "ws": 2.2,
       "ws_per_40": 0.102,
-      "ato_ratio": 0.53
+      "ato_ratio": 0.53,
+      "adj_porpagatu": 2.31
     },
     "outcome": null,
     "outcome_tags": []
@@ -11122,7 +11326,8 @@
       "bpm": 2.9,
       "ws": 0.6,
       "ws_per_40": 0.11,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 0.86
     },
     "outcome": null,
     "outcome_tags": []
@@ -11193,7 +11398,8 @@
       "bpm": 6.5,
       "ws": 2.2,
       "ws_per_40": 0.174,
-      "ato_ratio": 0.5
+      "ato_ratio": 0.5,
+      "adj_porpagatu": 1.71
     },
     "outcome": null,
     "outcome_tags": []
@@ -11227,7 +11433,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 4.03
+    }
   },
   {
     "id": "aiden-sherrell-2026",
@@ -11295,7 +11504,8 @@
       "bpm": 9.6,
       "ws": 3.7,
       "ws_per_40": 0.18,
-      "ato_ratio": 1.22
+      "ato_ratio": 1.22,
+      "adj_porpagatu": 3.6
     },
     "outcome": null,
     "outcome_tags": []
@@ -11366,7 +11576,8 @@
       "bpm": 0.2,
       "ws": 1.4,
       "ws_per_40": 0.114,
-      "ato_ratio": 0.67
+      "ato_ratio": 0.67,
+      "adj_porpagatu": 1.01
     },
     "outcome": null,
     "outcome_tags": []
@@ -11437,7 +11648,8 @@
       "bpm": 6.7,
       "ws": 2.5,
       "ws_per_40": 0.137,
-      "ato_ratio": 1.33
+      "ato_ratio": 1.33,
+      "adj_porpagatu": 2.22
     },
     "outcome": null,
     "outcome_tags": []
@@ -11567,7 +11779,8 @@
       "bpm": 5.6,
       "ws": 3.1,
       "ws_per_40": 0.15,
-      "ato_ratio": 2.55
+      "ato_ratio": 2.55,
+      "adj_porpagatu": 2.37
     },
     "outcome": null,
     "outcome_tags": []
@@ -11638,7 +11851,8 @@
       "bpm": 0.2,
       "ws": 0.8,
       "ws_per_40": 0.081,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 0.63
     },
     "outcome": null,
     "outcome_tags": []
@@ -11708,7 +11922,8 @@
       "bpm": 9.5,
       "ws": 0.4,
       "ws_per_40": 0.193,
-      "ato_ratio": 1
+      "ato_ratio": 1,
+      "adj_porpagatu": 0.35
     },
     "outcome": null,
     "outcome_tags": []
@@ -11779,7 +11994,8 @@
       "bpm": 7.5,
       "ws": 4.8,
       "ws_per_40": 0.192,
-      "ato_ratio": 0.89
+      "ato_ratio": 0.89,
+      "adj_porpagatu": 3.74
     },
     "outcome": null,
     "outcome_tags": []
@@ -11850,7 +12066,8 @@
       "bpm": 1.7,
       "ws": 1.6,
       "ws_per_40": 0.111,
-      "ato_ratio": 0.92
+      "ato_ratio": 0.92,
+      "adj_porpagatu": 1.59
     },
     "outcome": null,
     "outcome_tags": []
@@ -12014,7 +12231,8 @@
       "bpm": -1.5,
       "ws": 0.1,
       "ws_per_40": 0.069,
-      "ato_ratio": 1.67
+      "ato_ratio": 1.67,
+      "adj_porpagatu": 0.31
     },
     "outcome": null,
     "outcome_tags": []
@@ -12085,7 +12303,8 @@
       "bpm": 3.4,
       "ws": 1,
       "ws_per_40": 0.1,
-      "ato_ratio": 2.72
+      "ato_ratio": 2.72,
+      "adj_porpagatu": 3.29
     },
     "outcome": null,
     "outcome_tags": []
@@ -12156,7 +12375,8 @@
       "bpm": 1.2,
       "ws": 1,
       "ws_per_40": 0.111,
-      "ato_ratio": 0.43
+      "ato_ratio": 0.43,
+      "adj_porpagatu": 0.95
     },
     "outcome": null,
     "outcome_tags": []
@@ -12227,7 +12447,8 @@
       "bpm": 4.8,
       "ws": 2.6,
       "ws_per_40": 0.108,
-      "ato_ratio": 1.12
+      "ato_ratio": 1.12,
+      "adj_porpagatu": 1.77
     },
     "outcome": null,
     "outcome_tags": []
@@ -12329,7 +12550,8 @@
       "bpm": -11.2,
       "ws": -0.1,
       "ws_per_40": -0.046,
-      "ato_ratio": 2
+      "ato_ratio": 2,
+      "adj_porpagatu": 3.72
     },
     "outcome": null,
     "outcome_tags": []
@@ -12435,7 +12657,8 @@
       "bpm": 5.5,
       "ws": 3.3,
       "ws_per_40": 0.14,
-      "ato_ratio": 0.5
+      "ato_ratio": 0.5,
+      "adj_porpagatu": 2.18
     },
     "outcome": null,
     "outcome_tags": []
@@ -12537,7 +12760,8 @@
       "bpm": 0.4,
       "ws": 0.4,
       "ws_per_40": 0.059,
-      "ato_ratio": 1.42
+      "ato_ratio": 1.42,
+      "adj_porpagatu": 0.65
     },
     "outcome": null,
     "outcome_tags": []
@@ -12608,7 +12832,8 @@
       "bpm": 3.1,
       "ws": 2.5,
       "ws_per_40": 0.104,
-      "ato_ratio": 1.75
+      "ato_ratio": 1.75,
+      "adj_porpagatu": 2.57
     },
     "outcome": null,
     "outcome_tags": []
@@ -12679,7 +12904,8 @@
       "bpm": 4.9,
       "ws": 4.5,
       "ws_per_40": 0.162,
-      "ato_ratio": 0.58
+      "ato_ratio": 0.58,
+      "adj_porpagatu": 2.53
     },
     "outcome": null,
     "outcome_tags": []
@@ -12713,7 +12939,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 2.67
+    }
   },
   {
     "id": "jalen-warley-2026",
@@ -12780,7 +13009,8 @@
       "bpm": 8.4,
       "ws": 3.6,
       "ws_per_40": 0.202,
-      "ato_ratio": 2.33
+      "ato_ratio": 2.33,
+      "adj_porpagatu": 1.99
     },
     "outcome": null,
     "outcome_tags": []
@@ -12882,7 +13112,8 @@
       "bpm": -0.4,
       "ws": 0.7,
       "ws_per_40": 0.084,
-      "ato_ratio": 0.33
+      "ato_ratio": 0.33,
+      "adj_porpagatu": 0.23
     },
     "outcome": null,
     "outcome_tags": []
@@ -12953,7 +13184,8 @@
       "bpm": 1.1,
       "ws": 2.3,
       "ws_per_40": 0.11,
-      "ato_ratio": 1.06
+      "ato_ratio": 1.06,
+      "adj_porpagatu": 1.65
     },
     "outcome": null,
     "outcome_tags": []
@@ -12987,7 +13219,10 @@
     "notes": "",
     "drafted": null,
     "outcome": null,
-    "outcome_tags": []
+    "outcome_tags": [],
+    "college_stats": {
+      "adj_porpagatu": 2.61
+    }
   },
   {
     "id": "quincy-ballard-2026",
@@ -13054,7 +13289,8 @@
       "bpm": 2.7,
       "ws": 1.7,
       "ws_per_40": 0.107,
-      "ato_ratio": 0.67
+      "ato_ratio": 0.67,
+      "adj_porpagatu": 1.5
     },
     "outcome": null,
     "outcome_tags": []

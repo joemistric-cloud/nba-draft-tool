@@ -31,7 +31,9 @@
       "round": null,
       "team": "DAL"
     },
-    "college_stats": null,
+    "college_stats": {
+      "adj_porpagatu": 2.95
+    },
     "outcome": null,
     "outcome_tags": []
   },
@@ -67,7 +69,9 @@
       "round": null,
       "team": "DEN"
     },
-    "college_stats": null,
+    "college_stats": {
+      "adj_porpagatu": 3.48
+    },
     "outcome": null,
     "outcome_tags": []
   },
@@ -103,7 +107,9 @@
       "round": null,
       "team": "GSW"
     },
-    "college_stats": null,
+    "college_stats": {
+      "adj_porpagatu": 2.7
+    },
     "outcome": null,
     "outcome_tags": []
   },
