@@ -236,16 +236,28 @@ export default function PlayerPanel({ player, onClose }: PlayerPanelProps) {
           )}
 
           {/* Advanced metrics — room for more tiles to the right */}
-          {collegeStats?.adj_porpagatu != null && (
+          {(collegeStats?.adj_porpagatu != null || collegeStats?.bpr != null) && (
             <div className="flex flex-wrap gap-3 mb-6">
-              <div className="px-3 py-2 rounded border border-gray-800 bg-gray-900/40 min-w-[76px]">
-                <p className="text-[10px] text-gray-500 font-mono uppercase tracking-wide mb-0.5">
-                  PRPG!
-                </p>
-                <p className="text-lg font-semibold text-white tabular-nums">
-                  {fmt(collegeStats.adj_porpagatu, "num")}
-                </p>
-              </div>
+              {collegeStats?.adj_porpagatu != null && (
+                <div className="px-3 py-2 rounded border border-gray-800 bg-gray-900/40 min-w-[76px]">
+                  <p className="text-[10px] text-gray-500 font-mono uppercase tracking-wide mb-0.5">
+                    PRPG!
+                  </p>
+                  <p className="text-lg font-semibold text-white tabular-nums">
+                    {fmt(collegeStats.adj_porpagatu, "num")}
+                  </p>
+                </div>
+              )}
+              {collegeStats?.bpr != null && (
+                <div className="px-3 py-2 rounded border border-gray-800 bg-gray-900/40 min-w-[76px]">
+                  <p className="text-[10px] text-gray-500 font-mono uppercase tracking-wide mb-0.5">
+                    BPR
+                  </p>
+                  <p className="text-lg font-semibold text-white tabular-nums">
+                    {fmt(collegeStats.bpr, "num")}
+                  </p>
+                </div>
+              )}
             </div>
           )}
 

@@ -32,7 +32,8 @@
       "team": "DAL"
     },
     "college_stats": {
-      "adj_porpagatu": 2.95
+      "adj_porpagatu": 2.95,
+      "bpr": 2.2
     },
     "outcome": null,
     "outcome_tags": []
@@ -70,7 +71,8 @@
       "team": "DEN"
     },
     "college_stats": {
-      "adj_porpagatu": 3.48
+      "adj_porpagatu": 3.48,
+      "bpr": 6.58
     },
     "outcome": null,
     "outcome_tags": []
@@ -108,7 +110,8 @@
       "team": "GSW"
     },
     "college_stats": {
-      "adj_porpagatu": 2.7
+      "adj_porpagatu": 2.7,
+      "bpr": 4.56
     },
     "outcome": null,
     "outcome_tags": []
